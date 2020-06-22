@@ -1,0 +1,4 @@
+FADD:/NewFolder
+FMV:/NewFolder:/0x02-easy-one
+IADD:00000001:/0x02-easy-one/easy_one
+IDSET:/0x02-easy-one/easy_one:c0a8117dc5066141598521921

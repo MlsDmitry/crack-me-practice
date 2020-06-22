@@ -1,0 +1,14 @@
+{
+  "name": "frida-cbinaries",
+  "version": "1.0.0",
+  "description": "Frida binaries learning",
+  "private": true,
+  "main": "agent.js",
+  "scripts": {
+    "test": "echo hello"
+  },
+  "devDependencies": {
+    "@types/frida-gum": "^15.3.0",
+    "@types/node": "^14.0.5"
+  }
+}
