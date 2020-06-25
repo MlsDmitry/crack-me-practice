@@ -2,3 +2,5 @@
 .DS_Store
 dex2jar-2.0\ 2/
 *.dmp
+*.id*
+*.nam
