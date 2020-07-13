@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:paddingLeft="@dimen/activity_horizontal_margin" n1:paddingRight="@dimen/activity_horizontal_margin" n1:paddingBottom="@dimen/activity_vertical_margin" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:paddingStart="@dimen/activity_horizontal_margin" n1:paddingEnd="@dimen/activity_horizontal_margin"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <TextView n1:textSize="26.0sp" n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:paddingTop="8.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/speed_reading_description_title" />
+    <TextView n1:textSize="16.0sp" n1:textColor="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/speed_reading_description_message" />
+</LinearLayout>

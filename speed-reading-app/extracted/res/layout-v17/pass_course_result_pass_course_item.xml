@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout n1:layout_width="fill_parent" n1:layout_height="64.0dip"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <TextView n1:textSize="16.0sp" n1:textColor="?android:textColorPrimary" n1:id="@id/title_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginLeft="32.0dip" n1:layout_marginTop="0.0dip" n1:layout_marginBottom="8.0dip" n1:text="@string/pass_course_rating" n1:layout_marginStart="32.0dip" n2:layout_constraintBottom_toBottomOf="parent" n2:layout_constraintLeft_toLeftOf="parent" n2:layout_constraintTop_toTopOf="parent" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+    <TextView n1:textSize="20.0sp" n1:id="@id/pass_course_score_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="32.0dip" n1:drawableRight="@drawable/pass_course_star_icon" n1:drawablePadding="8.0dip" n1:drawableEnd="@drawable/pass_course_star_icon" n1:layout_marginEnd="32.0dip" n3:layout_constraintBottom_toBottomOf="parent" n3:layout_constraintRight_toRightOf="parent" n3:layout_constraintTop_toTopOf="parent" xmlns:n3="http://schemas.android.com/apk/res-auto" />
+</android.support.constraint.ConstraintLayout>

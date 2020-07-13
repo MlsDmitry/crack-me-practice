@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="accelerator_course_training_titles">
+        <item>"L'accélérateur de neurones 1"</item>
+        <item>"L'accélérateur de neurones 1.1"</item>
+        <item>"L'accélérateur de neurones 1.1.1"</item>
+        <item>"L'accélérateur de neurones 2.2"</item>
+        <item>"L'accélérateur de neurones 4"</item>
+        <item>"L'accélérateur de neurones 1"</item>
+        <item>"L'accélérateur de neurones 1.1"</item>
+        <item>"L'accélérateur de neurones 1.1.1"</item>
+        <item>"L'accélérateur de neurones 2.2"</item>
+    </string-array>
+    <string-array name="accelerator_settings_duration_entries">
+        <item>30 sec</item>
+        <item>45 sec</item>
+        <item>60 sec</item>
+        <item>75 sec</item>
+        <item>90 sec</item>
+    </string-array>
+    <string-array name="cup_timer_settings_duration_entries">
+        <item>10 min.</item>
+        <item>15 min.</item>
+        <item>20 min.</item>
+        <item>25 min.</item>
+        <item>30 min.</item>
+    </string-array>
+    <string-array name="cup_timer_settings_type_entries">
+        <item>Cup</item>
+        <item>La pyramide</item>
+    </string-array>
+    <string-array name="green_dot_settings_duration_entries">
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+        <item>60 min</item>
+    </string-array>
+    <string-array name="library_book_actions">
+        <item>Supprimer le livre</item>
+    </string-array>
+    <string-array name="line_of_sight_alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_board_size_entries">
+        <item>Petit</item>
+        <item>Moyen</item>
+        <item>Majeur</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_field_type_entries">
+        <item>Petit (4 points)</item>
+        <item>Grand (8 points)</item>
+    </string-array>
+    <string-array name="math_settings_duration_entries">
+        <item>10 sec.</item>
+        <item>5 sec.</item>
+        <item>3 sec.</item>
+    </string-array>
+    <string-array name="motivators">
+        <item>Les reves ne travaillent pas, tant que vous ne travaillez pas.</item>
+        <item>Absolument tout vous sera possible.</item>
+        <item>La motivation est ce, qu</item>
+        <item>Vous recevez pas ce, que vous meritez, mais ce, que vous obtenez.</item>
+        <item>Dans une annee vous serez desole, que vous n</item>
+        <item>Ne baissez pas les bras, il est plus difficile ainsi d</item>
+        <item>Pour arriver au but, il faut, avant tout, y aller.</item>
+        <item>Le chemin vers le but ne peut indiquer que la perseverance.</item>
+        <item>Un fort desir d</item>
+        <item>Ne prouvez rien a personne - faites-le simplement.</item>
+        <item>Faites ce, que vous pouvez, avec ce, que vous avez.</item>
+        <item>Le temps n</item>
+        <item>Qu</item>
+        <item>Endurez la douleur de l</item>
+        <item>Gardez la confiance en soi meme alors, meme si personne ne croit en vous.</item>
+        <item>Chaque reve merite une chance de reussir!</item>
+        <item>Si tu veux, tu le feras. N</item>
+        <item>Le succes c</item>
+        <item>Merci a ceux, qui ont refuse de m</item>
+        <item>Lorsque vous avez une bonne idee, agissez immediatement.</item>
+        <item>Le meilleur moyen de predire son avenir c</item>
+        <item>Rien n</item>
+        <item>La vie est une multitude de problemes. Ou vous allez pleurnicher, ou les decider.</item>
+        <item>Trouvez le but les ressources se trouveront.</item>
+        <item>Fixez des grands objectifs devant vous il est plus difficile de les rater!</item>
+        <item>En se developpant, vous vous souciez de l</item>
+        <item>Cherchez les possibilites pour la realisation des idees.</item>
+        <item>Ne manquez pas les possibilites quelqu</item>
+        <item>Ne traine pas dans son lit, si tu ne fais pas l</item>
+        <item>L</item>
+        <item>Il n</item>
+        <item>Il n</item>
+        <item>La chance n</item>
+        <item>Travaillez sur vous-meme. Personne ne devient une bonne personne par accident.</item>
+        <item>Ne craignez pas de grandir lentement craignez de rester pareil.</item>
+        <item>Qui veut vraiment reussir, il a presque deja reussi.</item>
+        <item>Vivez selon deux principes: fixer le but, le realiser.</item>
+        <item>Pour qu</item>
+        <item>Tout les changement sont accompagnes par la douleur. Si vous ne le sentez pas, alors rien n</item>
+        <item>Les gens se demenent pour finalement trouver la paix, mais certains commencent a la fin.</item>
+        <item>Quand vos reves seront plus forts, que les peurs, ils commenceront a se realiser.</item>
+        <item>Si vous voulez monter haut, utilisez vos propres pieds.</item>
+        <item>Risquez tout pour votre reve, et alors il deviendra la realite.</item>
+        <item>Votre avenir est cree de ce, que vous faites aujourd</item>
+        <item>Le frein en voie de nos acquisitions ce sont nos doutes d</item>
+        <item>Plus obstinement vous travaillez, plus vous etes chanceux.</item>
+        <item>Faites encore une approche.</item>
+        <item>Faites le travail votre hobby, et alors il ne vous faudra pas travailler aucun jour dans la vie.</item>
+        <item>Vous ne pouvez pas realiser quelque chose valable sans faire les efforts.</item>
+        <item>L</item>
+        <item>Pour trouver un nouveau chemin, vous devez quitter l</item>
+        <item>L</item>
+        <item>Un bon programme amene a ce, que le resultat acquis devienne l</item>
+        <item>100% des tentatives non entreprises ne reussiront pas.</item>
+        <item>Pour obtenir ce, que tu n</item>
+        <item>La bande noire devient parfois la bande d</item>
+        <item>Vous ne pouvez pas attendre, quand tout autour echangera. Vous devez changer vous-meme. Si vous ne pouvez pas, ne restez pas tranquille, faites au moins quelque chose.</item>
+        <item>Les actions n</item>
+        <item>Il viendra le temps, quand tu decideras, que tout est deja fini. Ce sera le debut.</item>
+        <item>Autant vous vous occupez de l</item>
+        <item>Excluez la quantite maximum des variantes possibles.</item>
+        <item>Ne jamais s</item>
+        <item>Une personne paresseuse a le destin comme une machine gatee: il ne cree rien d</item>
+        <item>N</item>
+        <item>Plus vous attendez, plus vous perdez.</item>
+        <item>Dans ce, que vous croyez, ce vous recevrez.</item>
+        <item>La comprehension c</item>
+        <item>On lit des livres pour comprendre les principes superieurs, et on comprend les principes superieurs pour les appliquer a la vie.</item>
+        <item>Comme vous pensez de vous-memes tel vous deviendrez.</item>
+        <item>Le meilleur moyen d</item>
+        <item>L</item>
+        <item>Garder dans soi-meme des pensees negatives c</item>
+        <item>Pour que la marche en avant ne s</item>
+        <item>La difference entre celui, qui vous etes, et celui, qui vous voulez etre, c</item>
+        <item>Votre passe ne pourra pas definir votre futur, si vous ne lui permettez pas cela.</item>
+        <item>La vraie vie commence en dehors de notre zone de confort. Apprenez a accepter les changements, et vous deviendrez le meilleur.</item>
+        <item>Si malgre toutes vos bevues et vos echecs, vous n</item>
+        <item>Le but doit etre reel et au maximum concret.</item>
+        <item>Combien vous pensez sur bon, tellement vous l</item>
+        <item>Montrez la vie ce, que vous voulez, alors elle-meme decidera que vous obtiendrez.</item>
+        <item>En lisant plus souvent les textes motivant, nous atteindrons plus rapidement les buts fixes.</item>
+    </string-array>
+    <string-array name="pass_course_training_titles">
+        <item>Le tableau de Schulte</item>
+        <item>Le tableau de Schulte</item>
+        <item>Le tableau de Schulte</item>
+        <item>Le tableau de Schulte</item>
+        <item>Le tableau de Schulte</item>
+        <item>Retiens le nombre</item>
+        <item>Le champ visuel</item>
+        <item>La vitesse de la lecture</item>
+        <item>Les paires des mots</item>
+        <item>Les nombres pairs</item>
+        <item>Le tableau de Schulte</item>
+        <item>Le tableau de Schulte</item>
+        <item>Le tableau de Schulte</item>
+        <item>Le tableau de Schulte</item>
+        <item>Le tableau de Schulte</item>
+        <item>Retiens le nombre</item>
+        <item>Le champ visuel</item>
+        <item>Le champ visuel</item>
+        <item>La vitesse de la lecture</item>
+        <item>Le point vert</item>
+    </string-array>
+    <string-array name="reader_reading_modes_dialog_items">
+        <item>"L'ordinaire"</item>
+        <item>Le rapide</item>
+        <item>Le reglage</item>
+        <item>La lecture avec le crayon</item>
+    </string-array>
+    <string-array name="recommendation_services_description">
+        <item>Fiverr est le plus grand marché de services en ligne au monde, permettant aux entrepreneurs et aux propriétaires d’entreprises d’améliorer leurs activités, de respecter leur budget et de résoudre leurs problèmes en un seul clic.</item>
+        <item>Skillshare est une plateforme d</item>
+    </string-array>
+    <string-array name="recommendation_services_link">
+        <item>https://ad.edugram.com?rid=46c57afd20273981</item>
+        <item>https://ad.edugram.com?rid=7bb08bbb5081043c</item>
+    </string-array>
+    <string-array name="recommendation_services_title">
+        <item>Fiverr</item>
+        <item>Skillshare.com</item>
+    </string-array>
+    <string-array name="rules_of_success_array">
+        <item>Il ne faut pas dormir beaucoup. Pour le sommeil complet il suffit 6 - 8 heures. La qualité principale. Levez-vous tôt et vous aurez beaucoup de temps libre.</item>
+        <item>Libre l</item>
+        <item>Ne perdez pas votre temps. Définissez pour vous-même les moments et les actions importants et suivez-les. Ne soyez pas dispersés autour de questions inutiles.</item>
+        <item>Concentrez-vous plus sur les émotions positives dans votre vie. Pensez-y, réjouissez-vous. Ne soyez pas accroché à des problèmes, mais si possible, résolvez les rapidement et oubliez-les.</item>
+        <item>Apprenez à parler au téléphone correctement. Soyez poli, courtois, faites sentir à l</item>
+        <item>Inscrivez tous vos désirs, vos idées, vos rêves sur de belles cartes. Faites cela pendant toute la journée, pensez à eux. Mettez-les sur la place visible à la maison et examinez de temps en temps. Plus vous avez d</item>
+        <item>Essayez de trouver le temps pour vous-même le dimanche soir. Détendez-vous, lisez un livre intéressant, écoutez la bonne musique, faites les travaux d</item>
+        <item>Communiquez plus avec les gens agréables et positifs. La communication qualitative détermine la qualité de vie. N</item>
+        <item>Pensez, avant tout, au but, et non au résultat final. Faites ce, que vous aimez et qu</item>
+        <item>N</item>
+        <item>Allumez les bougies le soir. Ils créent une atmosphère apaisante et romantique. Entourez-vous des gens sympas. Lisez ensemble, parlez, écoutez la musique calme. Se protégez contre les alarmes et les soucis du jour passé.</item>
+        <item>Pour la concentration de l</item>
+        <item>Absolument apprenez-vous méditer. Notre esprit, nos pensées connaissent un énorme stress émotionnel tout au long de la journée. Il est très difficile de résoudre une certaine tâche, quand il n</item>
+        <item>Essayez d</item>
+        <item>Entraînez votre volonté. C</item>
+        <item>Essayez de ne pas perdre le sens de l</item>
+        <item>Il est très important d</item>
+        <item>Développer les relations avec des gens, qui aspirent au perfectionnement moral, qui vous chargent de l</item>
+        <item>Se réjouissez de ce, que vous avez. Votre vie et votre santé, la santé et la prospérité de vos proches, le monde, qui vous entoure, la beauté de la nature, des animaux et des oiseaux, la nourriture délicieuse — cela ne doit pas être considéré comme quelque chose automatique, mais comme le cadeau. Faites une liste de ce, que vous avez, et vous comprendrez, dans quelle mesure votre vie est riche et diverse.</item>
+        <item>Chaque personne définit ses buts de vie devant elle-même. C</item>
+        <item>Personne n</item>
+        <item>Maîtrisez la technique de la lecture rapide. Cette technique vous aidera à se saisir d</item>
+        <item>Respectez les gens. Retenez leurs noms. Chaque personne veut se sentir signifiant et nécessaire. Donnez cette opportunité aux gens.</item>
+        <item>Soyez gentil, doux dans les relations avec les gens. Mais dans certaines situations ne vous laissez pas manipuler. Soyez pure et dure, quand il s</item>
+        <item>Discutez toutes les questions, liées à la santé, aux finances, aux problèmes personnels, uniquement avec votre famille. Ne mettez pas ces questions au-delà de la famille.</item>
+        <item>Soyez honnête, modeste, gentil, obstiné, amical.</item>
+        <item>Prenez soin de vous-même. Prenez soin de votre corps et votre âme. À la fin de la journée prenez le bain chaud avec les huiles aromatiques. Récompensez-vous même pour les réalisations les plus insignifiantes.</item>
+        <item>Apprenez à respirer correctement, calmement et profondément. À l</item>
+        <item>S</item>
+        <item>Commencez le journal intime. Notez vos pensées, expériences, chercher les réponses aux questions, se réjouissez des réalisations. Au moment d</item>
+        <item>Apprenez à gérer votre stress. C</item>
+        <item>Écoutez les fichier audio sur le sujet du perfectionnement moral si souvent, que possible: dans la voiture lors du chemin au travail, en s</item>
+        <item>Organisez une fois par semaine un jour de déchargement. Mangez des fruits et des légumes. Buvez beaucoup d</item>
+        <item>Apprenez à pardonner. L</item>
+        <item>Apprenez toujours quelque chose de nouveau. Même si vous pensez, que vous savez beaucoup. Les nouvelles connaissances développent votre cerveau, augmentent l</item>
+        <item>Soyez retenus dans les mots et les émotions. Que vous soyez entourés de l</item>
+        <item>Maîtrisez l</item>
+        <item>Menez la vie saine. S</item>
+        <item>Se promenez le soir après le dîner. Cette habitude influence favorablement la santé physique et mentale. Pendant la promenade s</item>
+        <item>Reposez-vous sur la nature. Profitez-y. Glanez-y les forces chaleureuses. Plantez des fleurs, des arbustes, des arbres. Créez votre coin de beauté et d</item>
+        <item>Soyez modéré dans vos actions et émotions. Maintenez l</item>
+        <item>Prenez soin d</item>
+        <item>Sauvegardez votre réputation, prenez soin d</item>
+        <item>Trouvez un mentor. Cela peut être votre père spirituel, un ami aîné, une personne, qui est l</item>
+        <item>Faites la liste de vos faiblesses et manques. Échappez-vous de vos faiblesses systématiquement et intentionnellement. Chaque position de liste supprimée vous donnera une grande satisfaction. En effet, c</item>
+        <item>Ne se plaignez jamais de la vie. Les plaintes non seulement détruisent la journée de quelqu</item>
+        <item>Créez une image positive pour vous-même. Soyez calme, érudit, discipliné, compétent, poli, décent. Respectez les autres, ne bavez pas au travail, ne soyez pas bavard, ne découvrez pas vos plans aux gens étrangers, soyez un peu secret et mystérieux, gai et facile à la montée.</item>
+        <item>N</item>
+        <item>Si quelque chose vous dérange, utilisez la technique de visualisation. Ecrivez le problème sur la feuille de papier, lisez-le, analysez-le et allumez-le. Votre inquiétude disparaîtra avec le feu. Essayez cette méthode, et il vous sera certainement mieux.</item>
+        <item>Ne vous accrochez pas au problème. Indiquez pour vous-même le plan de son décision. Suivez-le, et avec un résultat positif, oubliez-le. Rappelez-vous seulement le bien.</item>
+        <item>Pour que votre esprit soit sur le pic de l</item>
+        <item>Économisez de l</item>
+        <item>Écrivez vos rêves et vos plans à long terme au journal intime. Faites tout, pour qu</item>
+        <item>Obligatoirement lisez quelque chose positif le matin et le soir. Cela vous orientera vers les pensées bonnes et joyeuses, qui vous accompagneront toute la journée.</item>
+        <item>Fixez devant vous-même le but de devenir une personne charismatique. Tout le monde peut le faire. Le président américain John F. Kennedy a été très malade dans sa jeunesse, mais grâce à sa persévérance et sa diligence, il a pu devenir le leader politique le plus charismatique et le plus attirant dans l</item>
+        <item>Risquez, mais avec l</item>
+        <item>Se rapportez très sérieusement au choix de votre seconde moitié. Recherchez telles qualités, comme l</item>
+        <item>N</item>
+        <item>Trouvez au moins cinq minutes pendant la journée pour se distraire du travail entièrement. Fermez les yeux, imaginez-vous dans un endroit très agréable (dans la forêt, sur la mer), et plongez-vous dans ces sensations.</item>
+        <item>N</item>
+        <item>Soyez curieux et questionneur. Apprenez plus de nouveaux et s</item>
+        <item>Ne pense pas au passé. Vous ne pouvez pas le changer. Utilisez l</item>
+        <item>Gardez l</item>
+        <item>L</item>
+        <item>Soyez ponctuel. Cette qualité sera très utile dans la vie et dans la carrière. La ponctualité montre, que vous êtes une personne disciplinée, fiable, capable d</item>
+        <item>Chaque jour faites deux choses, que vous n</item>
+        <item>Donner plus de remerciements à d</item>
+        <item>S</item>
+        <item>Débarrassez–vous absolument des mauvaises habitudes, et des habitudes, qui, à votre avis, empêchent votre vie. On peut faire cela au moins 21 jours. D</item>
+        <item>Surveillez votre alimentation. Elle doit être équilibrée et utile. Buvez de l</item>
+        <item>Faites la méditation selon certaines règles:Choisir le même temps, la même place, et vous devez le faire chaque jour.</item>
+        <item>Le meilleur temps – le matin précoce.</item>
+        <item>Retenez et utilisez les positions principales sur la vie heureuse:Conduisez une vie intéressante et active.</item>
+        <item>Chaque minute s</item>
+        <item>Mettez devant vous-même les buts et allez à eux.</item>
+        <item>Pensez positivement – ne permettez pas aux pensées négatives s</item>
+        <item>Ne vous inquiétez pas pour les bagatelles.</item>
+        <item>Reposez-vous, amusez-vous.</item>
+        <item>Soyez poli, sociable, amical.</item>
+        <item>Vivez le présent, aspirez au futur heureux.</item>
+        <item>Lisez ces règles encore et encore.</item>
+    </string-array>
+    <string-array name="speed_reading_words">
+        <item>égal</item>
+        <item>indiquer</item>
+        <item>robe</item>
+        <item>hiver</item>
+        <item>obscurité</item>
+        <item>position</item>
+        <item>vérité</item>
+        <item>chapeau</item>
+        <item>clôture</item>
+        <item>mur</item>
+        <item>mode</item>
+        <item>économie</item>
+        <item>veste</item>
+        <item>armoire</item>
+        <item>portrait</item>
+        <item>couche</item>
+        <item>nouvelles</item>
+        <item>froidement</item>
+        <item>gardes</item>
+        <item>défense</item>
+        <item>derrière</item>
+        <item>cadeau</item>
+        <item>geste</item>
+        <item>autoroute</item>
+        <item>circuit</item>
+        <item>sous-sol</item>
+        <item>autrefois</item>
+        <item>lampe</item>
+        <item>part</item>
+        <item>pas mal</item>
+        <item>ridicule</item>
+        <item>conduire</item>
+        <item>champignon</item>
+        <item>errer</item>
+        <item>météo</item>
+        <item>chaleur</item>
+        <item>cuir</item>
+        <item>pacifique</item>
+        <item>perte</item>
+        <item>portière</item>
+        <item>norme</item>
+        <item>cuillère</item>
+        <item>corde</item>
+        <item>méthode</item>
+        <item>cacher</item>
+        <item>drôle</item>
+        <item>délicat</item>
+        <item>bains</item>
+        <item>par la voie</item>
+        <item>souper</item>
+        <item>mars</item>
+        <item>signal</item>
+        <item>malade</item>
+        <item>jouer</item>
+        <item>dépêcher</item>
+        <item>réseau</item>
+        <item>nerf</item>
+        <item>sucré</item>
+        <item>maquillage</item>
+        <item>hymne</item>
+        <item>sifflement</item>
+        <item>absurdité</item>
+        <item>rivière</item>
+        <item>appel</item>
+        <item>rythme</item>
+        <item>tribu</item>
+        <item>climat</item>
+        <item>flèche</item>
+        <item>montage</item>
+        <item>tremble</item>
+        <item>coupe</item>
+        <item>coupure</item>
+        <item>chemin</item>
+        <item>oseille</item>
+        <item>pendule</item>
+        <item>pelage</item>
+        <item>luciole</item>
+        <item>escorteur</item>
+        <item>calme</item>
+        <item>samedi</item>
+        <item>chandelle</item>
+        <item>rideau</item>
+        <item>délégué</item>
+        <item>gravure</item>
+        <item>trône</item>
+        <item>obscurité</item>
+        <item>buisson</item>
+        <item>poigne</item>
+        <item>entaille</item>
+        <item>chair</item>
+        <item>creux</item>
+        <item>procès</item>
+        <item>retaille</item>
+        <item>griffe</item>
+        <item>presse</item>
+        <item>rupture</item>
+        <item>acteur</item>
+        <item>rempart</item>
+        <item>bricolage</item>
+        <item>affaire</item>
+        <item>laine</item>
+        <item>saucisson</item>
+        <item>biologiste</item>
+        <item>dressage</item>
+        <item>madame</item>
+        <item>piège</item>
+        <item>danseur</item>
+        <item>match</item>
+        <item>charrue</item>
+        <item>incarnat</item>
+        <item>mémoire</item>
+        <item>décompte</item>
+        <item>finition</item>
+        <item>obier</item>
+        <item>bourg</item>
+        <item>abricot</item>
+        <item>lac</item>
+        <item>flux</item>
+        <item>tristesse</item>
+        <item>tomate</item>
+        <item>arsenal</item>
+        <item>professeur</item>
+        <item>voisine</item>
+        <item>édit</item>
+        <item>offense</item>
+        <item>vif</item>
+        <item>poète</item>
+        <item>nuage</item>
+        <item>note</item>
+    </string-array>
+    <string-array name="true_colors_words">
+        <item>Rouge</item>
+        <item>Orange</item>
+        <item>Jaune</item>
+        <item>Vert</item>
+        <item>Bleu</item>
+        <item>Violet</item>
+    </string-array>
+    <string-array name="word_pairs_non_equal_first_words">
+        <item>prie</item>
+        <item>ton</item>
+        <item>toux</item>
+        <item>dans</item>
+        <item>différend</item>
+        <item>nie</item>
+        <item>houx</item>
+        <item>plus tôt</item>
+        <item>quand</item>
+        <item>cent</item>
+        <item>vin</item>
+        <item>verre</item>
+        <item>Rennes</item>
+        <item>laid</item>
+        <item>mer</item>
+        <item>seau</item>
+        <item>voie</item>
+        <item>hêtre</item>
+        <item>croix</item>
+        <item>acceptation</item>
+        <item>affleurer</item>
+        <item>illusion</item>
+        <item>allocation</item>
+        <item>colorier</item>
+        <item>gradation</item>
+        <item>infester</item>
+        <item>accident</item>
+        <item>infraction</item>
+        <item>enduire</item>
+        <item>se lasser</item>
+        <item>inculquer</item>
+        <item>éruption</item>
+        <item>collusion</item>
+        <item>amnistie</item>
+        <item>imminent</item>
+        <item>attention</item>
+        <item>insu</item>
+        <item>arborer</item>
+        <item>adjurer</item>
+        <item>acception</item>
+        <item>adhérence</item>
+        <item>effiler</item>
+        <item>affliger</item>
+        <item>agréger</item>
+        <item>sinistre</item>
+        <item>coussin</item>
+        <item>poison</item>
+        <item>conservation</item>
+        <item>conjoncture</item>
+        <item>rebattre</item>
+        <item>compatibilité</item>
+        <item>crème</item>
+        <item>inclinaison</item>
+        <item>servage</item>
+        <item>précepteur</item>
+        <item>emménager</item>
+        <item>dessert</item>
+        <item>calandre</item>
+        <item>réfection</item>
+        <item>mystifier</item>
+        <item>formation</item>
+        <item>sémitique</item>
+        <item>incident</item>
+        <item>cultuel</item>
+        <item>sujétion</item>
+        <item>périphrase</item>
+        <item>unique</item>
+        <item>infecter</item>
+        <item>part</item>
+        <item>paume</item>
+        <item>étais</item>
+        <item>ressembler</item>
+        <item>raison</item>
+        <item>œuf</item>
+        <item>bonheur</item>
+        <item>violente</item>
+        <item>conscience</item>
+        <item>provocation</item>
+        <item>invocation</item>
+        <item>conviction</item>
+        <item>frais</item>
+        <item>"m'adresse"</item>
+        <item>raisin</item>
+        <item>fugue</item>
+        <item>destinataire</item>
+        <item>sceptique</item>
+        <item>sceptre</item>
+        <item>temporaire</item>
+        <item>tortu</item>
+        <item>usagé</item>
+        <item>vivable</item>
+        <item>vigie</item>
+        <item>paladin</item>
+    </string-array>
+    <string-array name="word_pairs_non_equal_second_words">
+        <item>prix</item>
+        <item>thon</item>
+        <item>tout</item>
+        <item>dent</item>
+        <item>différant</item>
+        <item>nid</item>
+        <item>août</item>
+        <item>plutôt</item>
+        <item>camp</item>
+        <item>sang</item>
+        <item>vinght</item>
+        <item>vert</item>
+        <item>renne</item>
+        <item>lait</item>
+        <item>maire</item>
+        <item>saut</item>
+        <item>voix</item>
+        <item>être</item>
+        <item>froid</item>
+        <item>acception</item>
+        <item>effleurer</item>
+        <item>allusion</item>
+        <item>allocution</item>
+        <item>colorer</item>
+        <item>graduation</item>
+        <item>infecter</item>
+        <item>incident</item>
+        <item>effraction</item>
+        <item>induire</item>
+        <item>"s'enlacer"</item>
+        <item>inculper</item>
+        <item>irruption</item>
+        <item>collision</item>
+        <item>armistice</item>
+        <item>éminent</item>
+        <item>intention</item>
+        <item>issue</item>
+        <item>abhorrer</item>
+        <item>abjurer</item>
+        <item>exception</item>
+        <item>adhésion</item>
+        <item>affiler</item>
+        <item>infliger</item>
+        <item>agréer</item>
+        <item>ministre</item>
+        <item>cousin</item>
+        <item>poisson</item>
+        <item>conversation</item>
+        <item>conjecture</item>
+        <item>rabattre</item>
+        <item>comptabilité</item>
+        <item>crime</item>
+        <item>inclination</item>
+        <item>sevrage</item>
+        <item>percepteur</item>
+        <item>aménager</item>
+        <item>désert</item>
+        <item>calendes</item>
+        <item>réfaction</item>
+        <item>mythifier</item>
+        <item>pharmacien</item>
+        <item>sémantique</item>
+        <item>incendie</item>
+        <item>culturel</item>
+        <item>suggestion</item>
+        <item>paraphrase</item>
+        <item>inique</item>
+        <item>affecter</item>
+        <item>port</item>
+        <item>pomme</item>
+        <item>été</item>
+        <item>"s'assembler"</item>
+        <item>comparaison</item>
+        <item>bœuf</item>
+        <item>honneur</item>
+        <item>lente</item>
+        <item>science</item>
+        <item>invocation</item>
+        <item>vocation</item>
+        <item>ambition</item>
+        <item>vrai</item>
+        <item>"m'agresse"</item>
+        <item>raison</item>
+        <item>figue</item>
+        <item>destinateur</item>
+        <item>septique</item>
+        <item>spectre</item>
+        <item>temporel</item>
+        <item>tordu</item>
+        <item>usé</item>
+        <item>viable</item>
+        <item>vigile</item>
+        <item>baladin</item>
+    </string-array>
+    <string-array name="word_pairs_words">
+        <item>maison</item>
+        <item>lac</item>
+        <item>tomate</item>
+        <item>viande</item>
+        <item>pain</item>
+        <item>soupe</item>
+        <item>table</item>
+        <item>fenêtre</item>
+        <item>livre</item>
+        <item>aube</item>
+        <item>matin</item>
+        <item>âme</item>
+        <item>bougie</item>
+        <item>armoire</item>
+        <item>roue</item>
+        <item>album</item>
+        <item>yeux</item>
+        <item>métro</item>
+        <item>temps</item>
+        <item>bureau</item>
+        <item>lunettes</item>
+        <item>tête</item>
+        <item>paquet</item>
+        <item>ville</item>
+        <item>château</item>
+        <item>tapis</item>
+        <item>éléphant</item>
+        <item>visage</item>
+        <item>chat</item>
+        <item>maille</item>
+        <item>chaîne</item>
+        <item>miroir</item>
+        <item>autoroute</item>
+        <item>fleur</item>
+        <item>modèle</item>
+        <item>fenêtre</item>
+        <item>mur</item>
+        <item>banque</item>
+        <item>chemin</item>
+        <item>langue</item>
+        <item>nouvelle</item>
+        <item>ciel</item>
+        <item>air</item>
+        <item>école</item>
+        <item>corps</item>
+        <item>pas</item>
+        <item>porte</item>
+        <item>région</item>
+        <item>bureau</item>
+        <item>bague</item>
+        <item>projet</item>
+        <item>poutre</item>
+        <item>océan</item>
+        <item>poupée</item>
+        <item>campagne</item>
+        <item>liste</item>
+        <item>forêt</item>
+        <item>barbe</item>
+        <item>montant</item>
+        <item>moteur</item>
+        <item>croix</item>
+        <item>talent</item>
+        <item>nager</item>
+        <item>seau</item>
+        <item>pilier</item>
+        <item>canal</item>
+        <item>fusée</item>
+        <item>crayon</item>
+        <item>époque</item>
+        <item>produit</item>
+        <item>branche</item>
+        <item>roc</item>
+        <item>sphère</item>
+        <item>réserve</item>
+        <item>commande</item>
+        <item>boxe</item>
+        <item>tilleul</item>
+        <item>chien</item>
+        <item>utilité</item>
+        <item>cheval</item>
+        <item>gauche</item>
+        <item>monticule</item>
+        <item>chiffre</item>
+        <item>vol</item>
+        <item>radio</item>
+        <item>obscurité</item>
+        <item>robe</item>
+        <item>fosse</item>
+        <item>lampe</item>
+        <item>partie</item>
+        <item>champignon</item>
+        <item>cuillerée</item>
+        <item>méthode</item>
+        <item>toujours</item>
+        <item>bains</item>
+        <item>souper</item>
+        <item>mars</item>
+        <item>réseau</item>
+        <item>plume</item>
+        <item>tour</item>
+        <item>bagatelle</item>
+        <item>fusil</item>
+        <item>plume</item>
+        <item>domaine</item>
+        <item>arbitre</item>
+        <item>oeuf</item>
+        <item>bois</item>
+        <item>détail</item>
+        <item>coléoptère</item>
+        <item>chef</item>
+        <item>génie</item>
+        <item>paquet</item>
+        <item>lapin</item>
+        <item>monsieur</item>
+        <item>prince</item>
+        <item>soldat</item>
+        <item>pente</item>
+        <item>steppe</item>
+        <item>fils</item>
+        <item>fente</item>
+        <item>chance</item>
+        <item>métro</item>
+        <item>nuage</item>
+        <item>pensée</item>
+        <item>pêcheur</item>
+        <item>peloton</item>
+        <item>brillamment</item>
+        <item>coquille</item>
+        <item>esprit</item>
+        <item>bien</item>
+        <item>ange</item>
+        <item>tulle</item>
+        <item>mine</item>
+        <item>phase</item>
+        <item>pilote</item>
+        <item>top</item>
+        <item>marin</item>
+        <item>poutre</item>
+        <item>enfant</item>
+        <item>clou</item>
+        <item>roi</item>
+        <item>leader</item>
+        <item>barre</item>
+        <item>appel</item>
+        <item>farine</item>
+        <item>vacances</item>
+        <item>voiture</item>
+        <item>allumette</item>
+        <item>mariage</item>
+        <item>bouton</item>
+        <item>mandrin</item>
+        <item>secteur</item>
+        <item>agent</item>
+        <item>sel</item>
+        <item>bruit</item>
+        <item>salle</item>
+        <item>mode</item>
+        <item>port</item>
+        <item>brillance</item>
+        <item>lame</item>
+        <item>poivre</item>
+        <item>sucre</item>
+        <item>version</item>
+        <item>bagarre</item>
+        <item>ascenseur</item>
+        <item>compte</item>
+        <item>bouillie</item>
+        <item>noeud</item>
+        <item>goulot</item>
+        <item>envoi</item>
+        <item>briques</item>
+        <item>touriste</item>
+        <item>flèche</item>
+        <item>plat</item>
+        <item>état</item>
+        <item>chaussette</item>
+        <item>pin</item>
+        <item>cerf</item>
+        <item>action</item>
+        <item>noix</item>
+        <item>statut</item>
+        <item>bougie</item>
+        <item>facteur</item>
+        <item>rejet</item>
+        <item>rapport</item>
+        <item>ligne</item>
+        <item>ongle</item>
+        <item>exploit</item>
+        <item>sorcier</item>
+        <item>plus</item>
+        <item>lunette</item>
+        <item>tasse</item>
+        <item>mensonge</item>
+        <item>balcon</item>
+        <item>chaud</item>
+        <item>sol</item>
+        <item>bloc</item>
+        <item>brillance</item>
+        <item>sujet</item>
+        <item>jus</item>
+        <item>fondation</item>
+        <item>un</item>
+        <item>contour</item>
+        <item>ancêtre</item>
+        <item>colère</item>
+        <item>moine</item>
+    </string-array>
+</resources>

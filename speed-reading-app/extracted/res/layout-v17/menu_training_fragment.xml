@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ScrollView n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+        <LinearLayout n1:orientation="vertical" n1:background="@color/colorBackground" n1:padding="12.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <TextView n1:textSize="18.0sp" n1:textStyle="bold" n1:textColor="@color/colorDarkText" n1:background="@drawable/hint_background" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginLeft="8.0dip" n1:text="@string/courses" n1:layout_marginStart="8.0dip" />
+            <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_base_course_view" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_marginRight="12.0dip" n1:layout_weight="1.0" n1:layout_marginEnd="12.0dip">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/base_course_short_name" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_base_course_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+                <LinearLayout n1:orientation="vertical" n1:background="@drawable/shape" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/upper_course_short_name" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_locked_course_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginBottom="8.0dip" n1:text="@string/creating" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView n1:textSize="18.0sp" n1:textStyle="bold" n1:textColor="@color/colorDarkText" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginLeft="8.0dip" n1:layout_marginTop="24.0dip" n1:text="@string/trainers" n1:layout_marginStart="8.0dip" />
+            <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_accelerator_menu" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_marginRight="12.0dip" n1:layout_weight="1.0" n1:layout_marginEnd="12.0dip">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/accelerator" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_accelerator_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_schulte_table" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/schulte_table" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_schulte_table_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_remember_number" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_marginRight="12.0dip" n1:layout_weight="1.0" n1:layout_marginEnd="12.0dip">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/remember_number" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_remember_number_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_line_of_sight" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/line_of_sight" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_line_of_sight_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_speed_reading" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_marginRight="12.0dip" n1:layout_weight="1.0" n1:layout_marginEnd="12.0dip">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/speed_reading" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_speed_reading_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_word_pairs" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/word_pairs" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_word_pairs_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_even_numbers" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_marginRight="12.0dip" n1:layout_weight="1.0" n1:layout_marginEnd="12.0dip">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/even_numbers" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_even_numbers_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_green_dot" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/green_dot" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_green_dot_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_mathematics" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_marginRight="12.0dip" n1:layout_weight="1.0" n1:layout_marginEnd="12.0dip">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/mathematics" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_math_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_concentration" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/concentration" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_concentration" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:background="@drawable/button_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/begin" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_cup_timer" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_marginRight="12.0dip" n1:layout_weight="1.0" n1:layout_marginEnd="12.0dip">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/cuptimer" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_cup_timer_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:id="@id/start_cup_button" n1:background="@drawable/button_premium_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/premium" />
+                </LinearLayout>
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_remember_words" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/remember_words" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_remember_words_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:id="@id/start_remember_words_button" n1:background="@drawable/button_premium_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/premium" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+                <LinearLayout n1:orientation="vertical" n1:id="@id/training_menu_start_true_colors" n1:background="@drawable/main_card_selector" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_marginRight="12.0dip" n1:layout_weight="1.0" n1:layout_marginEnd="12.0dip">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/true_colors" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_true_colors_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:id="@id/start_true_colors_button" n1:background="@drawable/button_premium_shape" n1:paddingTop="4.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/premium" />
+                </LinearLayout>
+                <LinearLayout n1:orientation="vertical" n1:background="@drawable/shape" n1:layout_width="0.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="12.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textStyle="bold" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginTop="6.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/mixed_up_letters" n1:singleLine="true" />
+                    <ImageView n1:layout_gravity="center" n1:layout_width="80.0dip" n1:layout_height="80.0dip" n1:src="@drawable/training_menu_locked_course_icon" n1:layout_weight="1.0" />
+                    <TextView n1:textColor="@color/colorWhiteText" n1:gravity="center" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginBottom="8.0dip" n1:text="@string/creating" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:orientation="horizontal" n1:id="@id/speed_reading_statistics_layout" n1:paddingLeft="16.0dip" n1:paddingTop="16.0dip" n1:paddingRight="16.0dip" n1:paddingBottom="16.0dip" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:paddingStart="16.0dip" n1:paddingEnd="16.0dip" n2:layout_constraintLeft_toLeftOf="parent" n2:layout_constraintRight_toRightOf="parent" n2:layout_constraintTop_toTopOf="parent" xmlns:n2="http://schemas.android.com/apk/res-auto">
+        <TextView n1:textSize="16.0sp" n1:textColor="?android:textColorPrimary" n1:id="@id/score_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="4.0dip" n1:layout_marginEnd="4.0dip" />
+        <ProgressBar n1:layout_gravity="center_vertical" n1:id="@id/progress_bar" n1:paddingLeft="16.0dip" n1:paddingRight="16.0dip" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_weight="1.0" n1:paddingStart="16.0dip" n1:paddingEnd="16.0dip" style="?android:progressBarStyleHorizontal" />
+        <TextView n1:textSize="16.0sp" n1:textColor="?android:textColorPrimary" n1:id="@id/record_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="4.0dip" n1:layout_marginEnd="4.0dip" />
+    </LinearLayout>
+    <android.support.v7.widget.GridLayout n1:id="@id/word_pairs_grid_layout" n1:layout_width="0.0dip" n1:layout_height="0.0dip" n3:layout_constraintBottom_toBottomOf="parent" n3:layout_constraintLeft_toLeftOf="parent" n3:layout_constraintRight_toRightOf="parent" n3:layout_constraintTop_toBottomOf="@id/speed_reading_statistics_layout" xmlns:n3="http://schemas.android.com/apk/res-auto" />
+</android.support.constraint.ConstraintLayout>

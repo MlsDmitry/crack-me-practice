@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:fadeScrollbars="false"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:orientation="vertical" n1:padding="24.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <TextView n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginBottom="20.0dip" n1:text="@string/reader_guide_dialog_default_reading_title" style="@style/TextAppearance.AppCompat.Title" />
+        <TextView n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/reader_guide_dialog_default_reading_message" style="@style/TextAppearance.AppCompat.Subhead" />
+        <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="16.0dip">
+            <TextView n1:textSize="12.0sp" n1:textColor="?android:textColorSecondary" n1:gravity="center_horizontal" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:text="@string/reader_guide_dialog_previous_page_description" n1:drawableTop="@drawable/reader_guide_previous_icon" n1:drawablePadding="8.0dip" n1:layout_weight="1.0" />
+            <TextView n1:textSize="12.0sp" n1:textColor="?android:textColorSecondary" n1:gravity="center_horizontal" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_marginLeft="4.0dip" n1:layout_marginRight="4.0dip" n1:text="@string/reader_guide_dialog_default_reading_center_description" n1:drawableTop="@drawable/reader_guide_expand_icon" n1:drawablePadding="8.0dip" n1:layout_weight="1.0" />
+            <TextView n1:textSize="12.0sp" n1:textColor="?android:textColorSecondary" n1:gravity="center_horizontal" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:text="@string/reader_guide_dialog_next_page_description" n1:drawableTop="@drawable/reader_guide_next_icon" n1:drawablePadding="8.0dip" n1:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="accelerator_course_training_titles">
+        <item>Columns of Words 1</item>
+        <item>Columns of Words 1.1</item>
+        <item>Columns of Words 1.1.1</item>
+        <item>Columns of Words 2.2</item>
+        <item>Columns of Words 4</item>
+        <item>Flash Words</item>
+        <item>Flash Words</item>
+        <item>Flash Words</item>
+        <item>Words Block</item>
+    </string-array>
+    <string-array name="accelerator_settings_column_count_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="accelerator_settings_duration_entries">
+        <item>30 sec</item>
+        <item>45 sec</item>
+        <item>60 sec</item>
+        <item>75 sec</item>
+        <item>90 sec</item>
+    </string-array>
+    <string-array name="accelerator_settings_duration_entry_values">
+        <item>30000</item>
+        <item>45000</item>
+        <item>60000</item>
+        <item>75000</item>
+        <item>90000</item>
+    </string-array>
+    <string-array name="cup_timer_settings_duration_entries">
+        <item>10 min.</item>
+        <item>15 min.</item>
+        <item>20 min.</item>
+        <item>25 min.</item>
+        <item>30 min.</item>
+    </string-array>
+    <string-array name="cup_timer_settings_duration_entry_values">
+        <item>300000</item>
+        <item>450000</item>
+        <item>600000</item>
+        <item>750000</item>
+        <item>900000</item>
+    </string-array>
+    <string-array name="cup_timer_settings_type_entries">
+        <item>Cup</item>
+        <item>Pyramid</item>
+    </string-array>
+    <string-array name="cup_timer_settings_type_entry_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="flash_words_settings_duration_entries">
+        <item>30 sec</item>
+        <item>45 sec</item>
+        <item>60 sec</item>
+        <item>75 sec</item>
+        <item>90 sec</item>
+    </string-array>
+    <string-array name="flash_words_settings_duration_entry_values">
+        <item>30000</item>
+        <item>45000</item>
+        <item>60000</item>
+        <item>75000</item>
+        <item>90000</item>
+    </string-array>
+    <string-array name="green_dot_settings_duration_entries">
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+        <item>60 min</item>
+    </string-array>
+    <string-array name="green_dot_settings_duration_entry_values">
+        <item>600000</item>
+        <item>900000</item>
+        <item>1200000</item>
+        <item>1800000</item>
+        <item>3600000</item>
+    </string-array>
+    <string-array name="library_book_actions">
+        <item>Delete the book</item>
+    </string-array>
+    <string-array name="line_of_sight_alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_board_size_entries">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Big</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_board_size_entry_values">
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_field_type_entries">
+        <item>Small (4 Points)</item>
+        <item>Big (8 Points)</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_field_type_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="math_settings_duration_entries">
+        <item>10 sec.</item>
+        <item>5 sec.</item>
+        <item>3 sec.</item>
+    </string-array>
+    <string-array name="math_settings_duration_entry_values">
+        <item>10000</item>
+        <item>5000</item>
+        <item>3000</item>
+    </string-array>
+    <string-array name="motivators">
+        <item>If you want to achieve greatness stop asking for permission</item>
+        <item>Things work out best for those who make the best of how things work out</item>
+        <item>To live a creative life, we must lose our fear of being wrong</item>
+        <item>If you are not willing to risk the usual you will have to settle for the ordinary</item>
+        <item>"Trust because you are willing to accept the risk, not because it's safe or certain"</item>
+        <item>All our dreams can come true if we have the courage to pursue them</item>
+        <item>If you do what you always did, you will get what you always got</item>
+        <item>Success is walking from failure to failure with no loss of enthusiasm</item>
+        <item>Just when the caterpillar thought the world was ending, he turned into a butterfly</item>
+        <item>Successful entrepreneurs are givers and not takers of positive energy</item>
+        <item>Whenever you see a successful person you only see the public glories, never the private sacrifices to reach them</item>
+        <item>"Opportunities don't happen, you create them"</item>
+        <item>Try not to become a person of success, but rather try to become a person of value</item>
+        <item>Great minds discuss ideas; average minds discuss events; small minds discuss people</item>
+    </string-array>
+    <string-array name="pass_course_training_icons">
+        <item>training_menu_schulte_table_icon</item>
+        <item>training_menu_schulte_table_icon</item>
+        <item>training_menu_schulte_table_icon</item>
+        <item>training_menu_schulte_table_icon</item>
+        <item>training_menu_schulte_table_icon</item>
+        <item>training_menu_remember_number_icon</item>
+        <item>training_menu_line_of_sight_icon</item>
+        <item>training_menu_speed_reading_icon</item>
+        <item>training_menu_word_pairs_icon</item>
+        <item>training_menu_even_numbers_icon</item>
+        <item>training_menu_schulte_table_icon</item>
+        <item>training_menu_schulte_table_icon</item>
+        <item>training_menu_schulte_table_icon</item>
+        <item>training_menu_schulte_table_icon</item>
+        <item>training_menu_schulte_table_icon</item>
+        <item>training_menu_remember_number_icon</item>
+        <item>training_menu_line_of_sight_icon</item>
+        <item>training_menu_line_of_sight_icon</item>
+        <item>training_menu_speed_reading_icon</item>
+        <item>training_menu_green_dot_icon</item>
+    </string-array>
+    <string-array name="pass_course_training_titles">
+        <item>Schulte Table</item>
+        <item>Schulte Table</item>
+        <item>Schulte Table</item>
+        <item>Schulte Table</item>
+        <item>Schulte Table</item>
+        <item>Remember the number</item>
+        <item>Line of Sight</item>
+        <item>Speed Reading</item>
+        <item>Word Pairs</item>
+        <item>Even Numbers</item>
+        <item>Schulte Table</item>
+        <item>Schulte Table</item>
+        <item>Schulte Table</item>
+        <item>Schulte Table</item>
+        <item>Schulte Table</item>
+        <item>Remember the number</item>
+        <item>Line of Sight</item>
+        <item>Line of Sight</item>
+        <item>Speed Reading</item>
+        <item>Green Dot</item>
+    </string-array>
+    <string-array name="reader_reading_modes_dialog_items">
+        <item>Usual Reading</item>
+        <item>Fast Reading</item>
+        <item>Sighting mode</item>
+        <item>Pencil reading</item>
+    </string-array>
+    <string-array name="reader_settings_text_size_entries">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="recommendation_services_description">
+        <item>Writing Academic Works. StudyBay is an online exchange for English-speaking students and authors! The student receives a unique job of any level of complexity and more free time, while the author has additional earnings and invaluable experience.</item>
+        <item>Fiverr is the world</item>
+        <item>Teach all and everywhere - the mission of Shaw Academy! Since its launch in 2013, we have been changing the lives of billions of people by providing educational services available to everyone.</item>
+        <item>Skillshare is an online learning platform for people who want to get creative skills. On Skillshare you can find courses on design, photography, game design, layout, cooking and other activities, even so exotic as modern caligraphy.</item>
+        <item>Librain is an application that will help you increase attention, develop memory, thinking and intelligence.</item>
+        <item>Librain trains attention and memory, logical thinking, concentration</item>
+        <item>Do you want to learn speed reading even faster? Use our new memory development app.</item>
+        <item>Do you want to learn speed reading even faster? Use our new memory development app.</item>
+        <item>Do you want to learn speed reading even faster? Use our new memory development app.</item>
+        <item>Librain is an application that will help you increase attention, develop memory, thinking and intelligence.</item>
+    </string-array>
+    <string-array name="recommendation_services_link">
+        <item>https://ad.edugram.com/order?rid=bfa4c68eb426a26c</item>
+        <item>https://ad.edugram.com?rid=46c57afd20273981</item>
+        <item>https://ad.edugram.com?rid=0b0154780d4089d5</item>
+        <item>https://ad.edugram.com?rid=7bb08bbb5081043c</item>
+        <item>https://play.google.com/store/apps/details?id=com.greenkeycompany.librain</item>
+        <item>https://play.google.com/store/apps/details?id=com.greenkeycompany.librain</item>
+        <item>https://play.google.com/store/apps/details?id=com.greenkeycompany.librain</item>
+        <item>https://play.google.com/store/apps/details?id=com.greenkeycompany.librain</item>
+        <item>https://play.google.com/store/apps/details?id=com.greenkeycompany.librain</item>
+        <item>https://play.google.com/store/apps/details?id=com.greenkeycompany.librain</item>
+    </string-array>
+    <string-array name="recommendation_services_title">
+        <item>Studybay</item>
+        <item>Fiverr</item>
+        <item>Shawacademy</item>
+        <item>Skillshare.com</item>
+        <item>Librain</item>
+        <item>Increase attention</item>
+        <item>Develop memory</item>
+        <item>Librain</item>
+        <item>Librain</item>
+        <item>Librain</item>
+    </string-array>
+    <string-array name="rules_of_success_array">
+        <item>Make sure to set goals. Short-term (daily) and long-term (weekly, monthly and yearly).</item>
+        <item>Then break them down into smaller manageable chunks.</item>
+        <item>And create to-do lists. This is the only way to keep track of everything you need to get done.</item>
+        <item>Don’t be afraid to take risks. You will never be 100% ready when an opportunity arises.</item>
+        <item>Surround yourself with positive people. (Here is how to do that).</item>
+        <item>Visualize yourself being successful. Better even, live as if you have already achieved success.</item>
+        <item>Make a plan or a blueprint for success. Imagine in your mind the steps you need to take to achieve your goal.</item>
+        <item>Listen to your gut. And look for signs from the Universe.</item>
+        <item>"Don't overthink things. Stay focused on what is really important and let go of everything else."</item>
+        <item>Work with the flow of things.</item>
+        <item>Know your distractions. Make a list of things that keep you from staying focused and make sure to get rid of them when you are working on your goal.</item>
+        <item>Understand that your time is limited. Don’t put off until tomorrow what you can do today.</item>
+        <item>And visualize (a successful) tomorrow before going to sleep.</item>
+        <item>Do things that scare you. Step out of your comfort zone from time to time.</item>
+        <item>Get rid of limiting beliefs and false ideologies. Stay open-minded.workshop-banner</item>
+        <item>Develop self-confidence. Or at least learn to act as if you are confident.</item>
+        <item>Be more sociable. This isn’t easy for many people, but it is still important to take small steps to develop social skills.</item>
+        <item>Accept your mistakes and learn from them.</item>
+        <item>And never let past failures stop you.</item>
+        <item>Be persistent. Keep going no matter what and develop a relentless motor.</item>
+        <item>Be flexible.</item>
+        <item>Understand the importance of taking care of yourself.</item>
+        <item>Pay close attention to your physical health. Eat good food, drink and smoke less, and exercise.</item>
+        <item>But don’t forget about our mental health. Learn a few stress-relief techniques and use them daily.</item>
+        <item>Always keep learning and growing.</item>
+        <item>Don’t just be book smart, be stress smart as well.</item>
+        <item>Make sure you know why you are trying to be successful. Do it for the right reasons and never forget what these reasons are. They will keep you motivated.</item>
+        <item>Find out what is blocking your success. And then work on eliminating it.</item>
+        <item>Optimize your sleeping habits. Develop an evening routine and go to bed at the same time every day.</item>
+        <item>Believe in yourself. You can do it!</item>
+        <item>No matter what, get up, dress up and show up.</item>
+        <item>Manage your time.</item>
+        <item>But leave space in your calendar for just relaxing and having fun.</item>
+        <item>"Check-in with yourself regularly to make sure you aren't overstressed."</item>
+        <item>Be more patient and calm. Good things are coming.</item>
+        <item>Think positive thoughts.</item>
+        <item>And learn to protect your personal energy. Don’t let the emotional vampires near yourself.</item>
+        <item>Have a strong desire to attain success. Read motivational quotes and inspiring stories if you need to.</item>
+        <item>Don’t make excuses for yourself.</item>
+        <item>Accept that you are only human, and you will make mistakes. It’s normal.</item>
+        <item>Hang out with successful people more and learn from them.</item>
+        <item>Be committed to your dreams.</item>
+        <item>Focus on opportunities and not failure.</item>
+        <item>When life gets tough, just keep going. It will get better soon. (Here is something that might help you – 64 ideas for self-care when life gets hard).</item>
+        <item>Visualize the process as well as the end goal.</item>
+        <item>And never focus on obstacles.</item>
+        <item>Be yourself.</item>
+        <item>Be willing to be different than everyone else.</item>
+        <item>"Remember that it is your life. And make sure you are following your dreams and not someone else's."</item>
+        <item>Don’t let other people influence your decisions too much. Listen to good advice. But remember that no one else is walking in your shoes.</item>
+        <item>Plus, people don’t actually care as much as you think they do – keep this in mind.</item>
+        <item>Trust that you are the only person who know’s what’s best for you.</item>
+        <item>Realize that you don’t owe an explanation of your dreams and life goals to anyone.</item>
+        <item>Same as you don’t owe anyone an ear for endless complaining.</item>
+        <item>Remove the toxic people from your life.</item>
+        <item>Be proactive.</item>
+        <item>Remember that knowing is not enough, you must be able to apply this knowledge. And being willing is not enough, you have to actually get it done.</item>
+        <item>Play on your strengths and work on your weaknesses.</item>
+        <item>Don’t take criticism personally.</item>
+        <item>But do learn and grow from feedback.</item>
+        <item>Be mentally active and engaged.</item>
+        <item>When you get bored or restless, find new hobbies, meet new people or go travelling.</item>
+        <item>In general, try to meet as many new people as possible. Everyone who comes into our life has something to teach us.</item>
+        <item>And travel more. It’s an eye-opening experience.</item>
+        <item>Closely monitor your progress.</item>
+        <item>Stay grateful.</item>
+        <item>Write down your thoughts when they become too much.</item>
+        <item>Be kind to yourself. Stop constantly blaming yourself for something.</item>
+        <item>Have an optimistic perspective on life. Everything will be OK.</item>
+        <item>Work on relationships.</item>
+        <item>Give generously and share what you have.</item>
+        <item>And be kind to others. You will never regret this.</item>
+        <item>Work harder than the rest.</item>
+        <item>Don’t procrastinate.</item>
+        <item>Don’t waste time doing unnecessary things.</item>
+        <item>Take responsibility for your actions, ideas and thoughts.</item>
+        <item>Take control of your life.</item>
+        <item>Organize your mind and thoughts.</item>
+        <item>Learn to understand and control your emotions.</item>
+        <item>See the extraordinary in the ordinary every day.</item>
+        <item>Breathe deep and let go of negative things.</item>
+        <item>Mirror what you admire. Become what you respect.</item>
+        <item>Don’t be afraid to start over. You’re not giving up, just taking the chance to rebuild something better.</item>
+        <item>Don’t let the past hold you back.</item>
+        <item>Say thank you to all the people that are kind and loving to you.</item>
+        <item>Don’t be afraid to fail, be afraid not to try.</item>
+        <item>Trust that if the answer was NO, there is a better YES waiting for you down the road.</item>
+        <item>Get rid of all the drama in your life. It’s not the eighth grade.</item>
+        <item>Face your problems and don’t bury your head in the sand. There isn’t anything you can’t deal with.</item>
+        <item>Take breaks at regular intervals.</item>
+        <item>Spend more time with your friends and family.</item>
+        <item>Dream big.</item>
+        <item>Be open about your feelings. It will save you a lot of time.</item>
+        <item>Forgive. Sometimes it’s the only way to move forward with your life.</item>
+        <item>Learn how to make people like you.</item>
+        <item>Become comfortable with yourself and your surroundings.</item>
+        <item>Be flexible and open to change.</item>
+        <item>Say YES more often to experience new things.</item>
+        <item>But don’t be afraid to say NO.</item>
+        <item>Improve your self-esteem but always be humble</item>
+        <item>Silence your inner critic.</item>
+    </string-array>
+    <string-array name="schulte_table_settings_column_count_entries">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="schulte_table_settings_row_count_entries">
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="speed_reading_words">
+        <item>act</item>
+        <item>action</item>
+        <item>actor</item>
+        <item>air</item>
+        <item>alarm</item>
+        <item>angle</item>
+        <item>ants</item>
+        <item>base</item>
+        <item>basin</item>
+        <item>basket</item>
+        <item>bat</item>
+        <item>care</item>
+        <item>cars</item>
+        <item>cart</item>
+        <item>cat</item>
+        <item>cattle</item>
+        <item>cause</item>
+        <item>clam</item>
+        <item>class</item>
+        <item>dad</item>
+        <item>day</item>
+        <item>death</item>
+        <item>debt</item>
+        <item>degree</item>
+        <item>design</item>
+        <item>detail</item>
+        <item>dime</item>
+        <item>dirt</item>
+        <item>doctor</item>
+        <item>dogs</item>
+        <item>ear</item>
+        <item>earth</item>
+        <item>effect</item>
+        <item>egg</item>
+        <item>eggs</item>
+        <item>end</item>
+        <item>engine</item>
+        <item>error</item>
+        <item>event</item>
+        <item>expert</item>
+        <item>eyes</item>
+        <item>face</item>
+        <item>foot</item>
+        <item>geese</item>
+        <item>ghost</item>
+        <item>giants</item>
+        <item>girl</item>
+        <item>glass</item>
+        <item>grade</item>
+        <item>grain</item>
+        <item>grape</item>
+        <item>grass</item>
+        <item>grip</item>
+        <item>ground</item>
+        <item>group</item>
+        <item>guitar</item>
+        <item>gun</item>
+        <item>hair</item>
+        <item>hall</item>
+        <item>home</item>
+        <item>honey</item>
+        <item>hook</item>
+        <item>hope</item>
+        <item>horse</item>
+        <item>horses</item>
+        <item>hose</item>
+        <item>hot</item>
+        <item>hour</item>
+        <item>house</item>
+        <item>ice</item>
+        <item>icicle</item>
+        <item>income</item>
+        <item>ink</item>
+        <item>insect</item>
+        <item>iron</item>
+        <item>island</item>
+        <item>jail</item>
+        <item>jam</item>
+        <item>jar</item>
+        <item>match</item>
+        <item>meal</item>
+        <item>meat</item>
+        <item>men</item>
+        <item>metal</item>
+        <item>mice</item>
+        <item>milk</item>
+        <item>mind</item>
+        <item>mine</item>
+        <item>mint</item>
+        <item>minute</item>
+        <item>mist</item>
+        <item>mitten</item>
+        <item>mom</item>
+        <item>monkey</item>
+        <item>month</item>
+        <item>moon</item>
+        <item>move</item>
+        <item>muscle</item>
+        <item>name</item>
+        <item>needle</item>
+        <item>pan</item>
+        <item>paper</item>
+        <item>parcel</item>
+        <item>part</item>
+        <item>party</item>
+        <item>range</item>
+        <item>rat</item>
+        <item>ray</item>
+        <item>record</item>
+        <item>regret</item>
+        <item>rest</item>
+        <item>things</item>
+        <item>thrill</item>
+        <item>thumb</item>
+        <item>ticket</item>
+        <item>time</item>
+        <item>tin</item>
+        <item>title</item>
+        <item>toes</item>
+        <item>tongue</item>
+        <item>trucks</item>
+        <item>turkey</item>
+        <item>twist</item>
+        <item>use</item>
+        <item>value</item>
+        <item>van</item>
+        <item>vase</item>
+        <item>wine</item>
+        <item>winter</item>
+        <item>wire</item>
+        <item>wish</item>
+        <item>woman</item>
+        <item>women</item>
+        <item>year</item>
+        <item>yoke</item>
+        <item>zebra</item>
+        <item>zipper</item>
+        <item>zoo</item>
+    </string-array>
+    <array name="true_colors_list">
+        <item>@color/red</item>
+        <item>@color/result_chart_item_1_color</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+        <item>@color/blue_dark</item>
+        <item>@color/purple</item>
+    </array>
+    <string-array name="true_colors_words">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Purple</item>
+    </string-array>
+    <string-array name="word_pairs_non_equal_first_words">
+        <item>ad</item>
+        <item>ail</item>
+        <item>auger</item>
+        <item>auk</item>
+        <item>aural</item>
+        <item>awe</item>
+        <item>axel</item>
+        <item>aye</item>
+        <item>bare</item>
+        <item>bark</item>
+        <item>baron</item>
+        <item>bel</item>
+        <item>berry</item>
+        <item>berth</item>
+        <item>bight</item>
+        <item>blew</item>
+        <item>clack</item>
+        <item>clew</item>
+        <item>climb</item>
+        <item>close</item>
+        <item>fair</item>
+        <item>fate</item>
+        <item>faun</item>
+        <item>flew</item>
+        <item>flex</item>
+        <item>floe</item>
+        <item>flour</item>
+        <item>foaled</item>
+        <item>for</item>
+        <item>fort</item>
+        <item>forth</item>
+        <item>foul</item>
+        <item>franc</item>
+        <item>freeze</item>
+        <item>friar</item>
+        <item>furs</item>
+        <item>gait</item>
+        <item>gallop</item>
+        <item>gamble</item>
+        <item>gays</item>
+        <item>genes</item>
+        <item>gild</item>
+        <item>gilt</item>
+        <item>giro</item>
+        <item>gnaw</item>
+        <item>gneiss</item>
+        <item>heard</item>
+        <item>hew</item>
+        <item>hi</item>
+        <item>higher</item>
+        <item>knot</item>
+        <item>know</item>
+        <item>lieu</item>
+        <item>links</item>
+        <item>lo</item>
+        <item>load</item>
+        <item>loan</item>
+        <item>locks</item>
+        <item>loop</item>
+        <item>loot</item>
+        <item>made</item>
+        <item>mail</item>
+        <item>naval</item>
+        <item>nay</item>
+        <item>nigh</item>
+        <item>none</item>
+        <item>od</item>
+        <item>ode</item>
+        <item>oh</item>
+        <item>one</item>
+        <item>packed</item>
+        <item>packs</item>
+        <item>pail</item>
+        <item>pain</item>
+        <item>pair</item>
+        <item>pause</item>
+        <item>pea</item>
+        <item>peace</item>
+        <item>plain</item>
+        <item>pleas</item>
+        <item>plum</item>
+        <item>pole</item>
+        <item>poof</item>
+        <item>quean</item>
+        <item>rung</item>
+        <item>rye</item>
+        <item>sale</item>
+        <item>sane</item>
+        <item>satire</item>
+        <item>sauce</item>
+        <item>saver</item>
+        <item>spade</item>
+        <item>wright</item>
+    </string-array>
+    <string-array name="word_pairs_non_equal_second_words">
+        <item>add</item>
+        <item>ale</item>
+        <item>augur</item>
+        <item>orc</item>
+        <item>oral</item>
+        <item>oar</item>
+        <item>axle</item>
+        <item>eye</item>
+        <item>bear</item>
+        <item>barque</item>
+        <item>barren</item>
+        <item>bell</item>
+        <item>bury</item>
+        <item>birth</item>
+        <item>bite</item>
+        <item>blue</item>
+        <item>claque</item>
+        <item>clue</item>
+        <item>clime</item>
+        <item>cloze</item>
+        <item>fare</item>
+        <item>fete</item>
+        <item>fawn</item>
+        <item>flu</item>
+        <item>flecks</item>
+        <item>flow</item>
+        <item>flower</item>
+        <item>fold</item>
+        <item>fore</item>
+        <item>fought</item>
+        <item>fourth</item>
+        <item>fowl</item>
+        <item>frank</item>
+        <item>frieze</item>
+        <item>fryer</item>
+        <item>furze</item>
+        <item>gate</item>
+        <item>galop</item>
+        <item>gambol</item>
+        <item>gaze</item>
+        <item>jeans</item>
+        <item>guild</item>
+        <item>guilt</item>
+        <item>gyro</item>
+        <item>nor</item>
+        <item>nice</item>
+        <item>herd</item>
+        <item>hue</item>
+        <item>high</item>
+        <item>hire</item>
+        <item>not</item>
+        <item>no</item>
+        <item>loo</item>
+        <item>lynx</item>
+        <item>low</item>
+        <item>lode</item>
+        <item>lone</item>
+        <item>lox</item>
+        <item>loupe</item>
+        <item>lute</item>
+        <item>maid</item>
+        <item>male</item>
+        <item>navel</item>
+        <item>neigh</item>
+        <item>nye</item>
+        <item>nun</item>
+        <item>odd</item>
+        <item>owed</item>
+        <item>owe</item>
+        <item>won</item>
+        <item>pact</item>
+        <item>pax</item>
+        <item>pale</item>
+        <item>pane</item>
+        <item>pare</item>
+        <item>paws</item>
+        <item>pee</item>
+        <item>piece</item>
+        <item>plane</item>
+        <item>please</item>
+        <item>plumb</item>
+        <item>poll</item>
+        <item>pouffe</item>
+        <item>queen</item>
+        <item>wrung</item>
+        <item>wry</item>
+        <item>sail</item>
+        <item>seine</item>
+        <item>satyr</item>
+        <item>source</item>
+        <item>savour</item>
+        <item>spayed</item>
+        <item>write</item>
+    </string-array>
+    <string-array name="word_pairs_words">
+        <item>act</item>
+        <item>action</item>
+        <item>actor</item>
+        <item>air</item>
+        <item>alarm</item>
+        <item>anger</item>
+        <item>board</item>
+        <item>bomb</item>
+        <item>boot</item>
+        <item>border</item>
+        <item>bottle</item>
+        <item>boy</item>
+        <item>brake</item>
+        <item>branch</item>
+        <item>brass</item>
+        <item>bridge</item>
+        <item>butter</item>
+        <item>button</item>
+        <item>cable</item>
+        <item>cactus</item>
+        <item>cake</item>
+        <item>camera</item>
+        <item>camp</item>
+        <item>cannon</item>
+        <item>canvas</item>
+        <item>cap</item>
+        <item>card</item>
+        <item>care</item>
+        <item>cars</item>
+        <item>cart</item>
+        <item>cat</item>
+        <item>cattle</item>
+        <item>cause</item>
+        <item>cave</item>
+        <item>celery</item>
+        <item>cellar</item>
+        <item>cent</item>
+        <item>chalk</item>
+        <item>chess</item>
+        <item>chin</item>
+        <item>church</item>
+        <item>movingCircle</item>
+        <item>clam</item>
+        <item>class</item>
+        <item>cloth</item>
+        <item>clover</item>
+        <item>club</item>
+        <item>coal</item>
+        <item>coil</item>
+        <item>cook</item>
+        <item>corn</item>
+        <item>cover</item>
+        <item>cows</item>
+        <item>crate</item>
+        <item>credit</item>
+        <item>crime</item>
+        <item>crook</item>
+        <item>crow</item>
+        <item>crowd</item>
+        <item>crown</item>
+        <item>cub</item>
+        <item>dad</item>
+        <item>day</item>
+        <item>death</item>
+        <item>debt</item>
+        <item>degree</item>
+        <item>design</item>
+        <item>detail</item>
+        <item>dime</item>
+        <item>dirt</item>
+        <item>doctor</item>
+        <item>dogs</item>
+        <item>donkey</item>
+        <item>door</item>
+        <item>drain</item>
+        <item>drawer</item>
+        <item>dress</item>
+        <item>drink</item>
+        <item>duck</item>
+        <item>ducks</item>
+        <item>dust</item>
+        <item>ear</item>
+        <item>flame</item>
+        <item>flesh</item>
+        <item>flock</item>
+        <item>floor</item>
+        <item>grain</item>
+        <item>grape</item>
+        <item>grass</item>
+        <item>grip</item>
+        <item>ground</item>
+        <item>group</item>
+        <item>guitar</item>
+        <item>gun</item>
+        <item>hair</item>
+        <item>hall</item>
+        <item>hammer</item>
+        <item>hat</item>
+        <item>hate</item>
+        <item>health</item>
+        <item>hole</item>
+        <item>home</item>
+        <item>honey</item>
+        <item>hook</item>
+        <item>hope</item>
+        <item>horse</item>
+        <item>horses</item>
+        <item>hose</item>
+        <item>hot</item>
+        <item>hour</item>
+        <item>house</item>
+        <item>houses</item>
+        <item>ice</item>
+        <item>icicle</item>
+        <item>income</item>
+        <item>ink</item>
+        <item>insect</item>
+        <item>iron</item>
+        <item>island</item>
+        <item>jail</item>
+        <item>jam</item>
+        <item>jar</item>
+        <item>jewel</item>
+        <item>jump</item>
+        <item>key</item>
+        <item>kick</item>
+        <item>knee</item>
+        <item>knife</item>
+        <item>lace</item>
+        <item>land</item>
+        <item>laugh</item>
+        <item>letter</item>
+        <item>line</item>
+        <item>mine</item>
+        <item>mint</item>
+        <item>minute</item>
+        <item>mist</item>
+        <item>mitten</item>
+        <item>mom</item>
+        <item>monkey</item>
+        <item>month</item>
+        <item>moon</item>
+        <item>move</item>
+        <item>muscle</item>
+        <item>name</item>
+        <item>needle</item>
+        <item>nerve</item>
+        <item>nest</item>
+        <item>night</item>
+        <item>north</item>
+        <item>nose</item>
+        <item>note</item>
+        <item>point</item>
+        <item>pot</item>
+        <item>potato</item>
+        <item>powder</item>
+        <item>profit</item>
+        <item>prose</item>
+        <item>pull</item>
+        <item>pump</item>
+        <item>push</item>
+        <item>quiet</item>
+        <item>quill</item>
+        <item>quilt</item>
+        <item>quiver</item>
+        <item>sheet</item>
+        <item>shelf</item>
+        <item>ship</item>
+        <item>shirt</item>
+        <item>shock</item>
+        <item>shoe</item>
+        <item>shoes</item>
+        <item>show</item>
+        <item>silk</item>
+        <item>silver</item>
+        <item>sink</item>
+        <item>sister</item>
+        <item>size</item>
+        <item>skate</item>
+        <item>skin</item>
+        <item>skirt</item>
+        <item>sky</item>
+        <item>slave</item>
+        <item>sleep</item>
+        <item>slope</item>
+        <item>smash</item>
+        <item>smell</item>
+        <item>smile</item>
+        <item>smoke</item>
+        <item>snails</item>
+        <item>sneeze</item>
+        <item>soap</item>
+        <item>soda</item>
+        <item>sofa</item>
+        <item>son</item>
+        <item>song</item>
+        <item>wish</item>
+        <item>work</item>
+        <item>worm</item>
+        <item>wound</item>
+        <item>wren</item>
+        <item>yam</item>
+        <item>yard</item>
+        <item>year</item>
+        <item>yoke</item>
+        <item>zoo</item>
+    </string-array>
+</resources>

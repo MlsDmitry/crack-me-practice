@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="accelerator_course_training_titles">
+        <item>Acelerador neuronal 1</item>
+        <item>Acelerador neuronal 1.1</item>
+        <item>Acelerador neuronal 1.1.1</item>
+        <item>Acelerador neuronal 2.2</item>
+        <item>Acelerador neuronal 4</item>
+        <item>Acelerador neuronal 1</item>
+        <item>Acelerador neuronal 1.1</item>
+        <item>Acelerador neuronal 1.1.1</item>
+        <item>Acelerador neuronal 2.2</item>
+    </string-array>
+    <string-array name="accelerator_settings_duration_entries">
+        <item>30 seg.</item>
+        <item>45 seg.</item>
+        <item>60 seg.</item>
+        <item>75 seg.</item>
+        <item>90 seg.</item>
+    </string-array>
+    <string-array name="cup_timer_settings_duration_entries">
+        <item>10 min.</item>
+        <item>15 min.</item>
+        <item>20 min.</item>
+        <item>25 min.</item>
+        <item>30 min.</item>
+    </string-array>
+    <string-array name="cup_timer_settings_type_entries">
+        <item>Taça</item>
+        <item>Pirâmide</item>
+    </string-array>
+    <string-array name="green_dot_settings_duration_entries">
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>30 minutos</item>
+        <item>60 minutos</item>
+    </string-array>
+    <string-array name="library_book_actions">
+        <item>Remover o livro</item>
+    </string-array>
+    <string-array name="line_of_sight_alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_board_size_entries">
+        <item>Pequeno</item>
+        <item>Mediano</item>
+        <item>Maior</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_field_type_entries">
+        <item>Pequeno (4 pontos)</item>
+        <item>Grande (8 pontos)</item>
+    </string-array>
+    <string-array name="math_settings_duration_entries">
+        <item>10 seg.</item>
+        <item>5 seg.</item>
+        <item>3 seg.</item>
+    </string-array>
+    <string-array name="motivators">
+        <item>Os sonhos não funcionam até que você trabalhe.</item>
+        <item>Você terá necessariamente sucesso.</item>
+        <item>A motivação é algo que ajuda a começar. O hábito é algo que ajuda a continuar.</item>
+        <item>Você não recebe o que você merece, mas o que você consegue.</item>
+        <item>Depois de um ano, você lamentará que não tenha começado a estudar hoje.</item>
+        <item>Não desista, assim é mais difícil chegar ao pináculo.</item>
+        <item>Para chegar ao objetivo, é preciso, antes de tudo, ir para ele.</item>
+        <item>O caminho para o objetivo pode especificar somente a perseverança.</item>
+        <item>O forte desejo de aprender alguma coisa já é um sucesso de 50%.</item>
+        <item>Não prove nada a ninguém - simplesmente fazê-lo.</item>
+        <item>Faça o que puder com o que tens.</item>
+        <item>O tempo não gosta de ser desperdiçado.</item>
+        <item>E o que você fez hoje para a conquista de seu objetivo?</item>
+        <item>Tolerar a dor da disciplina ou tolerar a dor do arrependimento.</item>
+        <item>Mantenha a fé em si mesmo ainda quando ninguém acredita em Você.</item>
+        <item>Cada sonho merece uma chance de sucesso!</item>
+        <item>Se você quiser, você vai conseguir. Não conseguiu - mal queria.</item>
+        <item>Sucesso é a capacidade de mover-se de um fracasso a outro sem perder o entusiasmo.</item>
+        <item>Obrigado a todos aqueles que se recusaram a me ajudar. Graças a eles, eu mesmo fiz.</item>
+        <item>Quando uma boa idéia veio em sua mente, imediatamente atue.</item>
+        <item>A melhor maneira de prever o seu futuro é tornar – se seu criador.</item>
+        <item>Não há nada impossível.</item>
+        <item>A vida é uma série de problemas. Ou serás a lamentar-se, ou de enfrentá-los.</item>
+        <item>Encontre o objetivo - os recursos estarão disponíveis.</item>
+        <item>Defina grandes metas perante você - assim é mais difícil perdê-las!</item>
+        <item>Desenvolvendo-se, Você se preocupa sobre o futuro de seus descendentes.</item>
+        <item>Busque oportunidades para a realização de ideias.</item>
+        <item>Não perca a oportunidade - caso contrário, outros vão pegar.</item>
+        <item>Não fique na cama, se Você não faz dinheiro ficando na cama.</item>
+        <item>O principal não é deixar de acreditar na sua força.</item>
+        <item>Não há saída somente do túmulo.</item>
+        <item>Não há metas inatingíveis – há pessoas fracas.</item>
+        <item>A chance não é a única. A vida definitivamente dará mais uma.</item>
+        <item>Trabalhe para melhorar si mesmo. Ninguém se torna uma boa pessoa por acidente.</item>
+        <item>Não tenha medo de crescer lentamente, tenha medo de manter-se inalterado.</item>
+        <item>Quem muito quer ser bem sucedido, ele quase já é bem sucedido.</item>
+        <item>Viva com dois princípios: estabeleça um objetivo, alcance-o.</item>
+        <item>Para que seja fácil depois, você precisa enfrentar as dificuldades agora.</item>
+        <item>Quaisquer mudanças são acompanhadas de dor. Se você não sentir isso, então nada mudou.</item>
+        <item>As pessoas fazem rebuliço para finalmente encontrar a paz, mas alguns começam a partir do final.</item>
+        <item>Quando Seus sonhos sejam mais forte de que todos os medos, eles vão começar a se tornar realidade.</item>
+        <item>Gosta Você de subir alto?, use as suas próprias pernas.</item>
+        <item>Arrisque tudo por seus sonhos, e então eles vão a tornar-se realidade.</item>
+        <item>Vosso futuro criado a partir do que Você está fazendo hoje, e não amanhã!</item>
+        <item>Freio no caminho para nossas conquistas – são as dúvidas de hoje.</item>
+        <item>Quanto mais você trabalha, mais afortunado você se tornar.</item>
+        <item>Faça mais uma abordagem.</item>
+        <item>Faça seu trabalho como um hobby, e então você não terá que trabalhar nem um dia em sua vida.</item>
+        <item>Você não pode obter algo que valha a pena, sem fazer esforço.</item>
+        <item>A educação superior nos dá a oportunidade de ganhar o pão de cada dia, e a auto-educação - para o caviar e a manteiga.</item>
+        <item>Para encontrar um novo caminho, você precisa sair da estrada antiga.</item>
+        <item>A essência da leitura rápida não é ler a um ritmo frenético e tudo consecutivamente, mas encontrar o texto correto e entender o seu significado.</item>
+        <item>Um bom programa faz que o resultado se torne uma habilidade. E isso fica para sempre.</item>
+        <item>100% de tentativas não efectuadas, não podem ter sucesso.</item>
+        <item>Para obter algo que nunca teve, precisa fazer algo que nunca tinha feito.</item>
+        <item>Uma corrida ruim às vezes se transforma no início de um novo caminho para o sucesso.</item>
+        <item>Não se pode esperar, quando tudo ao redor mude. Tem que mudar a si mesmo. Não podes – faz alguma coisa, e simplesmente não fiques parado.</item>
+        <item>As ações nem sempre trazem felicidade, mas sem ações, não há felicidade.</item>
+        <item>Chegará o momento em que você decida que tudo está acabado. Este momento será o início.</item>
+        <item>À medida que você cuida do seu próprio desenvolvimento, você demonstrará a vida o lugar que você merece.</item>
+        <item>Elimine o máximo de opções possíveis.</item>
+        <item>Nunca te detenhas no mal, caso contrário, omitirás o bem.</item>
+        <item>O destino de um homem preguiçoso é como uma máquina danificada, não cria nada, exceto peças defeituosas.</item>
+        <item>Lembre-se que o tédio e a preguiça são curadas com o entusiasmo. Dedicando-se por completo ao seu negócio, Você vai encontrar o antídoto.</item>
+        <item>Quanto mais se espera, tanto mais se perde.</item>
+        <item>O que você acredita é o que você receberá.</item>
+        <item>Entendimento - é o estabelecimento de uma relação lógica entre os objetos através do uso dos conhecimentos existentes.</item>
+        <item>Os livros são lidos para compreender princípios elevados, e os princípios elevados são assimilados para aplicá-los na vida.</item>
+        <item>Como você acha que você é, assim será.</item>
+        <item>A melhor maneira de avaliar o seu trabalho, é de se imaginar sem ele.</item>
+        <item>O mais grave erro é um treinamento irregular. Sem exercícios sistemáticos, nada substancial pode ser alcançado.</item>
+        <item>Guardar dentro de si mesmo pensamentos negativos é igual a um lento suicídio.</item>
+        <item>Para avançar sem interrupção, é necessário definir uma meta.</item>
+        <item>A diferença entre quem você é e quem você quer ser - é aquilo que você faz!</item>
+        <item>Seu passado não pode determinar o Seu futuro, se Você não o permitir.</item>
+        <item>A verdadeira vida começa fora da área de nossa zona de conforto. Aprenda a aceitar as mudanças, e chegará a ser melhor.</item>
+        <item>Se Você, apesar de todos seus erros e fracassos não se rende, e está disposto a tropeçar e cair, então, necessariamente, Você terá sucesso.</item>
+        <item>O objetivo deve ser real e maximamente concreto.</item>
+        <item>Quanto você pensa sobre o bem, tanto conseguirá.</item>
+        <item>Mostre a vida o que quiser, então ela vai decidir o que você vai conseguir.</item>
+        <item>Lendo mais frequentemente os textos de motivação, vamos chegar rapidamente às metas estabelecidas.</item>
+    </string-array>
+    <string-array name="pass_course_training_titles">
+        <item>Tabela Schulte</item>
+        <item>Tabela Schulte</item>
+        <item>Tabela Schulte</item>
+        <item>Tabela Schulte</item>
+        <item>Tabela Schulte</item>
+        <item>Lembre-se da cifra</item>
+        <item>Campo de visão</item>
+        <item>Velocidade de leitura</item>
+        <item>Um par de palavras</item>
+        <item>Cifras pares</item>
+        <item>Tabela Schulte</item>
+        <item>Tabela Schulte</item>
+        <item>Tabela Schulte</item>
+        <item>Tabela Schulte</item>
+        <item>Tabela Schulte</item>
+        <item>Lembre-se da cifra</item>
+        <item>Campo de visão</item>
+        <item>Campo de visão</item>
+        <item>Velocidade de leitura</item>
+        <item>O ponto verde</item>
+    </string-array>
+    <string-array name="reader_reading_modes_dialog_items">
+        <item>Ordinário</item>
+        <item>Rápido</item>
+        <item>Tiro com escolha</item>
+        <item>Leitura com um lápis</item>
+    </string-array>
+    <string-array name="recommendation_services_description">
+        <item>StudyBay Brazil é uma troca on-line para estudantes e autores de língua portuguesa! O aluno recebe um trabalho único de qualquer nível de complexidade e mais tempo livre, enquanto o autor tem ganhos adicionais e experiência inestimável.</item>
+        <item>O Fiverr é o maior mercado de serviços on-line do mundo, permitindo que empreendedores e empresários aprimorem seus negócios, mantenham-se dentro do orçamento e resolvam os problemas com apenas um clique.</item>
+        <item>O Skillshare é uma plataforma de aprendizado on-line para pessoas que desejam adquirir habilidades criativas. No Skillshare você pode encontrar cursos de design, fotografia, design de jogos, layout, culinária e outras atividades, tão exóticas quanto a caligrafia moderna.</item>
+    </string-array>
+    <string-array name="recommendation_services_link">
+        <item>https://ad.edugram.com/?rid=342e507c4c7e7485</item>
+        <item>https://ad.edugram.com?rid=46c57afd20273981</item>
+        <item>https://ad.edugram.com?rid=7bb08bbb5081043c</item>
+    </string-array>
+    <string-array name="recommendation_services_title">
+        <item>Studybay Brazil</item>
+        <item>Fiverr</item>
+        <item>Skillshare.com</item>
+    </string-array>
+    <string-array name="rules_of_success_array">
+        <item>Não há necessidade de dormir muito. Para um sono completo são suficientes de 6 a 8 horas. Qualidade principal. Levante-se cedo e você terá muito tempo livre.</item>
+        <item>Dedique seu tempo livre pela manhã ao seu próprio estado mental interno. Leia bons livros, reflicta, faça exercícios de yoga, respire o ar fresco da manhã.</item>
+        <item>Não perca tempo. Identifique importantes momentos e ações para você e siga-as. Não se distraia com bagatelas desnecessárias.</item>
+        <item>Concentre-se mais nas emoções positivas em sua vida. Pense nelas e alegre-se. Não se concentre em problemas, e na medida do possível, resolvê-los e esquecê-los.</item>
+        <item>Aprenda a falar por telefone corretamente. Seja educado, cortês, deixe o seu interlocutor sentir a sua importância. Isso lhe dará a oportunidade de resolver de forma positiva todas as questões e problemas.</item>
+        <item>Anote todos os seus desejos, ideias e sonhos em cartões bonitos. Faça isso durante todo o dia, pense nelas. Coloque os cartões em um lugar visível e de vez em quando, verifique-os. Quanto mais ideias, mais será o desejo e a capacidade de colocá-las em prática.</item>
+        <item>Tente reservar tempo para você no domingo à tarde. Relaxe, leia um livro interessante, ouça boa música, execute algum trabalho manual. Em um ambiente calmo, planeje seus assuntos para a semana seguinte. Isso o ajudará a usar o tempo de forma mais eficiente e frutífera.</item>
+        <item>Comunique-se mais com pessoas positivas e agradáveis. A comunicação de qualidade determina a qualidade de vida. Não se esqueça da comunicação consigo mesmo. Concentrem-se em pensamentos positivos, e eles necessariamente se cumprirão.</item>
+        <item>Pense antes de tudo, sobre o objetivo, e não sobre o resultado final. Faça o que você gosta, o que traz satisfação moral. O resultado não vai demorar.</item>
+        <item>Não se esqueça todas as manhãs de começar com um sorriso. Ria em frente ao espelho. Este exercício carrega a energia para todo o dia, relaxam os músculos do rosto, o humor melhora, você se torna alegre e positivo.</item>
+        <item>Acenda velas à noite. Elas criam um ambiente de romance e calmante. Rodeie-se com pessoas agradáveis. Leiam juntos, conversem, ouçam música calma. Fique longe da ansiedade e das preocupações do dia anterior.</item>
+        <item>Para a concentração da atenção, são muito úteis os exercícios de respiração com contagem. É conveniente fazê-lo sobre a marcha. Dê alguns passos na inalação, enquanto conta. Segure a respiração tantos passos como foram contados anteriormente. Execute a exalação da mesma forma, contando. Durante este exercício, nosso cérebro é enriquecido com oxigênio, você sentirá um grande afluxo de forças, seu corpo irá animar. Você aprenderá a se concentrar ainda mais.</item>
+        <item>Certifique-se de aprender a meditar. Nossa mente, e os pensamentos durante o dia experimentam enorme carga emocional. É muito difícil resolver uma determinada tarefa quando não há concentração. Meditar pela manhã e à noite, durante seis meses, e isso vai lhe dar resultados surpreendentes.</item>
+        <item>Tente aprender a ficar calmo. Escolha um pouco de tempo para sentar-se em silêncio absoluto. Pense sobre o que é bom, agradável, algo que afirme a vida.</item>
+        <item>Treine sua força de vontade. Este é um traço de caráter, sem o qual é quase impossível alcançar os objetivos que você precisa. É necessário desenvolver uma estratégia de comportamento e segui-la rigorosamente, não buscando desculpas, esforçar-se em suas atividades para atingir o objetivo desejado, apesar das dificuldades e obstáculos.</item>
+        <item>Tente não perder o senso de humor. Boa piada pode acalmar a atmosfera tensa em equipe, onde você trabalha, elevar o humor. Em tal ambiente, é mais fácil de trabalhar.</item>
+        <item>É muito importante aprender a gerir e administrar seu tempo. Necessariamente, todas as manhãs, faça uma lista de coisas que precisa fazer em primeiro lugar. É importante não se esquecer de outros casos, menos urgentes, mas necessários. Eles também exigem um certo tempo para resolvê-los. E, claro, não se esqueça dos assuntos direcionados para a perspectiva de seu proprio desenvolvimento.</item>
+        <item>Desenvolva relacionamentos com pessoas que buscam o auto-aperfeiçoamento, dão-lhe a energia e positivo. Comunique-se, trabalhe para alcançar objetivos comuns, ensinem uns aos outros, motive.</item>
+        <item>Regozije-se com o que você tem. Sua vida e saúde, a saúde e o bem-estar de seus entes queridos, o mundo circundante, natureza bonita, animais e pássaros, comida deliciosa - isso não deve ser dado como garantia, mas como um presente. Faça uma lista do que você tem, e você vai perceber como é rica e diversificada a sua vida.</item>
+        <item>Cada pessoa define seus objetivos de vida. Você é que determina em que direção mover, quais os princípios a seguir e qual é o objetivo final. É a sua missão na vida. Anote as principais metas e objetivos. Periodicamente rever esta lista,, concentre-se nela, aperfeiçoe suas habilidades, avance. Andre Maurois disse: «Para cada pessoa durante o dia, aparecem pelo menos dez oportunidades para mudar suas vidas. O sucesso vem para aqueles que sabem como usá-las ».</item>
+        <item>Ninguém tem o direito de ofender e maltratar a você. Você deve aprender a interpretar os eventos negativos como um tipo de desafio que o ajudará a alcançar suas metas e objetivos. Tudo isso ajudará a moderar o seu caráter, a desenvolver a força de vontade. «Se alguém quer ofender você, isso significa que é pior» - Confúcio.</item>
+        <item>Assimile a técnica de leitura rápida. Este método irá ajudá-lo a capturar uma quantidade enorme de informações em a menor quantidade de tempo possível.</item>
+        <item>Trate as pessoas com respeito. Lembre-se de seus nomes. Cada pessoa quer se sentir importante e necessária. Vamos dar a oportunidade a outros.</item>
+        <item>Seja gentil, e suave no trato com as pessoas. Mas em determinadas situações, não se deixe manipular. Seja rígido e imutável, quando se trata de seus princípios vitais.</item>
+        <item>Todas as questões relacionadas com a saúde, finanças, problemas pessoais, discuta apenas com a sua família. Não leve esses tópicos para além das fronteiras familiares.</item>
+        <item>Seja honesto, modesto, amável, persistente, afável.</item>
+        <item>Cuide de si mesmo. Mime sua alma e seu corpo. No final do dia tomar um banho quente com óleos aromáticos. Recompense a si mesmo inclusive pelas más pequenas realizações.</item>
+        <item>Aprenda corretamente, com calma a respirar a fundo. Quando excitado, a respiração torna-se intermitente e rápida. A pressão aumenta. Isso afeta negativamente a saúde. Certos treinamentos e exercícios irão ajudá-lo a encontrar a paz e restaurar sua respiração.</item>
+        <item>Utilize auto-sugestão- isto é um processo de sugestão, dirigido a você mesmo. Escolha a frase que formula seu desejo e repita-a com muita frequência. Também pode fazê-lo por escrito: escreva-a de 300 vezes. É importante que não haja uma partícula não nessa frase.</item>
+        <item>Comece um diário pessoal. Anote seus pensamentos, experiências, procure respostas a perguntas, seja feliz com suas realizações. Durante a hora de escrever, a pessoa se acalma, se concentra, começa de uma forma mais positiva de olhar para o problema.</item>
+        <item>Aprenda a controlar seu estresse. O estresse é uma reação do organismo a eventos que ocorrem. Você tem que encontrar o seu único caminho certo para combater o estresse: com ajuda de sua música favorita, socializando com animais, desenho, hobby favorito, etc.</item>
+        <item>Ouça gravações de áudio sobre auto-aperfeiçoamento sempre que fora possível: no carro, no caminho do trabalho, fazendo tarefas domésticas, a qualquer hora livre. Encontre treinamentos adequados para você, e dos quais você tem prazer e proveito.</item>
+        <item>Planeie uma vez na semana, um dia de descanso do estômago. Come frutas e legumes. Beba muita água natural. Seu corpo ganhará leveza, aparecerá mais energia,, fortalecerá a força de vontade.</item>
+        <item>Aprenda a perdoar. O ressentimento, que você experimenta, afeta negativamente o estado mental, você está nervoso, a capacidade de trabalho está diminuída. Tente perdoar o agressor quando é especialmente difícil, e então você pode não prestar atenção aos pequenos rancores, eles não vão te fazer sair fora do equilíbrio mental.</item>
+        <item>Constantemente aprenda algo. Mesmo se você acha que sabe muito. Os novos conhecimentos desenvolvem seu cérebro, aumentam a erudição, aumentam a auto-estima. Você se tornará um interlocutor interessante, um especialista competente, uma pessoa auto-suficiente. Se você soubesse o quanto raramente somos entendidos corretamente, você ficaria em silêncio - Goethe.</item>
+        <item>Seja discreto em palavras e emoções. Deixe a seu redor um halo de pequeno mistério. Fique como um “livro não lido”.</item>
+        <item>Domine a arte da oratória. Supere o medo de falar em público. Treine-se em frente a um espelho ou diante de sua família. Você vai se sentir mais livre, desenvolto, mais sociável.</item>
+        <item>Leve um estilo de vida saudável. Dedique-se a educação física, o esporte, a ginástica. Não em vão, a sabedoria popular diz: Em um corpo saudável, mente saudável. O corpo e a alma estão inseparavelmente ligados: o estado de um afeta o estado do outro. Estando envolvido em exercícios físicos, a pessoa é responsável, corretamente planeja seu tempo e atinge os objectivos previstos.</item>
+        <item>Passeie pela noite, depois de jantar. Este hábito tem um efeito benéfico sobre a saúde física e mental. Durante o passeio, é necessário abstrair de todos os problemas. Aproveite o processo de caminhada, contemple a natureza, respire o ar fresco, pense no agradável.</item>
+        <item>Descanse em a natureza. Desfrute dela. Obtenha dela a sua força emocional. Plante flores, arbustos, árvores. Crie o seu cantinho de beleza e harmonia. Sinta a paz e tranquilidade. A natureza é um curador único de nossas feridas mentais e físicas.</item>
+        <item>Seja moderado em suas ações, emoções, conduta. Mantenha o equilíbrio em todos os tipos de atividades. Essas regras ajudam a fazer a vida feliz e alegre.</item>
+        <item>Cuide de um sono de qualidade e tranquilo. Não coma alimentos pesados durante a noite. O jantar deve ser delicioso, mas leve, três horas antes do sono. Não tome trabalho para a casa, muito menos para a cama. Leia um livro, medite.</item>
+        <item>Cuide da sua reputação, preocupe-se dela. Apreciando a vida, não se esqueça do senso comum e de que atos indecentes podem prejudicá-la. Vai ser muito difícil recuperar a boa opinião de si mesmo.</item>
+        <item>Encontre um mentor. Pode ser seu pai espiritual, um camarada mais velho, um homem que é uma autoridade para você. Sua experiência de vida, conselhos, podem ajudar a evitar muitos erros e decepções.</item>
+        <item>Faça uma lista de seus defeitos e fraquezas. Sistematicamente e intencionalmente livre-se deles. Cada posição excluída da lista proporcionará grande satisfação. Afinal, esta é a sua vitória.</item>
+        <item>Nunca se queixe sobre a vida. As queixas não só destroem o dia de alguém, mas também o dia daquele quem se queixa. Os queixosos programam-se para o negativo. Livre-se desse hábito, acredite em si mesmo, e nada o impedirá a você de alcançar o sucesso.</item>
+        <item>Crie para si uma imagem positiva. Seja calmo, erudito, disciplinado, competente, cortês, decente. Respeite os outros, não apoie as fofocas no trabalho, não seja falador, não revele seus planos a pessoas alheias, seja um pouco secreto e misterioso, alegre e fácil para conhecer.</item>
+        <item>Não permita a familiaridade no local de trabalho. Observe a distância pessoal em a relação chefe-subordinado. Não deixe que os outros o manipulem. Mantenha distância suficiente em as relações em no trabalho. Seja cortês, mas firme na defesa de sua opinião.</item>
+        <item>Se algo o incomoda, use a técnica de visualização. Escreva o problema em uma folha de papel, leia, analise e queime. Sua preocupação desaparecerá junto com o fogo. Tente este método, e você com certeza poderá sentir-se mejor.</item>
+        <item>Não se concentre no problema em questão. Planeje um plano para sua solução. Siga esse plano, e tendo um resultado positivo - esqueça disso. Lembre apenas sobre o bem.</item>
+        <item>Para que sua mente fique no seu pico de atividade, o corpo deve estar relaxado. Para conseguir isso, o yoga ajudará. Faça yoga 15 minutos por dia, e isso vai trazer resultados. O corpo estará relaxado e a mente ficará calma e relaxada.</item>
+        <item>Guarde dinheiro. A prática mundial é muito simples: 10% do salário. E as despesas inesperadas não vão te surpreender.</item>
+        <item>Anote seus sonhos e planos de longo prazo em o diário. Faça tudo para que eles se tornaram realidade. Trabalhe em si mesmo, tome a iniciativa, nunca desespere, vá firmemente para o objetivo pretendido.</item>
+        <item>De manhã e à noite, lembre-se de ler algo positivo e favorável. Isso irá configurar a Você para pensamentos bons e alegres que o acompanharão todo o dia.</item>
+        <item>Defina uma meta para se tornar uma pessoa carismática. Isto está no poder de cada pessoa. O presidente americano John F. Kennedy estava muito doente em sua juventude, mas graças à perseverança e diligência, ele conseguiu se tornar o líder político mais carismático e atraente da história dos EUA.</item>
+        <item>Arrisque, mas com sabedoria. Não fique aí parado. Tente diferentes opções para atingir seus objetivos. Não se detenha nas coisas feitas. Vá adiante, e você terá sucesso, com o qual você nem sonhou.</item>
+        <item>Com muita seriedade, escolha a sua segunda metade. Procure as qualidades como afeto, inteligência, senso de humor, dedicação, respeito. Seja um suporte para o cônjuge, apoie-o e oriente-o. Juntos atravessem a vida.</item>
+        <item>Não tenha medo do estresse. É a reação interna do seu corpo a factores externos. Você precisa aprender a controlá-lo, alternando as soluções de situações de estresse com relaxamento físico e mental. Existe uma infinidade de técnicas e exercícios para resolver a questão. A coisa mais simples que você pode fazer: dormir, relaxar, sorrir, pensar positivamente.</item>
+        <item>Encontre durante o dia, pelo menos, cinco minutos, a fim de distrair-se completamente do trabalho. Feche os olhos, imagine-se em um ambiente muito agradável( na floresta, no mar), e mergulhe totalmente nessas sensações.</item>
+        <item>Nunca interrompa o seu interlocutor. Ouça com atenção, respeite a opinião de outras pessoas. Seja cortês. Você receberá muitas informações e dicas úteis. Da mesma maneira as pessoas vão tratá-lo.</item>
+        <item>Seja curioso e amante de novos conhecimentos. Saiba mais sobre o novo, fique interessado em várias esferas da vida, leia livros de grandes clássicos, literatura científica, jornais, revistas. Você deve estar constantemente em busca de novos conhecimentos, de experiências, de encontros.</item>
+        <item>Não pense sobre o passado. Você não pode alterá-lo. Use a experiência do passado, viva feliz com o presente, esforce-se para sonhar o futuro.Se você não dar o seu passado morrer, ele não te dará a viver.</item>
+        <item>Mantenha uma atitude positiva. É necessário acreditar que o mundo ao seu redor - são seus pensamentos e desejos. Depende de você, o que se materializa - seus sonhos ou medos. Enviando à todo o mundo sentimentos positivos, você muda sua vida e faz mais feliz todo o mundo.</item>
+        <item>Humor – a melhor maneira de superar as dificuldades da vida. Se você pensar negativamente isto, literalmente, envenena o corpo e a alma. Não encare a vida tão a sério</item>
+        <item>Seja pontual. Esta é a qualidade que vai ajudar muito na vida e na carreira. A pontualidade mostra que você é uma pessoa disciplinada, confiável, capaz de valorizar a importância de eventos, com respeito refere-se as pessoas.</item>
+        <item>Todos os dias, faça duas coisas que você não gosta, mas o que você deve fazer. Isso o libertará de pensar sobre isso, fortalecerá a força de vontade e a disciplina. Você vai sentir um enorme alívio e a capacidade de seguir adiante.</item>
+        <item>Mais frequentemente, agradeça a outras pessoas, mesmo por ações pequenas Faça isso sinceramente e com alegria. A gratidão irá inspirá-los, animá-los, causará respeito e bondade para com você.</item>
+        <item>Sinceramente, goste de si mesmo. Uma pessoa que não gosta de si mesmo, não é capaz de amar os outros. Alta auto-estima afeta todas as áreas da vida de uma pessoa Ela determina a confiança e a determinação de suas ações. Uma pessoa com baixa auto-estima teme não só agir, mas até pensar que pode ser escolhido outro modo de desenvolvimento de eventos.</item>
+        <item>Certifique-se de se livrar de maus hábitos e de hábitos que, na sua opinião, interferem com sua vida. Isso pode ser feito pelo menos em 21 dias. De onde veio este número mítico - 21 dias? Maxwell Maltz foi um cirurgião plástico famoso nos anos cinquenta do século vinte. E um dia ele revelou uma incrível regularidade. Quando Maltz estava realizou uma operação - por exemplo, a correção do nariz, - ele percebeu que os pacientes levaram cerca de 21 dias para se acostumar com o novo rosto. E quando o braço ou a perna do paciente foram amputados, a maioria dos pacientes sentiram dores fantasmas por cerca de 21 dias, até se ajustarem a uma nova situação. Esta experiência fez com que Maltz lembre a experiência pessoal de se acostumar com mudanças e novos comportamentos. Ele percebeu que ele também precisava de cerca de 21 dias para formar um novo hábito. Maltz escreveu sobre essa experiência e disse: Estes e muitos outros fenômenos freqüentemente observados geralmente mostram que leva pelo menos 21 dias para que a velha imagem mental fora dissipada e mudada para uma nova. Em 1960, Maltz publicou esta citação e outros pensamentos sobre a mudança de comportamento em um livro chamado «Psycho-Cybernetics». O livro tornou-se um best-seller e mais de 30 milhões de cópias foram vendidas. E então houve um problema. Nas décadas seguintes, o trabalho de Maltz afetou quase todos os profissionais de «auto-ajuda» começando com Zig Ziglar até Brian Tracy e Tony Robbins. E, como no jogo de «telefone estragado» - quanto mais pessoas relatassem a história de Maltz, mais pessoas começaram a se esquecer do que ele disse: «pelo menos 21 dias». A citação foi reduzida e resultou: «Para formar um hábito requerem-se 21 dias ». Então, em a sociedade difundiu-se o mito conhecido de que vinte e um dias (ou 30 dias ou outro número mágico) são necessários para criar um hábito. Uma lição perigosa: Se um número suficiente de pessoas repete uma coisa o suficiente número de vezes, todos os outros, então, começam a acreditar nisso. É fácil entender por que o Mito de «21 dias» espalhou-se. É um tempo o suficientemente curto para inspirar-nos, mas é um tempo o suficientemente longo para ser plausível. Quem não gostará da idéia de mudar a vida em 3 semanas? Mas o problema é que Maltz simplesmente observou o que estava acontecendo ao seu redor, e não declarou isso como um fato. Além disso, ele assegurou que este é a quantidade de tempo mínimo necessário para se adaptar às mudanças. Mas qual é a resposta real? Em quanto tempo, em verdade, se criam novos hábitos? O que diz a ciência? E o que tudo isso significa para cada um de nós? A ciência dá a resposta. E como sempre, é bastante inesperada ... Em no University College de Londres decidiram descobrir a resposta exata. 96 participantes foram convidados a escolher um novo hábito que eles gostariam de adquirir. A maioria estava associada à saúde, por exemplo, «comer um pedaço de fruta no jantar» ou «correr 15 minutos após do jantar». Todos os 84 dias de pesquisa, eles foram ao site e deixaram um pequeno relatório: eles realizaram ou não a ação, e quão automaticamente ela fora sentida. Uma ação feita sem hesitação - é conhecida na ciência como «automatismo» - e acaba por ser o principal motor dos hábitos. E ajuda a iluminar a verdadeira questão: Em quanto tempo, em verdade, é formado o hábito? Em média, para os participantes que forneceram dados suficientes, a formação de hábitos levou 66 dias. Claro, houve diferenças significativas em quanto tempo o hábito foi formado, dependendo do que era necessário fazer. Aqueles que simplesmente tiveram que beber um copo de água após do café da manhã, alcançaram o máximo de automatismo em cerca de 20 dias. Aqueles que se acostumaram a comer frutas no jantar exigiam pelo menos duas vezes mais tempo para criar um hábito. O hábito de fazer exercícios tornou-se o mais difícil. «50 abdominais depois do café da manhã» não se tornaram um hábito para nenhum dos participantes. «Um passeio de 10 minutos após do café da manhã» tornou-se um hábito para vários participantes após de 50 dias. E, como de costume, o caminho para a perfeição não é uma linha reta. Quando os pesquisadores combinaram os resultados em um único gráfico, eles encontraram em vez de uma linha reta uma curva de relacionamento entre hábito e automatismo. As repetições iniciais foram mais úteis para estabelecer um hábito, e os benefícios gradualmente diminuíram ao longo do tempo. É como subir a montanha. Primeiro, há uma subida íngreme, e você rapidamente vai avançar. Depois o aumento é nivelado, e quanto mais perto você estiver no topo, menor será o aumento de altura em cada etapa. Para alguns de nós isto é mais difícil do que outros. O declínio da taxa de fortalecimento foi particularmente pronunciado entre alguns participantes, para quem a formação de um hábito foi particularmente difícil. Tanto que os pesquisadores ficaram surpresos com a forma como alguns hábitos se formaram: embora o estudo tenha durado apenas 84 dias, ao extrapolar as curvas, verificou-se que alguns hábitos podem exigir até 254 dias - a maior parte do ano Há conclusões inspiradoras e há não muito boas. O que esse estudo mostra? Muitas vezes, a criação de hábitos requer muito mais tempo do que nós pensamos. Isso explica porque muitas vezes desistimos de algo que começamos. Por exemplo, para correr de manhã, ou para comer mais saudável, ou para não quebrar ou gritar por ninharias. Você só precisa de mais tempo! E você só precisa entender isso e estar preparado para isso. 21 dias são suficientes para criar um hábito, se é algo extremamente simples. Por exemplo, beber um copo de água depois do almoço. Algo mais complicado leva mais tempo. E em alguns tipos de atividades e muito, muito mais. Conte com 50-60 dias e mais. Às vezes, pode levar um ano inteiro. Para alguns de nós, o hábito é adquirido com muita dificuldade. Neste caso, é necessário começar com algo muito simples. E entenda que talvez você tenha que passar mais tempo. Exercitar-se, por assim dizer, em gatos, entender a mecânica do processo e o que funciona para você. E então, avance para o mais complexo. Eu posso dizer por mim mesmo: tendo treinado em hábitos diferentes, tendo lidado com alguns e falhando em outros, você vai entender como isso funciona, e você poderá aprender a desenvolver hábitos muito mais facilmente e com grande sucesso ao longo do tempo Porque o hábito não é algo sobrenatural. É apenas uma questão de perseverança e «prática consciente». Mesmo Aristóteles nos advertiu sobre isso: «Nós somos o que constantemente fazemos. A perfeição, portanto, não é a ação, mas um hábito». Afinal de contas, não importa quantos dias você vai precisar para formar o hábito – 50 ou 500. De uma forma ou de outra, você será capaz de fazer isso.Tudo o que você precisa, começar desde o primeiro dia e repetir novamente e novamente. Esqueça números - e apenas faça o seu trabalho para hoje.</item>
+        <item>Controle sua alimentação. Ela deve ser equilibrada e útil. Beba água pura. Disso depende o seu bem-estar e saúde. Somos o que comemos.</item>
+        <item>Faça a meditação de acordo com algumas regras:Escolha o mesmo horário, lugar, e você precisa fazer isso todos os dias.</item>
+        <item>O melhor momento – de manhã cedo</item>
+        <item>Lembre-se e use os princípios básicos de uma vida feliz:Conduza uma vida interessante e ativa.</item>
+        <item>A cada minuto, participe em atividades produtivas.</item>
+        <item>Defina objetivos antes de você, e vá até eles.</item>
+        <item>Pense positivamente - não permita que pensamentos negativos tomem posse de você.</item>
+        <item>Não se preocupe sobre ninharias.</item>
+        <item>Descanse, divirta-se.</item>
+        <item>Seja cortês, sociável, amigável.</item>
+        <item>Viva o presente, esforce-se para um futuro feliz.</item>
+        <item>Leia estas regras uma e outra vez.</item>
+    </string-array>
+    <string-array name="speed_reading_words">
+        <item>uniforme</item>
+        <item>mostrar</item>
+        <item>roupão</item>
+        <item>de inverno</item>
+        <item>escuridão</item>
+        <item>posição</item>
+        <item>verdadeiro</item>
+        <item>chapéu</item>
+        <item>cerca</item>
+        <item>parede</item>
+        <item>modo</item>
+        <item>empresa</item>
+        <item>jaqueta</item>
+        <item>armário</item>
+        <item>retrato</item>
+        <item>estrato</item>
+        <item>levar</item>
+        <item>frio</item>
+        <item>custódia</item>
+        <item>defesa</item>
+        <item>atrás</item>
+        <item>disparo</item>
+        <item>presente</item>
+        <item>gesto</item>
+        <item>estrada</item>
+        <item>cadeia</item>
+        <item>porão</item>
+        <item>outrora</item>
+        <item>lâmpada</item>
+        <item>bom</item>
+        <item>engraçado</item>
+        <item>afastar</item>
+        <item>fungo</item>
+        <item>vagar</item>
+        <item>tempo</item>
+        <item>calor</item>
+        <item>de couro</item>
+        <item>pacífico</item>
+        <item>perda</item>
+        <item>portinhola</item>
+        <item>norma</item>
+        <item>colher</item>
+        <item>corda</item>
+        <item>método</item>
+        <item>retirar</item>
+        <item>eterno</item>
+        <item>cómico</item>
+        <item>suave</item>
+        <item>banho</item>
+        <item>caminho</item>
+        <item>janta</item>
+        <item>março</item>
+        <item>sinal</item>
+        <item>doente</item>
+        <item>jogar</item>
+        <item>enviar</item>
+        <item>rede</item>
+        <item>nervo</item>
+        <item>doce</item>
+        <item>hino</item>
+        <item>denúncia</item>
+        <item>assobio</item>
+        <item>absurdo</item>
+        <item>riacho</item>
+        <item>entrada</item>
+        <item>grito</item>
+        <item>ritmo</item>
+        <item>tribo</item>
+        <item>clima</item>
+        <item>flecha</item>
+        <item>montagem</item>
+        <item>álamo</item>
+        <item>letreiro</item>
+        <item>corte</item>
+        <item>caminho</item>
+        <item>acedera</item>
+        <item>pêndulo</item>
+        <item>naipe</item>
+        <item>vaga-lume</item>
+        <item>destróier</item>
+        <item>bonança</item>
+        <item>sábado</item>
+        <item>vela</item>
+        <item>cortina</item>
+        <item>delegado</item>
+        <item>gravura</item>
+        <item>trono</item>
+        <item>crepúsculo</item>
+        <item>arbusto</item>
+        <item>aderência</item>
+        <item>incisão</item>
+        <item>carne</item>
+        <item>buraco</item>
+        <item>processo</item>
+        <item>incisão</item>
+        <item>garra</item>
+        <item>imprensa</item>
+        <item>ruptura</item>
+        <item>actor</item>
+        <item>bastião</item>
+        <item>artigo</item>
+        <item>assunto</item>
+        <item>lã</item>
+        <item>salame</item>
+        <item>biólogo</item>
+        <item>sussurro</item>
+        <item>senhora</item>
+        <item>emboscada</item>
+        <item>bailarino</item>
+        <item>jogo</item>
+        <item>arado</item>
+        <item>vermelhidão</item>
+        <item>memória</item>
+        <item>contagem</item>
+        <item>viburnum</item>
+        <item>povoado</item>
+        <item>damasco</item>
+        <item>lago</item>
+        <item>fluxo</item>
+        <item>tristeza</item>
+        <item>tomate</item>
+        <item>arsenal</item>
+        <item>professor</item>
+        <item>vizinha</item>
+        <item>edicto</item>
+        <item>isca</item>
+        <item>poeta</item>
+        <item>nuvem</item>
+        <item>nota</item>
+    </string-array>
+    <string-array name="true_colors_words">
+        <item>Rosso</item>
+        <item>Arancione</item>
+        <item>Giallo</item>
+        <item>Verde</item>
+        <item>Blu</item>
+        <item>Porpora</item>
+    </string-array>
+    <string-array name="word_pairs_non_equal_first_words">
+        <item>denegação</item>
+        <item>cebola</item>
+        <item>cabra</item>
+        <item>torneira</item>
+        <item>gato</item>
+        <item>esperto</item>
+        <item>fumo</item>
+        <item>cor</item>
+        <item>piso</item>
+        <item>cristalino</item>
+        <item>tigela</item>
+        <item>doninha</item>
+        <item>intenção</item>
+        <item>cortina</item>
+        <item>mão</item>
+        <item>elefante</item>
+        <item>séptico</item>
+        <item>servo</item>
+        <item>alça</item>
+        <item>caudal</item>
+        <item>sabre</item>
+        <item>visão</item>
+        <item>filha</item>
+        <item>lama</item>
+        <item>coser</item>
+        <item>temporada</item>
+        <item>dorso</item>
+        <item>expiar</item>
+        <item>gás</item>
+        <item>pata</item>
+        <item>cinta</item>
+        <item>cerca</item>
+        <item>furo</item>
+        <item>dirigente</item>
+        <item>frialdade</item>
+        <item>esplanada</item>
+        <item>templo</item>
+        <item>ressentimento</item>
+        <item>base</item>
+        <item>pouco</item>
+        <item>autoridade</item>
+        <item>maço</item>
+        <item>ferida</item>
+        <item>gesto</item>
+        <item>cadeia</item>
+        <item>calor</item>
+        <item>esterno</item>
+        <item>tesouro</item>
+        <item>correr</item>
+        <item>carreira</item>
+        <item>tia</item>
+        <item>sexta</item>
+        <item>intenção</item>
+        <item>incipiente</item>
+        <item>cerrar</item>
+        <item>saleiro</item>
+        <item>caçar</item>
+        <item>incerto</item>
+        <item>vês</item>
+        <item>costear</item>
+        <item>intenção</item>
+        <item>vadear</item>
+        <item>acurado</item>
+        <item>calção</item>
+        <item>despensa</item>
+        <item>pleito</item>
+        <item>sortir</item>
+        <item>soar</item>
+        <item>estância</item>
+        <item>amoral</item>
+        <item>junho</item>
+        <item>deferir</item>
+        <item>disputa</item>
+        <item>imprensa</item>
+        <item>aprender</item>
+        <item>emitir</item>
+        <item>mandato</item>
+        <item>ratificar</item>
+        <item>treplicar</item>
+        <item>flagrante</item>
+        <item>emigrar</item>
+        <item>imergir</item>
+        <item>vizinho</item>
+        <item>roupa</item>
+        <item>sebo</item>
+        <item>zumbir</item>
+        <item>osso</item>
+        <item>camiseta</item>
+        <item>parte</item>
+        <item>ponta</item>
+        <item>função</item>
+        <item>carimbo</item>
+        <item>limite</item>
+    </string-array>
+    <string-array name="word_pairs_non_equal_second_words">
+        <item>renegação</item>
+        <item>rebola</item>
+        <item>cobra</item>
+        <item>forneira</item>
+        <item>pato</item>
+        <item>experto</item>
+        <item>rumo</item>
+        <item>por</item>
+        <item>peso</item>
+        <item>cristalizo</item>
+        <item>tecelã</item>
+        <item>dobrinha</item>
+        <item>intensão</item>
+        <item>cortiça</item>
+        <item>pão</item>
+        <item>elegante</item>
+        <item>céptico</item>
+        <item>cervo</item>
+        <item>laça</item>
+        <item>causal</item>
+        <item>sobre</item>
+        <item>vistão</item>
+        <item>folha</item>
+        <item>lhana</item>
+        <item>cozer</item>
+        <item>temperada</item>
+        <item>corso</item>
+        <item>espiar</item>
+        <item>hás</item>
+        <item>prata</item>
+        <item>sinta</item>
+        <item>cerda</item>
+        <item>duro</item>
+        <item>diligente</item>
+        <item>fealdade</item>
+        <item>explanada</item>
+        <item>tempo</item>
+        <item>pressentimento</item>
+        <item>bate</item>
+        <item>louco</item>
+        <item>austeridade</item>
+        <item>paço</item>
+        <item>fervida</item>
+        <item>festa</item>
+        <item>candeia</item>
+        <item>valor</item>
+        <item>externo</item>
+        <item>tesoura</item>
+        <item>ocorrer</item>
+        <item>carteira</item>
+        <item>tua</item>
+        <item>sesta</item>
+        <item>intensão</item>
+        <item>insipiente</item>
+        <item>serrar</item>
+        <item>celeiro</item>
+        <item>cassar</item>
+        <item>inserto</item>
+        <item>vez</item>
+        <item>custear</item>
+        <item>intensão</item>
+        <item>vadiar</item>
+        <item>apurado</item>
+        <item>caução</item>
+        <item>dispensa</item>
+        <item>preito</item>
+        <item>surtir</item>
+        <item>suar</item>
+        <item>instância</item>
+        <item>inmoral</item>
+        <item>punho</item>
+        <item>diferir</item>
+        <item>discuta</item>
+        <item>empresa</item>
+        <item>apreender</item>
+        <item>imitir</item>
+        <item>mandado</item>
+        <item>retificar</item>
+        <item>triplicar</item>
+        <item>fragrante</item>
+        <item>inmigrar</item>
+        <item>emergir</item>
+        <item>vivinho</item>
+        <item>rouca</item>
+        <item>bebo</item>
+        <item>zombar</item>
+        <item>posso</item>
+        <item>camioneta</item>
+        <item>Marte</item>
+        <item>conta</item>
+        <item>punção</item>
+        <item>cachimbo</item>
+        <item>licite</item>
+    </string-array>
+    <string-array name="word_pairs_words">
+        <item>casa</item>
+        <item>fumo</item>
+        <item>toucinho</item>
+        <item>carne</item>
+        <item>pão</item>
+        <item>sopa</item>
+        <item>mesa</item>
+        <item>janela</item>
+        <item>livro</item>
+        <item>aurora</item>
+        <item>amanhecer</item>
+        <item>alma</item>
+        <item>vela</item>
+        <item>armário</item>
+        <item>roda</item>
+        <item>álbum</item>
+        <item>olhos</item>
+        <item>metropolitano</item>
+        <item>hora</item>
+        <item>escrivaninha</item>
+        <item>pontos</item>
+        <item>cabeça</item>
+        <item>pacote</item>
+        <item>cidade</item>
+        <item>cadeado</item>
+        <item>tapete</item>
+        <item>elefante</item>
+        <item>pessoa</item>
+        <item>saldo</item>
+        <item>rede</item>
+        <item>cordão</item>
+        <item>tapeçaria</item>
+        <item>rodovia</item>
+        <item>florecinha</item>
+        <item>desenho</item>
+        <item>janela</item>
+        <item>parede</item>
+        <item>banco</item>
+        <item>via</item>
+        <item>idioma</item>
+        <item>conduzir</item>
+        <item>firmamento</item>
+        <item>ar</item>
+        <item>escola</item>
+        <item>corpo</item>
+        <item>passo</item>
+        <item>porta</item>
+        <item>zona</item>
+        <item>mesa</item>
+        <item>anel</item>
+        <item>projecto</item>
+        <item>raio</item>
+        <item>oceano</item>
+        <item>boneca</item>
+        <item>chalé</item>
+        <item>folha</item>
+        <item>taiga</item>
+        <item>barba</item>
+        <item>total</item>
+        <item>motor</item>
+        <item>cruz</item>
+        <item>talento</item>
+        <item>nadar</item>
+        <item>balde</item>
+        <item>poste</item>
+        <item>canal</item>
+        <item>foguete</item>
+        <item>turno</item>
+        <item>época</item>
+        <item>mercadoria</item>
+        <item>ramo</item>
+        <item>penhasco</item>
+        <item>globo</item>
+        <item>reserva</item>
+        <item>ordem</item>
+        <item>boxe</item>
+        <item>tília</item>
+        <item>gato</item>
+        <item>proveito</item>
+        <item>armazém</item>
+        <item>a esquerda</item>
+        <item>colina</item>
+        <item>cifra</item>
+        <item>vôo</item>
+        <item>rádio</item>
+        <item>trevas</item>
+        <item>roupão</item>
+        <item>cava</item>
+        <item>lâmpada</item>
+        <item>participação</item>
+        <item>fungo</item>
+        <item>colher</item>
+        <item>método</item>
+        <item>eterno</item>
+        <item>banho</item>
+        <item>janta</item>
+        <item>março</item>
+        <item>rede</item>
+        <item>pluma</item>
+        <item>torre</item>
+        <item>ninharia</item>
+        <item>ружьё</item>
+        <item>pluma</item>
+        <item>esfera</item>
+        <item>juiz</item>
+        <item>ovo</item>
+        <item>lenha</item>
+        <item>peça</item>
+        <item>besouro</item>
+        <item>chefe</item>
+        <item>gênio</item>
+        <item>pacote</item>
+        <item>lebre</item>
+        <item>sir</item>
+        <item>príncipe</item>
+        <item>guerreiro</item>
+        <item>declive</item>
+        <item>estepe</item>
+        <item>neto</item>
+        <item>greta</item>
+        <item>chance</item>
+        <item>metropolitano</item>
+        <item>nuvem</item>
+        <item>pensamento</item>
+        <item>pescador</item>
+        <item>pelotão</item>
+        <item>brilhante</item>
+        <item>projétil</item>
+        <item>mente</item>
+        <item>bem</item>
+        <item>anjo</item>
+        <item>tule</item>
+        <item>mina</item>
+        <item>estágio</item>
+        <item>piloto</item>
+        <item>cima</item>
+        <item>marinheiro</item>
+        <item>tronco</item>
+        <item>criança</item>
+        <item>cravo</item>
+        <item>príncipe</item>
+        <item>líder</item>
+        <item>volante</item>
+        <item>chamada</item>
+        <item>farinha</item>
+        <item>férias</item>
+        <item>carrinho</item>
+        <item>fósforo</item>
+        <item>defeito</item>
+        <item>botão</item>
+        <item>mandris</item>
+        <item>lote</item>
+        <item>agente</item>
+        <item>sal</item>
+        <item>estrondo</item>
+        <item>câmara</item>
+        <item>moda</item>
+        <item>porto</item>
+        <item>brilho</item>
+        <item>fita</item>
+        <item>faísca</item>
+        <item>açúcar</item>
+        <item>versão</item>
+        <item>briga</item>
+        <item>elevador</item>
+        <item>relatório</item>
+        <item>papa</item>
+        <item>sorvo</item>
+        <item>nó</item>
+        <item>carga</item>
+        <item>tijolo</item>
+        <item>turista</item>
+        <item>flecha</item>
+        <item>prato</item>
+        <item>estado</item>
+        <item>peúga</item>
+        <item>pinho</item>
+        <item>veado</item>
+        <item>ação</item>
+        <item>noz</item>
+        <item>status</item>
+        <item>vela</item>
+        <item>factor</item>
+        <item>recusa</item>
+        <item>relatório</item>
+        <item>linha</item>
+        <item>unha</item>
+        <item>façanha</item>
+        <item>feiticeiro</item>
+        <item>mais</item>
+        <item>moldura</item>
+        <item>xícara</item>
+        <item>mentira</item>
+        <item>varanda</item>
+        <item>quente</item>
+        <item>solo</item>
+        <item>bloco</item>
+        <item>brilho</item>
+        <item>trama</item>
+        <item>suco</item>
+        <item>fundo</item>
+        <item>um</item>
+        <item>esquema</item>
+        <item>antepassado</item>
+        <item>cólera</item>
+        <item>monge</item>
+    </string-array>
+</resources>

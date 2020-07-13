@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView n1:textSize="14.0sp" n1:textColor="?android:textColorPrimary" n1:gravity="center_vertical" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:drawableLeft="@drawable/training_interstitial_first_item" n1:drawablePadding="8.0dip" n1:drawableStart="@drawable/training_interstitial_first_item"
+  xmlns:n1="http://schemas.android.com/apk/res/android" />

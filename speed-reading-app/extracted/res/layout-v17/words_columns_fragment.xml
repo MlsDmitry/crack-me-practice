@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:keepScreenOn="true"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <com.google.android.gms.ads.AdView n1:id="@id/ad_view" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n2:adSize="SMART_BANNER" n2:adUnitId="@string/banner_advertisement_id" n2:layout_constraintLeft_toLeftOf="parent" n2:layout_constraintRight_toRightOf="parent" n2:layout_constraintTop_toTopOf="parent" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+    <android.support.v7.widget.GridLayout n1:id="@id/grid_layout" n1:paddingLeft="16.0dip" n1:paddingRight="16.0dip" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:paddingStart="16.0dip" n1:paddingEnd="16.0dip" n3:columnCount="2" n3:layout_constraintBottom_toTopOf="@id/control_view" n3:layout_constraintLeft_toLeftOf="parent" n3:layout_constraintRight_toRightOf="parent" n3:layout_constraintTop_toBottomOf="@id/ad_view" xmlns:n3="http://schemas.android.com/apk/res-auto">
+        <TextView n1:background="@color/colorPrimary" n3:layout_columnWeight="1.0" n3:layout_gravity="center_horizontal" />
+        <TextView n1:background="@color/colorPrimary" n3:layout_columnWeight="1.0" n3:layout_gravity="center_horizontal" />
+        <TextView n1:background="@color/colorPrimary" n3:layout_columnWeight="1.0" n3:layout_gravity="center_horizontal" />
+        <TextView n1:background="@color/colorPrimary" n3:layout_columnWeight="1.0" n3:layout_gravity="center_horizontal" />
+    </android.support.v7.widget.GridLayout>
+    <android.support.constraint.ConstraintLayout n1:id="@id/control_view" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n4:layout_constraintBottom_toBottomOf="parent" n4:layout_constraintLeft_toLeftOf="parent" n4:layout_constraintRight_toRightOf="parent" xmlns:n4="http://schemas.android.com/apk/res-auto">
+        <ImageView n1:id="@id/speed_down_view" n1:background="@drawable/accelerator_button_background_selector" n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:src="@drawable/accelerator_speed_down_selector" n1:scaleType="center" n4:layout_constraintBottom_toBottomOf="parent" n4:layout_constraintLeft_toLeftOf="parent" n4:layout_constraintRight_toLeftOf="@id/information_view" n4:layout_constraintTop_toTopOf="parent" />
+        <LinearLayout n1:gravity="center_vertical" n1:orientation="vertical" n1:id="@id/information_view" n1:layout_width="120.0dip" n1:layout_height="50.0dip" n4:layout_constraintBottom_toBottomOf="parent" n4:layout_constraintLeft_toLeftOf="parent" n4:layout_constraintRight_toRightOf="parent" n4:layout_constraintTop_toTopOf="parent">
+            <TextView n1:textSize="12.0sp" n1:textColor="?android:textColorPrimary" n1:gravity="center_horizontal" n1:id="@id/time_text_view" n1:layout_width="fill_parent" n1:layout_height="wrap_content" />
+            <TextView n1:textSize="12.0sp" n1:textColor="?android:textColorPrimary" n1:gravity="center_horizontal" n1:id="@id/speed_text_view" n1:layout_width="fill_parent" n1:layout_height="wrap_content" />
+        </LinearLayout>
+        <ImageView n1:id="@id/speed_up_view" n1:background="@drawable/accelerator_button_background_selector" n1:layout_width="0.0dip" n1:layout_height="0.0dip" n1:src="@drawable/accelerator_speed_up_selector" n1:scaleType="center" n4:layout_constraintBottom_toBottomOf="parent" n4:layout_constraintLeft_toRightOf="@id/information_view" n4:layout_constraintRight_toRightOf="parent" n4:layout_constraintTop_toTopOf="parent" />
+    </android.support.constraint.ConstraintLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector n1:height="80.0dip" n1:width="80.0dip" n1:viewportWidth="512.0" n1:viewportHeight="512.0"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <path n1:fillColor="#ff4ab8a1" n1:pathData="M256,256m-256,0a256,256 0,1 1,512 0a256,256 0,1 1,-512 0" />
+    <path n1:fillColor="#ffcc584c" n1:pathData="M424,132H88c-4.4,0 -8,3.6 -8,8v232c0,4.4 3.6,8 8,8h140c0,8.8 12.5,16 28,16s28,-7.2 28,-16h140c4.4,0 8,-3.6 8,-8V140C432,135.6 428.4,132 424,132z" />
+    <path n1:fillColor="#ffbf5347" n1:pathData="M264,132h160v236h-160z" />
+    <path n1:fillColor="#ff994239" n1:pathData="M424,372H284c0,8.8 -12.5,16 -28,16s-28,-7.2 -28,-16H88c-4.4,0 -8,-3.6 -8,-8v8c0,4.4 3.6,8 8,8h140c0,8.8 12.5,16 28,16s28,-7.2 28,-16h140c4.4,0 8,-3.6 8,-8v-8C432,368.4 428.4,372 424,372z" />
+    <path n1:fillColor="#fffff8e6" n1:pathData="M188,112c-44.2,0 -72,8 -92,12v240h160V124C252,120 232.2,112 188,112z" />
+    <path n1:fillColor="#ffe6dbc3" n1:pathData="M256,364c0,-11 -23.8,-20 -68,-20s-84,12 -92,20H256z" />
+    <path n1:fillColor="#fffff8e6" n1:pathData="M324,112c44.2,0 72,8 92,12v240H256V124C260,120 279.8,112 324,112z" />
+    <path n1:fillColor="#ffe6dbc3" n1:pathData="M256,364c0,-11 23.8,-20 68,-20s84,12 92,20H256z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M256,340V124c-2.6,-2.6 -11.9,-6.9 -30.1,-9.5L256,340z" />
+    <path n1:fillColor="#ffbf5347" n1:pathData="M100,364h164v4h-164z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M400,164c-42.7,0 -85.3,0 -128,0c0,-11.2 0,-16.8 0,-28c46.7,-7.2 81.3,-7.2 128,0C400,147.2 400,152.8 400,164z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M292,184h108v8h-108z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M272,200h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M272,216h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M272,232h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M272,248h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M272,264h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M272,280h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M272,296h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M272,312h108v8h-108z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M136,140h108v8h-108z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M116,156h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M116,172h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M116,188h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M116,204h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M116,220h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M116,236h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M116,252h128v8h-128z" />
+    <path n1:fillColor="#fff2e7ce" n1:pathData="M116,268h108v8h-108z" />
+</vector>

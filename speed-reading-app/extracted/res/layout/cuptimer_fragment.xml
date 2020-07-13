@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:keepScreenOn="true"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ProgressBar n1:id="@id/cup_timer_progress_bar" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="16.0dip" n1:max="100" n1:progress="0" style="?android:progressBarStyleHorizontal" />
+    <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="0.0dip" n1:layout_weight="1.0">
+        <TextView n1:textSize="20.0sp" n1:gravity="center" n1:id="@id/preview_title" n1:visibility="gone" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:text="@string/cuptimer_info" />
+        <ImageView n1:gravity="center" n1:id="@id/iv_faces" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:scaleType="fitXY" n1:adjustViewBounds="true" n1:contentDescription="@string/cuptimer" />
+    </LinearLayout>
+</LinearLayout>

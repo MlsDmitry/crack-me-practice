@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item n1:left="10.0dip" n1:right="10.0dip"
+      xmlns:n1="http://schemas.android.com/apk/res/android">
+        <shape n1:shape="rectangle">
+            <size n1:width="5.0dip" />
+            <solid n1:color="@color/colorPrimaryDark" />
+        </shape>
+    </item>
+    <item n2:gravity="center" n2:top="10.0dip" n2:bottom="10.0dip"
+      xmlns:n2="http://schemas.android.com/apk/res/android">
+        <shape n2:shape="oval">
+            <size n2:height="10.0dip" n2:width="10.0dip" />
+            <solid n2:color="@color/colorPrimaryDark" />
+        </shape>
+    </item>
+</layer-list>

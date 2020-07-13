@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:gravity="center" n1:orientation="vertical" n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:orientation="horizontal" n1:id="@id/focus_attention_statistics" n1:paddingLeft="16.0dip" n1:paddingTop="16.0dip" n1:paddingRight="16.0dip" n1:paddingBottom="16.0dip" n1:visibility="invisible" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:paddingStart="16.0dip" n1:paddingEnd="16.0dip">
+        <TextView n1:textSize="16.0sp" n1:id="@id/focus_attention_score" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="4.0dip" n1:layout_marginEnd="4.0dip" />
+        <ProgressBar n1:layout_gravity="center_vertical" n1:id="@id/focus_attention_progress" n1:paddingLeft="16.0dip" n1:paddingRight="16.0dip" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_weight="1.0" n1:paddingStart="16.0dip" n1:paddingEnd="16.0dip" style="?android:progressBarStyleHorizontal" />
+        <TextView n1:textSize="16.0sp" n1:id="@id/focus_attention_record" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="4.0dip" n1:layout_marginEnd="4.0dip" />
+    </LinearLayout>
+    <TableLayout n1:id="@id/words_layout" n1:visibility="visible" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_margin="8.0dip" />
+    <LinearLayout n1:orientation="vertical" n1:id="@id/answer_layout" n1:visibility="visible" n1:layout_width="fill_parent" n1:layout_height="fill_parent">
+        <RelativeLayout n1:gravity="center" n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="0.0dip" n1:layout_weight="1.0">
+            <TextView n1:textSize="24.0sp" n1:textStyle="bold" n1:id="@id/points_text_view" n1:visibility="invisible" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginBottom="16.0dip" n1:text="+4" n1:layout_above="@id/horizontalScrollView" n1:layout_centerHorizontal="true" />
+            <HorizontalScrollView n1:id="@id/horizontalScrollView" n1:scrollbars="none" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginTop="8.0dip" n1:fillViewport="true" n1:layout_centerVertical="true">
+                <LinearLayout n1:orientation="horizontal" n1:id="@id/answerLineContainer" n1:paddingLeft="8.0dip" n1:paddingRight="8.0dip" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+            </HorizontalScrollView>
+        </RelativeLayout>
+        <ScrollView n1:id="@id/scrollView" n1:layout_width="fill_parent" n1:layout_height="0.0dip" n1:fillViewport="true" n1:layout_weight="1.0" n1:scrollbarFadeDuration="0">
+            <TableLayout n1:id="@id/tableLayout" n1:layout_width="fill_parent" n1:layout_height="wrap_content" />
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

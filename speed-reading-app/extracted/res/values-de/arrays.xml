@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="accelerator_course_training_titles">
+        <item>Beschleuniger des neuronalen Netzes 1</item>
+        <item>Beschleuniger des neuronalen Netzes 1.1</item>
+        <item>Beschleuniger des neuronalen Netzes 1.1.1</item>
+        <item>Beschleuniger des neuronalen Netzes 2.2</item>
+        <item>Beschleuniger des neuronalen Netzes 4</item>
+        <item>Beschleuniger des neuronalen Netzes 1</item>
+        <item>Beschleuniger des neuronalen Netzes 1.1</item>
+        <item>Beschleuniger des neuronalen Netzes 1.1.1</item>
+        <item>Beschleuniger des neuronalen Netzes 2.2</item>
+    </string-array>
+    <string-array name="accelerator_settings_duration_entries">
+        <item>30 Sekunden</item>
+        <item>45 Sekunden</item>
+        <item>60 Sekunden</item>
+        <item>75 Sekunden</item>
+        <item>90 Sekunden</item>
+    </string-array>
+    <string-array name="cup_timer_settings_duration_entries">
+        <item>10 min.</item>
+        <item>15 min.</item>
+        <item>20 min.</item>
+        <item>25 min.</item>
+        <item>30 min.</item>
+    </string-array>
+    <string-array name="cup_timer_settings_type_entries">
+        <item>Tasse</item>
+        <item>Die Pyramide</item>
+    </string-array>
+    <string-array name="green_dot_settings_duration_entries">
+        <item>10 Minuten</item>
+        <item>15 Minuten</item>
+        <item>20 Minuten</item>
+        <item>30 Minuten</item>
+        <item>60 Minuten</item>
+    </string-array>
+    <string-array name="library_book_actions">
+        <item>Das Buch löschen</item>
+    </string-array>
+    <string-array name="line_of_sight_alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>Ä</item>
+        <item>Ö</item>
+        <item>Ü</item>
+        <item>ß</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_board_size_entries">
+        <item>Klein</item>
+        <item>Mittel</item>
+        <item>Groß</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_field_type_entries">
+        <item>Klein (4 Punkte)</item>
+        <item>Groß (8 Punkte)</item>
+    </string-array>
+    <string-array name="math_settings_duration_entries">
+        <item>10 sek.</item>
+        <item>5 sek.</item>
+        <item>3 sek.</item>
+    </string-array>
+    <string-array name="motivators">
+        <item>Die Träume arbeiten nicht, weil du nicht arbeitest</item>
+        <item>Es wird bei dir alles unbedingt klappen</item>
+        <item>Die Motivierung hilft zu beginnen. Die Gewohnheit hilft fortzuseten</item>
+        <item>Du erhälst nicht das, was du verdienst, sondern das, was du erreichst.</item>
+        <item>Sie werden in einem Jahr bedauern, dass Sie heute die Selbstarbeit nicht beginnen</item>
+        <item>Lässt den Kopf nicht hängen, so ist es schwieriger, den Gipfel zu erreichen.</item>
+        <item>Um das Ziel zu erreichen, muss man vor allem auf es loszugehen</item>
+        <item>Nur die Nachhaltigkeit kann den Weg zum Ziel zeigen.</item>
+        <item>Der starke Wunsch nach dem Lernen ist 50% des Erfolgs.</item>
+        <item>Du musst niemandem etwas beweisen, du musst einfach machen.</item>
+        <item>Mache, was du kannst, mit dem, was du hast.</item>
+        <item>Die Zeit mag nicht verschwunden zu werden.</item>
+        <item>Was hast du heute gemacht, um dein Ziel zu erreichen?</item>
+        <item>Ertrage den Schmerz wegen der Selbstdisziplin oder ertrage den Schmerz wegen des Bedauerns.</item>
+        <item>Bewahren Sie das Selbstvertrauen, auch wenn niemand an Sie gläubt.</item>
+        <item>Jeder Traum ist einer Chance auf den Erfolg würdig!</item>
+        <item>Wenn du willst, so wirst du erreichen. Wenn du nicht erreichte, so wolltest du zu wenig.</item>
+        <item>Der Erfolg ist die Fähigkeit, sich von einem Scheitern zum anderen fortzuschreiten und dabei den Enthusiasmus nicht zu verlieren.</item>
+        <item>Vielen Dank den Menschen, die mich fallenließen. Ich kam dank ihnen selbständig zurecht.</item>
+        <item>Wenn eine gute Idee in deinen Sinn kommt, musst du unverzöglich handeln.</item>
+        <item>Die beste Weise, die eigene Zukunft vorauszusagen, ist zu ihrem Gründer werden.</item>
+        <item>Nichts ist unmöglich.</item>
+        <item>Das Leben ist Vielzahl von Problemen. Du kannst entweder winseln oder sie lösen.</item>
+        <item>Finde dein Ziel, Ressourcen werden sich einfinden.</item>
+        <item>Setze hohe Ziele vor sich, es ist so schwieriger, diese vorbeizuschießen!</item>
+        <item>Mit der Sebstentwicklung sorgen Sie sich für die Zukunft Ihrer Nachkomme.</item>
+        <item>Suche nach Möglichkeiten für die Verwirklichung deiner Ideen.</item>
+        <item>Lasse die Gelegenheit nicht entgehen, ansonsten wird sie von einem anderen aufgegriffen.</item>
+        <item>Liege auf dem Bett nicht, es sei denn, wenn du auf dem Bett liegend Geld machst.</item>
+        <item>Das Wichtigste ist es, an eigene Kräfte immer zu glauben.</item>
+        <item>Es gibt kein Ausgang nur aus dem Sarg.</item>
+        <item>Es gibt keine nicht erreichbare Ziele, es geben schwache Charakter.</item>
+        <item>Die Chance kommt nie allein. Das Leben wird dir eine Chance unbedingt geben.</item>
+        <item>Arbeite an sich selbst. Niemand wird zum guten Mensch zufällig.</item>
+        <item>Befürchten Sie sich nicht, langsam zu wachsen, sondern unverändert zu bleiben.</item>
+        <item>Wer erfolgsreich sehr sein will, der ist fast erfolgsreich.</item>
+        <item>Lebe nach zwei Prinzipien: Setze das Zie und strebe nach ihm.</item>
+        <item>Um es später leichter geht, musst du Schwierigkeiten jetzt überwinden.</item>
+        <item>Alle Wendungen werden mit dem Schmerz begleitet. Wenn du den Schmerz nicht spürst, das bedeutet, dass nichts geändert wurde.</item>
+        <item>Die Menschen hasten, um am Ende die Ruhe zu finden, aber einige Menschen fangen seit dem Ende an.</item>
+        <item>Wenn Ihre Träume stärker als Ihre Ängste werden, beginnen sie, in Erfüllung zu gehen.</item>
+        <item>Wollen Sie nach oben kommen, benutzen Sie ihre eigenen Beine.</item>
+        <item>Riskieren Sie mit allem für ihren Traum, dann kommt er zum Tragen.</item>
+        <item>Deine Zukunft wird aus dem geschaffen, was du heute, nicht morgens machst!</item>
+        <item>Die Bremse auf dem Wege zu unseren Erfolgen ist unsere heutige Zweifeln.</item>
+        <item>Je härter du arbeites, desto erfolgreicher du wirst.</item>
+        <item>Mache noch einen Zugang.</item>
+        <item>Mache deine Arbeit zu deinem Hobby, dann musst du keinen Tag in deinem Leben arbeiten.</item>
+        <item>Man kann nichts würdiges erreichen, ohne sich die Mühe zu geben.</item>
+        <item>Die Hochschulbildung gibt uns die Möglichkeit, Brot zu verdienen, und die Selbstausbildung – Kaviar und Butter zu verdienen.</item>
+        <item>Um einen neuen Weg zu finden, muss man den alten Weg verlassen.</item>
+        <item>Der Sinn des Schnelllesens besteht nicht darin, dass man alle durch die Bank mit rasender Geschwindigkeit liest, sondern darin, dass man den erforderlichen Text findet und seinen Sinn versteht.</item>
+        <item>Das gute Programm führt dazu, dass das erzielte Ergebnis zur Fertigkeit wird. Und sie bleibt für immer.</item>
+        <item>100% nicht untergenommener Versuche werden von Erfolg nicht gekront sein.</item>
+        <item>Um das zu erhalten, was du nie hattes, musst du das machen, was du nie machte.</item>
+        <item>Die Pechsträhne wird nie zur Anlaufbahn.</item>
+        <item>Man soll nicht warten, wenn alles herum verändert wird. Man soll sich ändern. Kannst du das nicht, mache immerhin etwas und sei auf Achse.</item>
+        <item>Die Handlungen bringen nicht immer den Glück, aber ohne Handlungen ist der Glück unmöglich.</item>
+        <item>Es kommt die Zeit, wenn du entscheidest, dass es zu Ende ist. Das wird der Beginn sein.</item>
+        <item>Insoweit Sie sich selbst entwickeln, insofern zeigen Sie dem Leben den Platz, den Sie verdienen haben.</item>
+        <item>Schießen Sie die maximale Anzahl der möglichen Varianten aus.</item>
+        <item>Lassen Sie sich nie auf Schlechtes aufhalten, ansonsten könne Sie Gutes vorübergehen.</item>
+        <item>Der faule Mensch hat das Schicksal der fehlerhaften Maschine: er macht nichts außer fehlerhafter Waren.</item>
+        <item>Vergessen Sie nicht, dass die Langweile und Faulheit mit dem Engagement ausgeheilt werden. Sie finden den Gegengift, indem Sie sich dem Werk vollständig widmen.</item>
+        <item>Je länger du wartest, desto vieler du verlierst.</item>
+        <item>Sie erhalten das, an was Sie glauben.</item>
+        <item>Das Verständnis ist Aufnahme der logistischen Zusammmenhänge zwischen Gegenständen durch die Verwendung des bestehenden Wissens.</item>
+        <item>Die Bücher werden gelesen, um die höchsten Prinzipien zu verstehen, und die höchsten Prinzipien verstehen werden, um sie im Leben anzuwenden.</item>
+        <item>Wie Sie über sich selbst denken, so werden Sie sein.</item>
+        <item>Das beste Verfahren, ihre Arbeit einzuschätzen, ist es, sich ohne Arbeit vorzustellen.</item>
+        <item>Der schwierigste Fehler ist nicht regelmäßiges Training. Ohne systematische Übungen kann man nichts Würdiges erreichen.</item>
+        <item>Negative Gedanken in sich zu bewahren ist dem langsamen Selbstmord gleich.</item>
+        <item>Um die Fortbewegung nicht unterbrochen zu werden, soll das Ziel gesetzt werden.</item>
+        <item>Der Unterschied zwischen dem, was du bist, und dem, was du sein willst, besteht darin, was du machst!</item>
+        <item>Ihre Vergangenheit kann Ihre Zukunft nicht vorbestimmen, wenn Sie das nicht lassen.</item>
+        <item>Das echte Leben beginnt außerhalb Ihrer Komfortzone. Lerne, Wendungen anzunehmen, und du wirst besser sein.</item>
+        <item>Wenn Sie sich trotz ihrer Fehler und Misserfolge nicht unterkriegen lassen und zum Stoplern und Sturz bereit sind, werden Sie den Erfolg unbedingt erreichen.</item>
+        <item>Das Ziel soll realistisch und maximal korrekt sein.</item>
+        <item>Wie viel Sie an Gutes denken, soviel Gutes erhalten Sie.</item>
+        <item>Zeige dem Leben, was du willst, dann es entscheidet selbst, was du erhalten wirst.</item>
+        <item>Mit dem häufigeren Lesen der motivierenden Texte erreichen wir die gesetzten Ziele schneller.</item>
+    </string-array>
+    <string-array name="pass_course_training_titles">
+        <item>Schulte-Tabelle</item>
+        <item>Schulte-Tabelle</item>
+        <item>Schulte-Tabelle</item>
+        <item>Schulte-Tabelle</item>
+        <item>Schulte-Tabelle</item>
+        <item>Prägen Sie sich die Ziffer ein</item>
+        <item>Gesichtsfeld</item>
+        <item>Lesegeschwindigkeit</item>
+        <item>Wortpaare</item>
+        <item>Gerade Zählen</item>
+        <item>Schulte-Tabelle</item>
+        <item>Schulte-Tabelle</item>
+        <item>Schulte-Tabelle</item>
+        <item>Schulte-Tabelle</item>
+        <item>Schulte-Tabelle</item>
+        <item>Prägen Sie sich die Ziffer ein</item>
+        <item>Gesichtsfeld</item>
+        <item>Gesichtsfeld</item>
+        <item>Lesegeschwindigkeit</item>
+        <item>Der grüne Punkt</item>
+    </string-array>
+    <string-array name="reader_reading_modes_dialog_items">
+        <item>Standardlesen</item>
+        <item>Schnelllesen</item>
+        <item>Einschieß-Verfahren</item>
+        <item>Lesen mit Bleistift</item>
+    </string-array>
+    <string-array name="recommendation_services_description">
+        <item>Fiverr ist der weltweit größte Online-Service-Markt, der es Unternehmern und Geschäftsinhabern ermöglicht, ihr Geschäft zu verbessern, innerhalb des Budgets zu bleiben und Probleme mit nur einem Klick zu lösen.</item>
+        <item>Skillshare ist eine Online-Lernplattform für Menschen, die kreative Fähigkeiten erwerben möchten. Auf Skillshare finden Sie Kurse zu Design, Fotografie, Game Design, Layout, Kochen und anderen Aktivitäten, sogar so exotisch wie moderne Kalligrafie.</item>
+    </string-array>
+    <string-array name="recommendation_services_link">
+        <item>https://ad.edugram.com?rid=46c57afd20273981</item>
+        <item>https://ad.edugram.com?rid=7bb08bbb5081043c</item>
+    </string-array>
+    <string-array name="recommendation_services_title">
+        <item>Fiverr</item>
+        <item>Skillshare.com</item>
+    </string-array>
+    <string-array name="rules_of_success_array">
+        <item>Man muss nicht viel schlafen. Für den wertvollen Schlaf ist es 6-8 Stunden ausreichend. Die Qualität ist das Wichtigste. Stehen Sie früher auf, und Sie werden viel Freizeit haben.</item>
+        <item>Die morgendliche Freistunde widmen Sie sich selbst, Ihrem Geisteszustand. Lesen Sie gute Bücher, meditieren Sie, treiben Yoga, atmen Sie mit der frischen morgendlichen Luft.</item>
+        <item>Verschwenden Sie die Zeit nicht. Bestimmen Sie für sich die wichtigen Momenten und Handlungen und verfolgen Sie ihnen. Verzetteln Sie Ihre Kräfte nicht.</item>
+        <item>Konzentrieren Sie sich mehr auf positive Emotionen in Ihrem Leben. Denken Sie an sie und freuen Sie sich. Lassen Sie sich nicht von Peinlichkeiten aufhalten, lösen Sie Probleme möglichst schnell und vergessen Sie darüber.</item>
+        <item>Lernen Sie, per Telefon regelrecht zu sprechen. Seien Sie höflich und respektvoll, lassen ihrem Gesprächspartner seine Wichtigkeit fühlen. Das ermöglicht alle Fragen und Probleme zu lösen.</item>
+        <item>Schreiben Sie allen Ihre Wünsche, Ideen, Träume auf schöne Karten. Machen Sie das tagsüber, denken Sie daran. Legen Sie diese Karten in gut sichtbaren Platz und sehen Sie sie ab und zu durch. Je vieler Wünsche und Ideen, desto vieler Möglichkeiten, diese zu verwirklichen.</item>
+        <item>Bemühen Sie sich, sich selbst die Zeit am Sonntagabend zu widmen. Entspannen Sie sich, lesen Sie ein interessantes Buch, hören Sie gute Musik an, machen Sie Handarbeit. Planen Sie ihre Handlungen für die nächste Woche in ruhigen Umständen. Das ist in der effektiven und fruchtvollen Zeitverteilung hilfreich.</item>
+        <item>Kommunizieren Sie mit positiven und angenehmen Menschen mehr. Die qualitative Unterhaltung bestimmt die Lebensqualität. Vergessen Sie nicht über die Kommunikation mit sich selbst. Konzentrieren Sie sich auf positive Gedanken, und sie werden unbedingt zur Wirklichkeit.</item>
+        <item>Denken Sie in der ersten Reihe an das Ziel, nicht an das endgültige Ergebnis. Machen, was Ihnen gefällt und die geistige Befriedigung bringt. Das Ergebnis wird gleich auf dem Platz sein.</item>
+        <item>Vergessen Sie nicht, jeden Morgen mit dem Lächeln zu beginnen. Lachen Sie vor dem Spiegel. Diese Übung ladet Sie mit der Energie für den ganzen Tag, die Gesichtsmuskeln werden entspannt, die Stimmung wird verbessert, Sie werden freudig und positiv.</item>
+        <item>Zünden Sie Kerzen abends. Sie schaffen die romantische und berührende Atmosphäre. Umgeben Sie sich mit angenehmen Menschen. Lesen Sie zusammen, unterhalten sich, hören Sie die ruhige Musik. Bewahren Sie sich vor Ängsten und Sorgen des vergangenen Tags.</item>
+        <item>Für das Konzentrationsvermögen sind Atemübungen in Zeiten sehr nützlich. Das ist bequem, sie beim Gehen zu machen. Machen Sie einige Schritte beim Einatmen und zählen Sie dabei. Halten Sie die Atmung um so viele Schritte an. Dann atmen Sie aus. Bei dieser Übung wird Ihr Gehirn mit dem Sauerstoff gesättigt, Sie erspüren den enormen Kraftandrang und ermuntern Ihren Körper. Lernen Sie, sich mehr zu konzentrieren.</item>
+        <item>Erlernen Sie unbedingt die Meditation. Unser Gehirn und unsere Gedanken erleiden innerhalb des Tages enorme emotionelle Belastungen. Es ist sehr schwierig, eine bestimmte Aufgabe zu lösen, wenn es keine Konzentration gibt. Meditieren Sie morgens und abends über sechs Monate, das bringt erstaunliche Ergebnisse.</item>
+        <item>Lernen Sie, ruhig zu sein. Widmen Sie ein wenig Zeit dafür, um unter absoluter Ruhe zu sitzen. Denken Sie an Gutes, Angenehmes, Lebenbejahendes.</item>
+        <item>Üben Sie die Willenskraft. Das ist Charaktereigenschaft, ohne die das Erreichen Ihrer Ziele fast unmöglich ist. Man muss die Verhaltensstrategie erarbeiten und sie ohne jegliche Ausreden verfolgen, in ihrer Tätigkeit nach dem für Sie erforderlichen Ziel trotz der Schwierigkeiten und Hindernisse streben .</item>
+        <item>Bemühen Sie sich, den Sinn für Humor nicht zu verlieren. Ein guter Spaß kann die angespannte Atmosphäre im Kollektiv entspannen und die Stimmung erhöhen. Unter solchen Umständen kann man leichter arbeiten.</item>
+        <item>Es ist sehr wichtig, die Zeit zu verwalten und sich mit der Zeit zu verfügen. Legen Sie die Liste der Aufgaben jeden Morgen unbedingt an, die in der ersten Reihe gelöst werden müssen. Wichtig ist es, auch weitere, weniger dringliche, jedoch erforderliche Aufgaben nicht zu vergessen. Sie nehmen auch bestimmte Zeitdauer für ihre Lösung in Anspruch. Vergessen Sie auch über die Aufgaben, die nach der weiterführenden Aussicht für Ihre Entwicklung gerichtet sind.</item>
+        <item>Entwickeln Sie die Verhältnisse mit den Menschen, die sich nach der Selbstvervollkommnung streben, Sie mit der Energie und Positivität laden. Unterhalten Sie sich und arbeiten Sie fürs Erreichen der gesamten Ziele, lernen Sie und motivieren Sie einander.</item>
+        <item>Freuen Sie sich darüber, was Sie haben. Ihr Leben, Gesundheit und Wohlsein Ihrer Angehörigen, die Umwelt, schöne Natur, Tiere und Vögel, das schmackhafte Essen - Das alles soll nicht als gegeben sondern als Gift angenommen werden. Legen Sie die Liste aus dem an, was Sie haben, und Sie werden verstehen, wie Ihr Leben reich und vielseitig ist.</item>
+        <item>Jeder Mensch setzt vor sich Lebensziele. Sie bestimmen selbst, nach welcher Richtung Sie bewegen werden, nach welchen Prinzipien Sie richten werden, und wie das Endziel ist. Das ist Ihre Lebensmission. Schreiben Sie Hauptziele und Aufgaben. Sehen Sie diese Liste gelegentlich durch, konzentrieren Sie sich auf dieser Liste, feilen Sie Ihre Meisterschaft aus, schreiten Sie vorwärts. André Maurois sagte: Es werden jedem Mensch mindestens zehn Möglichkeiten täglich gegeben, sein Leben zu verändern. Erfolgsvoll wir jeder, wer sie verwenden kann.</item>
+        <item>Niemand hat das Recht, Sie zu beleidigen oder zu entwürdigen. Sie müssen lernen, negative Ereignisse als gewisse Herausforderung zu deuten, die Ihnen in der Lösung der gesetzten Ziele und Aufgaben helfen wird. Das alles lässt sich Ihren Charakter härten und die Willenskraft entwickeln. Wenn irgendwer dich stark beleidigen will, es geht ihm schlechter. - Konfuzius.</item>
+        <item>Lernen Sie die Technik des Schnelllesens. Dies Verfahren lässt Ihnen den großen Umfang der Informationen bei den geringsten Zeitaufwendungen umfassen.</item>
+        <item>Achten Sie die Menschen. Lernen Sie ihre Namen. Jeder Mensch will sich als relevant und notwendig fühlen. Geben Sie solche Gegebenheit umgebenden Menschen.</item>
+        <item>Seien sie gutartig und liebevoll in der Kommunikation mit den Menschen. Allerdings lassen Sie mit sich unter bestimmten Situationen nicht manipulieren. Seien Sie hart und beständig, wenn es auf Ihre Lebensprinzipien kommt.</item>
+        <item>Alle Fragen, die Gesundheit, Finanzen, persönliche Probleme betreffen, besprechen Sie nur mit ihrer Familie. Bringen Sie diese Themen außerhalb der Familie nicht heraus.</item>
+        <item>Seien Sie aufrecht, unaufdringlich, gutartig, hartnäckig, freundlich.</item>
+        <item>Sorgen Sie für sich selbst. Hätscheln Sie ihre Seele und Ihren Körper. Am Ende des Tags nehmen Sie ein Bad mit Aromaölen. Belohnen Sie sich selbst sogar für minimalen Leistungen.</item>
+        <item>Lernen Sie, regelrecht, ruhig und tief zu atmen. Bei der Erregung wird die Atmung zu unterbrochen und schnell. Dabei wird der Blutdruck erhöht. Das wirkt auf die Gesundheit negativ aus. Bestimmte Trainings und Übungen helfen Ihnen, Ruhe zu finden und Atmung wiederherzustellen.</item>
+        <item>Machen Sie die Autosuggestion, dass heißt den Prozess der Suggestion, die an sich selbst adressiert ist. Wählen Sie einen Satz, der Ihren Wunsch formuliert, und wiederholen Sie diesen Satz sehr häufig. Sie können das auch schriftlich machen: schreiben Sie den Satz 300 Male. Wichtig ist die Abwesenheit des Nicht-Partikels im Satz.</item>
+        <item>Legen Sie das persönliche Tagesbuch an. Schrieben Sie Ihre Gedanken, Erlebnisse, suchen Sie Antworten auf die Fragen, freuen Sie sich über Ihre Leistungen. Während des Schreibens beruht sich der Mensch, konzentriert sich und betrachtet seine Probleme positiver.</item>
+        <item>Lernen Sie, den Stress zu verwalten. Das ist die Reaktion des Körpers auf Geschehenes. Sie müssen Ihre einzig sichere Weise des Stresskampfs finden: mittels der beliebtesten Musik, des Umgangs mit den Tieren, Malens, beliebtesten Hobbys usw.</item>
+        <item>Hören Sie die Audioaufnahmen zum Thema Selbstvervollkommnung möglichst häufiger an: im Auto auf dem Weg zur Arbeit, Haushaltsangelegenheiten nachgehend, in der Freizeit. Finden Sie Trainings, die für Sie geeignet sind und von denen Sie Spaß und Nutzen bekommen .</item>
+        <item>Fasten Sie einen Tag in der Woche. Essen Sie Gemüse und Obste. Trinken Sie viel reines Wasser. Ihr Körper erhält die Leichtigkeit und mehr Energie, die Willenskraft verstärkt sich.</item>
+        <item>Lernen Sie zu verzeihen. Die Beleidigung, die Sie fühlen, beeinflusst den geistigen Zustand, Sie sind nervös, dabei verringert sich die Leistungsfähigkeit. Versuchen Sie, den Beleidiger zu verzeihen, wenn es besonders schwierig ist, und dann können Sie auf kleine Beleidigungen nicht mehr achten, sie bringen Sie aus dem geistigen Gleichgewicht nicht</item>
+        <item>Lernen Sie immer. Auch wenn Sie glauben, dass Sie viel wissen. Neue Kenntnisse entwickeln Ihr Gehirn, erhöhen die Gelehrtheit und Selbsteinschätzung. Sie werden zu einem interessanten Gesprächspartner, sachkündigen Fachmann und einer selbstgenügsamen Person. Wüssten die Menschen, wie selten sie richtig verstanden werden, sie würden schweigen - Göthe.</item>
+        <item>Seien Sie in Worten und Emotionen mäßig. Lassen Sie sich vom Geheimnis gering umglänzen. Bleiben Sie ein ungelesenes Buch.</item>
+        <item>Beherrschen Sie die Redekunst. Überwinden Sie die Angst vor der öffentlichen Rede. Üben Sie sich vor dem Spiegel oder Ihren Angehörigen. Sie fühlen sich freier, kontaktfreundlich und befreit.</item>
+        <item>Führen Sie die gesunde Lebensweise. Treiben Sie die körperliche Kultur, den Sport, Fitness. Nicht umsonst lautet die Volksweisheit: Ein gesunder Geist in einem gesunden Körper. Der Körper und die Seele sind unauflösbar verbunden - der Zustand eines beeinflusst den Zustand des anderen. Die physischen Übungen durchführend wird der Mensch verantwortungsvoll, plant seine Zeit richtig und erreicht die gesetzten Ziele.</item>
+        <item>Gehen Sie nach dem Abendessen spazieren. Diese Gewohnheit wirkt auf die physische und geistige Gesundheit gut aus. Während des Spazierengehens lassen Sie alle Probleme unberücksichtigt. Genießen Sie den Gangprozess, weiden Sie sich an der Natur, atmen Sie mit der frischen Luft und denken Sie an angenehme Dinge. .</item>
+        <item>Erholen Sie im Freien. Genießen Sie die Natur. Schöpfen Sie aus ihr die Seelenkräfte. Pflanzen Sie Blumen, Büsche, Bäume. Schaffen Sie Ihre Ecke der Schönheit und Harmonie. Spüren Sie die Beschwichtigung und Ruhe. Die Natur ist einzigartiger Heiler unserer geistigen und physischen Wunden.</item>
+        <item>Seien Sie in Ihren Taten, Emotionen und Handlungen mäßig. Unterstützen Sie das Gleichgewicht in allen Tätigkeitsarten. Diese Regeln helfen, das Leben glücklich und freudig zu machen. .</item>
+        <item>Sorgen Sie für den hochwertigen und ruhigen Schlaf. Nehmen Sie keine schwere Speise zur Nacht ein. Das Abendessen soll schmackhaft, aber leicht sein und drei Stunden vor dem Schlafengehen eingenommen werden. Nehmen Sie die Arbeit nach Hause, insbesondere auf das Bett nicht mit. Lesen Sie ein Buch, meditieren Sie. .</item>
+        <item>Bewahren Sie und sorgen Sie für Ihren Ruf. Beim Genießen des Lebens vergessen Sie nicht über die Vernunft und darüber, dass anstößige Handlungen Ihren Ruf beflecken können. Es wird sehr schwierig sein, die gute Meinung über sich wieder zu erlangen.</item>
+        <item>Finden Sie einen Lehrer. Das kann Ihr geistiger Vater, älterer Freund, Mensch, der von Ihnen angesehen ist. Seine Lebenserfahrung und Ratschläge lassen Ihnen viele Fehler und Enttäuschungen vermeiden.</item>
+        <item>Legen Sie eine Liste Ihrer Nachteile und Schwächen an. Befreien Sie sich von ihnen planmäßig und gezielt. Jede in der Liste gestrichene Position bringt Ihnen die große Befriedigung. Das ist ja Ihr Sieg.</item>
+        <item>Klagen Sie sich über das Leben nie. Die Beschwerden zerstören nicht nur irgendwelchen Tag, sondern auch den Tag des Klagenden. Der Klagende stellt sich auf die Negativität ein. Befreien Sie sich von solcher Gewohnheit, und nichts stört Ihnen, den Erfolg zu erzielen.</item>
+        <item>Schaffen Sie ein positives Image für sich. Seien Sie ruhig, gut belesen, diszipliniert, kompetent, höflich, ordentlich. Achten Sie andere Menschen, geraten Sie auf Nachreden am Arbeitsplatz nicht, seien Sie nicht großmäulig, bringen Sie ihre Pläne den Fremden an den Tag nicht, seien Sie etwas rückhaltig und geheimnisvoll, lustig und leicht beweglich. .</item>
+        <item>Lassen Sie keine Familiarität am Arbeitsplatz zu. Halten Sie die persönliche Distanz in den Chef-Mitarbeiter-Beziehungen ein. Lassen Sie nicht anderen mit sich manipulieren. Halten Sie die Distanz in den Arbeitsbeziehungen ein. Seien Sie höflich, aber hart bei der Vertretung Ihrer Auffassung.</item>
+        <item>Wenn etwas für Sie Sorge macht, wenden Sie das Darstellungsverfahren an. Schreiben Sie das Problem auf dem Blatt, lesen, analysieren Sie es und dann setzten Sie es in Brand. Ihre Sorge verschwindet zusammen mit dem Feuer. Probieren Sie dies Verfahren, und geht bei Ihnen unbedingt besser.</item>
+        <item>Seien Sie vom Problem nicht besessen. Erstellen Sie für sich einen Plan zur Problemlösung. Folgen Sie diesem Plan nach und vergessen Sie über dies Problem, wenn das Ergebnis positiv sein wird. Halten Sie im Gedächtnis nur gute Dinge.</item>
+        <item>Damit Ihre Vernunft maximal aktiv war, soll der Körper entspannt sein. Um dies Ziel zu erreichen, hilft Ihnen Yoga. Treiben Sie Yoga 15 Minuten täglich, und das bringt Ergebnis. Der Körper wird entspannt, und die Vernunft wird ruhig und entspannt.</item>
+        <item>Legen Sie Geld zur Seite. Die weltweite Erfahrung ist sehr einfach: 10% des Arbeitslohns. Und unerwartete Aufwendungen werden Sie nicht überrumpeln.</item>
+        <item>Schreiben Sie Ihre Träume und langfristigen Pläne ins Tagesbuch ein. Machen Sie alles, damit sie verwirklicht werden. Arbeiten Sie an sich, zeigen die Initiative, wenden Sie sich nie ab und gehen Sie auf das gesetzte Ziel nachhaltig los.</item>
+        <item>Lesen Sie morgens und abends etwas Positives und Gutes unbedingt. Das stellt Sie auf gute und freundliche Gedanken ein, die Sie tagsüber begleiten werden.</item>
+        <item>Setzen Sie vor sich das Ziel, zu einer charismatischen Person zu werden. Das kann jeder machen. Der amerikanische Präsident John Kennedy war in früher Jugend oft krank, aber dank der Ausdauer und dem Fleiß konnte er zu dem am meisten charismatischen und attraktiven politischen Leader in der Geschichte der Vereinigten Staaten von Amerika werden.</item>
+        <item>Riskieren Sie, aber vernünftig. Probieren Sie verschiedene Varianten, um Ihre Ziele zu erreichen. Bleiben Sie beim Erreichten nicht stehen. Gehen Sie vorwärts, und Sie erzielen den Erfolg, über den Sie sogar nicht träumten.</item>
+        <item>Nehmen Sie die Wahl Ihres Lebenspartners/Ihrer Lebenspartnerin ernst. Suchen Sie nach solchen Eigenschaften wie Anhänglichkeit, Verstand, Sinn für Humor, Treue, Achtung. Seien Sie eine Stütze für den Ehegatte/die Ehegattin, unterstützen und führen ihn/sie. Schreiten Sie durch das Leben zusammen.</item>
+        <item>Haben Sie keine Angst vor Stress. Das ist die innere Reaktion des Körpers auf äußere Faktoren. Man muss lernen, sie zu verwalten, indem man die Lösung von Stresssituationen mit der physischen und geistigen Entspannung wechseln muss. Es existieren viele Verfahren und Übungen für die Lösung dieser Frage. Das Einfachste, was man tun kann, ist ausschlafen, mehr erholen, lachen, positiv denken.</item>
+        <item>Widmen Sie innerhalb des Tages mindestens fünf Minuten, um vollständig von der Arbeit abzuweichen. Schließen Sie die Augen zu, stellen Sie sich in einem sehr angenehmen Ort (im Wald, am See) vor und tauchen Sie in diese Empfindungen vollständig ein.</item>
+        <item>Unterbrechen Sie den Gesprächspartener nie. Hören Sie aufmerksam an, achten Sie die Meinung anderer Menschen. Seien Sie höflich. Sie erhalten viel nützliche Informationen und Ratschläge. Die Menschen werden Sie auch so behandeln.</item>
+        <item>Seien Sie wissbegierig und neugierig. Erlangen Sie immer neue Kenntnisse, interessieren Sie sich an verschiedenen Lebensbereichen, lesen Sie Bücher der großen Schriftsteller, wissenschaftliche Literatur, Zeitungen, Zeitschriften. Sie müssen immer nach neuen Kenntnissen, Eindrücken, Bekanntschaften suchen.</item>
+        <item>Denken Sie über die Vergangenheit nicht. Sie können sie nicht verändern. Verwenden Sie die Erfahrung der vorherigen Jahre, leben Sie im glücklichen Heute und streben Sie nach künftigen Träumen. Wenn du deine Vergangenheit nicht sterben lässt, sie lässt dir in Ruhe nicht.</item>
+        <item>Erhalten Sie die positive Einstellung aufrecht. Man muss daran glauben, dass die Umwelt aus ihren Gedanken und Träumen besteht. Es hängt nur von Ihnen ab, was in die Wahrheit kommt - ihre Träume oder Ängste. Indem Sie die positive Stimmung der Welt schicken, verändern Sie Ihr Leben und machen die ganze Welt glücklich.</item>
+        <item>Der Humor ist die beste Weise, Lebensschwierigkeiten zu überwinden. Die negativen Gedanken vergiften geradezu den Körper und die Seele. Nehmen Sie das Leben zu ernst wahr.</item>
+        <item>Seien Sie punktuell. Diese Eigenschaft ist im Leben und in der Karriere sehr hilfreich. Die Pünktlichkeit zeigt, dass Sie diszipliniert, zuverlässig sind, die Wichtigkeit der Ereignisse schätzen und Menschen achten.</item>
+        <item>Jeden Tag tun Sie zwei Dinge, die Ihnen nicht gefallen, aber getan werden müssen. Das befreit Sie von Gedankten über diese Dinge, verstärkt Ihre Willenskraft und Disziplin. Sie erspüren die enorme Befriedigung und Fähigkeit, sich vorwärts zu bewegen.</item>
+        <item>Bedanken Sie häufiger andere Menschen, auch für irrelevante Handlungen. Machen Sie das aufrichtig und mit Freude. Der Dank begeistert sie, erhöht die Stimmung und löst die Achtung und das gutartige Verhalten zu Ihnen aus.</item>
+        <item>Lieben Sie sich selbst aufrichtig. Der Mensch, der sich selbst nicht liebst, kann umgebende Menschen nicht lieben. Die hohe Selbsteinschätzung beeinflusst alle Lebensbereiche des Menschen. Sie verursacht die Gewissheit und Entschiedenheit ihrer Handlungen. Der Mensch mit der niedrigen Selbsteinschätzung befürchtet, nicht nur zu handeln, sondern auch daran zu denken, dass man einen anderen Weg des Ablaufs von Ereignissen wählen kann.</item>
+        <item>Befreien Sie sich unbedingt von negativen Gewohnheiten und von Gewohnheiten, die Ihrer Meinung nach Ihrem Leben stören. Das kann mindestens für 21 Tage tun. Woraus entstand diese mythische Ziffer - 21 Tage? Maxwell Maltz war ein bekannter plastischer Chirurg in fünfziger Jahren des zwanzigsten Jahrhunderts. Er entdeckte einmal eine auffällige Gesetzmäßigkeit. Wenn Maltz eine Operation - Nasekorrektur - durchführte, bemerkte er, dass es bei Patienten 21 Tage in Anspruch nahm, um sich dem neuen Gesicht anzugewöhnen. Und wenn beim Patienten den Arm oder Bein amputiert wurden, spürten mehrere Patienten Phantomschmerzen auch 21 Tage lang, bis sie sich der neuen Situation angewöhnten. Diese Erfahrung ließ Maltz an die persönliche Erfahrung der Anpassung an Veränderungen und das neue Benehmen erinnern. Er verstand, dass es für ihn auch 21 Tage erforderlich waren, um die neue Gewohnheit zu entwickeln. Maltz schrieb über diese Erfahrung und sagte: Diese und viele anderen beobachteten Erscheinungen zeigen in der Regel, dass es mindestens 21 Tage erforderlich ist, um die alte mentale Erfahrung durch die neue ersetzt wurde. 1960 veröffentlichte Maltz dies Zitat und sonstige Gedanken über die Veränderung des Benehmens im Buch unter dem Titel „Psycho-Kybernetik“. Das Buch wurde zum Bestseller, es wurden mehr als 30 Millionen Kopien verkauft. Aber es entstand ein Problem. In den weiteren Jahrhunderten beeinflusste das Werk von Maltz fast jeden Fachmann im Bereich der „Selbsthilfe“ von Zig Ziglar bis Brian Tracy und Anthony Robbins. Wie im Flüsterpost: Je mehr Menschen die Geschichte von Maltz nacherzählten, desto mehr Menschen vergaßen, dass er gesagt hätte: „mindestens 21 Tage“. Das Zitat wurde verkürzt, und es ergab sich folgendes: „Um eine Gewohnheit zu entwickeln, ist es 21 Tage erforderlich“. So wurde ein Mythus in der Gesellschaft verbreitet, dass es 21 Tage für die Entwicklung einer Gewohnheit notwendig ist (oder 30 Tage oder eine andere mathematische Ziffer). Ein gefährliches Beispiel: Wenn die ausreichende Anzahl der Menschen etwas ausreichend oft wiederholt, glauben dann alle anderen daran. Es ist leicht zu verstehen, dass der Mythus „21 Tage“ so ausgebreitet wurde. Das ist ein ziemlich kurzes Zeitintervall, das uns begeistern kann, und ein ziemlich langes Zeitintervall, um glaubwürdig zu sein. Wem gefällt aber nicht die Idee, sein Leben für 3 Wochen zu verändern? Das Problem besteht aber darin, dass Maltz einfach beobachtet hatte, was um ihn herum geschehen war, und darüber als Tatsache nicht erklärt hatte. Weiterhin hatte er behauptet, dass das genau die minimale Zeitdauer ist, die für die Anpassung an Veränderungen erforderlich ist. Wie war allerdings die tatsächliche Reaktion? Wie lange werden neue Gewohnheiten wirklich entwickelt? Was spricht die Wissenschaft darüber? Und was bedeutet das alles für uns? Die Wissenschaft gibt die Antwort. Wie immer ist sie ziemlich unerwartet … Im Universitätskolleg in London wurde die präzise Antwort gegeben. 96 Teilnehmern wurde es vorgeschlagen, eine neue Gewohnheit zu wählen, die sie haben könnten. Die Mehrheit davon wurde mit der Gesundheit verbunden, zum Beispiel „ein Stück eines Obsts mit dem Mittagessen essen“ oder „15 Minuten nach dem Abendessen laufen“. Alle 84 Tage der Studie besuchten sie die Website und ließen einen kurzen Bericht darüber, ob sie die Handlung ausgeführt haben, und inwieweit automatisch diese Handlung von ihnen wahrgenommen wurde. Die unbedenkliche Durchführung einer Handlung, was wissenschaftlich als „Automatismus“ bekannt ist, ist Haupttreiber der Gewohnheiten. Und sie hilft die tatsächliche Frage beantworten: Wie lange wird die Gewohnheit tatsächlich geformt? Bei den Teilnehmern, die die ausreichende Information mitteilten, nahm die Entwicklung einer Gewohnheit 66 Tage in Anspruch. Natürlich gab es wesentliche Abweichungen darin, wie lange eine Gewohnheit abhängig davon entwickelt wurde, was man tun musste. Die Teilnehmer, die nach dem Frühstuck ein Glass Wasser trinken sollten, erreichten den maximalen Automatismus nach 20 Tagen. Für die Teilnehmer, die Obste mit dem Mittagessen einnehmen sollten, war es mindestens zweimal so viel Zeit erforderlich, um die Gewohnheit zu entwickeln. Die komplizierteste Gewohnheit war die Trainings-Gewohnheit. Die Gewohnheit „50 Kniebeugen nach dem morgendlichen Kaffee“ wurde bei keinem Teilnehmer entwickelt. Die Gewohnheit „Spazierengehen innerhalb von 10 Minuten nach dem Frühstück“ wurde bei einigen Teilnehmern nach 50 Tagen entwickelt. Wie gewöhnlich war der Weg zur Perfektion keine gerade Linie. Wenn die Forscher die Ergebnisse in einer Kurve zusammenfassten, sahen sie eine Kurve des Gewohnheit- und Automatismus-Verhältnisses, nicht die gerade Linie. Die früheren Wiederholungen waren am nützlichsten für die Entwicklung der Gewohnheit, und der Nutzen verringerte sich allmählich mit der Zeit. Wie beim Anstieg auf den Berg. Zuerst der steile Anstieg, und Sie bewegen sich schnell vorwärts. Danach wird der Anstieg flach, und je näher Sie zum Gipfel kommen, desto weniger ist der Höhenzuwachs mit jedem Schritt. Einigen von uns fällt es schwieriger, als anderen. Die Verringerung des Befestigungstempos wurde unter einigen Teilnehmern besonders ausgeprägt, für die die Entwicklung der Gewohnheit besonders schwierig war. So dass die Forscher erstaunten, wie lange sich einige Gewohnheiten entwickeln: Obwohl die Studie 84 Tage dauerte, wurde es durch die Kurvenextrapolation festgestellt, dass einige Gewohnheiten zur Entwicklung bis 254 Tagen – den größten Teil des Jahres – in Anspruch nehmen können. Die Schlussfolgerungen sind begeistert und nicht begeistert gleichzeitig. Was zeigte diese Studie? Die Entwicklung einer Gewohnheit nimmt oft viel mehr Zeit in Anspruch als wir denken. Das erklärt, warum wir oft das einstellen, was wir begonnen. Zum Beispiel morgendliches Laufen, mehr gesunde Ernährung, sich nicht ärgern oder wegen Kleinigkeiten schreien. Sie brauchen einfach mehr Zeit! Das muss man einfach verstehen, und man muss dazu bereit sein. Es ist 21 Tage ausreichend, wenn eine sehr einfache Gewohnheit entwickelt werden muss. Zum Beispiel ein Glass Wasser nach dem Frühstück trinken. Die schwierigere Gewohnheit nimmt mehr Zeit in Anspruch. In einigen Tätigkeitsarten viel mehr Zeit. Sie können mit 50-60 Tagen oder sogar mehr rechnen. Manchmal kann das ganze Jahr in Anspruch genommen werden. Einigen von uns fällt es besonders schwer, eine Gewohnheit zu entwickeln. In diesem Fall muss man mit dem Einfachsten beginnen. Und verstehen, dass es vielleicht mehr Zeit erforderlich sein wird. Führen Sie so zu sagen „Tierversuche“ durch, verstehen Sie die Mechanik des Prozesses und das, was bei Ihnen arbeitet. Danach übergehen Sie zum Schwierigeren. Ich kann hinsichtlich mich selbst sagen: Indem Sie sich üben, verschiedene Gewohnheiten zu entwickeln, einige Gewohnheiten beherrschen und mit anderen scheitern, verstehen Sie, wie das arbeitet, und können Sie mit der Zeit Gewohnheiten leichter und erfolgsreicher entwickeln. Weil die Gewohnheit nicht übernatürlich ist. Das ist die Frage der Hartnäckigkeit und des „bewussten Praktikums“. Aristoteles warnte uns darüber: „Wir sind das, was wie ständig tun. Demzufolge ist die Perfektion nicht Handlung, sondern Gewohnheit“. Letztendlich ist es unwichtig, wie viele Tage für Sie erforderlich sein werden, um die für Sie notwendige Gewohnheit zu entwickeln, - 50 oder 500. Sie können das so oder so machen. Alles, was Sie brauchen, ist es, seit dem ersten Tag zu beginnen und immer wieder zu wiederholen. Vergessen Sie über die Ziffer und machen einfach Ihre Aufgabe für heute.</item>
+        <item>Achten Sie auf Ihre Ernährung. Sie soll ausgewogen und nützlich sein. Trinken Sie das reine Wasser. Davon hängen Ihr Befinden und Gesundheit ab. Man ist was man isst.</item>
+        <item>Meditieren Sie nach den bestimmten Regeln: eine und dieselbe Zeit und einen und denselben Ort wählen und jeden Tag durchführen. Die beste Zeit ist in der Frühe des Tages</item>
+        <item>Behalten Sie im Kopf und verwenden Sie die Hauptbestimmungen des glücklichen Lebens: Führen Sie das interessante, aktive Leben.</item>
+        <item>Üben Sie die produktive Tätigkeit jede Minute aus.</item>
+        <item>Setzten Sie Ziele vor sich und gehen Sie auf sie los.</item>
+        <item>Denken Sie positiv, lassen Sie negative Gedanken von Ihnen nicht Besitz nehmen.</item>
+        <item>Machen Sie sich keine Sorge wegen Kleinigkeiten.</item>
+        <item>Erholen und vergnügen Sie sich.</item>
+        <item>Seien Sie höflich, aufgeschlossen, freundlich.</item>
+        <item>Leben Sie im Heute, streben Sie nach der glücklichen Zukunft.</item>
+        <item>Lesen Sie diese Regeln immer wieder.</item>
+    </string-array>
+    <string-array name="speed_reading_words">
+        <item>glatt</item>
+        <item>hinweisen</item>
+        <item>Morgenrock</item>
+        <item>winterlich</item>
+        <item>Dunkel</item>
+        <item>Position</item>
+        <item>Wahrheit</item>
+        <item>Stift</item>
+        <item>Mütze</item>
+        <item>Linie</item>
+        <item>Zaun</item>
+        <item>Wand</item>
+        <item>Regime</item>
+        <item>Telefon</item>
+        <item>Jacke</item>
+        <item>Seife</item>
+        <item>Schrank</item>
+        <item>Bild</item>
+        <item>Sonne</item>
+        <item>Schichte</item>
+        <item>führen</item>
+        <item>kalt</item>
+        <item>Tabelle</item>
+        <item>Meer</item>
+        <item>Bewachung</item>
+        <item>Schutz</item>
+        <item>hinten</item>
+        <item>Schuss</item>
+        <item>Geschenk</item>
+        <item>Geste</item>
+        <item>Chaussee</item>
+        <item>Kette</item>
+        <item>Keller</item>
+        <item>einst</item>
+        <item>Lampe</item>
+        <item>Anteil</item>
+        <item>lächerlich</item>
+        <item>ableiten</item>
+        <item>Pilz</item>
+        <item>wandern</item>
+        <item>Wetter</item>
+        <item>Hitze</item>
+        <item>lederig</item>
+        <item>friedlich</item>
+        <item>Verlust</item>
+        <item>Türchen</item>
+        <item>Norm</item>
+        <item>Löffel</item>
+        <item>Leine</item>
+        <item>Methode</item>
+        <item>wegmachen</item>
+        <item>ewig</item>
+        <item>lächerlich</item>
+        <item>zärtlich</item>
+        <item>Banja</item>
+        <item>Abendessen</item>
+        <item>März</item>
+        <item>Signal</item>
+        <item>Kranke</item>
+        <item>spielen</item>
+        <item>senden</item>
+        <item>bemerkbar</item>
+        <item>Netz</item>
+        <item>Nerv</item>
+        <item>süß</item>
+        <item>Make-up</item>
+        <item>Hymne</item>
+        <item>Kuchen</item>
+        <item>Pfeif</item>
+        <item>Quatsch</item>
+        <item>Fluss</item>
+        <item>Zulauf</item>
+        <item>Anruf</item>
+        <item>Rhythmus</item>
+        <item>Volksstamm</item>
+        <item>Klima</item>
+        <item>Pfeil</item>
+        <item>Montage</item>
+        <item>Espe</item>
+        <item>Aufschrift</item>
+        <item>Haarschnitt</item>
+        <item>Schnitt</item>
+        <item>Weg</item>
+        <item>Ampfer</item>
+        <item>Pendel</item>
+        <item>Stille</item>
+        <item>Samstag</item>
+        <item>Kerze</item>
+        <item>Bett</item>
+        <item>Tasse</item>
+        <item>Delegierte</item>
+        <item>Gravüre</item>
+        <item>Apfel</item>
+        <item>Dämmerung</item>
+        <item>Busch</item>
+        <item>Griff</item>
+        <item>Brille</item>
+        <item>Fleisch</item>
+        <item>Schlagloch</item>
+        <item>Prozess</item>
+        <item>Einkerbung</item>
+        <item>Greifer</item>
+        <item>Presse</item>
+        <item>Ruptur</item>
+        <item>Hochburg</item>
+        <item>Bastelei</item>
+        <item>Ding</item>
+        <item>Wolle</item>
+        <item>Wurst</item>
+        <item>Biolog</item>
+        <item>Beschulung</item>
+        <item>Geräusch</item>
+        <item>Frau</item>
+        <item>Papier</item>
+        <item>Tänzer</item>
+        <item>Wettspiel</item>
+        <item>Pflug</item>
+        <item>Wangenrot</item>
+        <item>Gedächtnis</item>
+        <item>Ablesung</item>
+        <item>Brot</item>
+        <item>Schneeball</item>
+        <item>Siedlung</item>
+        <item>Aprikose</item>
+        <item>See</item>
+        <item>Fluss</item>
+        <item>Trauer</item>
+        <item>Auto</item>
+        <item>Tomate</item>
+        <item>Arsenal</item>
+        <item>Dozent</item>
+        <item>Nachbarin</item>
+        <item>Edikt</item>
+        <item>Tisch</item>
+        <item>Köderfisch</item>
+        <item>Dichter</item>
+        <item>Wolke</item>
+        <item>Merkblatt</item>
+    </string-array>
+    <string-array name="true_colors_words">
+        <item>Rot</item>
+        <item>Orange</item>
+        <item>Gelb</item>
+        <item>Grün</item>
+        <item>Blau</item>
+        <item>Lila</item>
+    </string-array>
+    <string-array name="word_pairs_non_equal_first_words">
+        <item>Abweisung</item>
+        <item>Zwiebel</item>
+        <item>Ziege</item>
+        <item>Kran</item>
+        <item>Kater</item>
+        <item>Bank</item>
+        <item>Rauch</item>
+        <item>Farbe</item>
+        <item>Boden</item>
+        <item>Glas</item>
+        <item>Teller</item>
+        <item>Wessel</item>
+        <item>Form</item>
+        <item>Sporn</item>
+        <item>Hand</item>
+        <item>Tisch</item>
+        <item>falzen</item>
+        <item>Gast</item>
+        <item>Griff</item>
+        <item>Fluss</item>
+        <item>Zapfen</item>
+        <item>Traum</item>
+        <item>Nacht</item>
+        <item>Same</item>
+        <item>Beere</item>
+        <item>Haar</item>
+        <item>Rücken</item>
+        <item>Sorge</item>
+        <item>Gas</item>
+        <item>Rinder</item>
+        <item>Mütze</item>
+        <item>Zaun</item>
+        <item>Gelenk</item>
+        <item>Regel</item>
+        <item>ungar</item>
+        <item>geheim</item>
+        <item>Tempel</item>
+        <item>Beleidigung</item>
+        <item>Basis</item>
+        <item>wenig</item>
+        <item>Macht</item>
+        <item>Affe</item>
+        <item>Wunde</item>
+        <item>Staub</item>
+        <item>viel</item>
+        <item>Hitze</item>
+        <item>backen</item>
+        <item>Gold</item>
+        <item>genießen</item>
+        <item>Laufen</item>
+        <item>Tante</item>
+        <item>Spende</item>
+        <item>Lava</item>
+        <item>steil</item>
+        <item>Feuer</item>
+        <item>Marke</item>
+        <item>Sache</item>
+        <item>kräftig</item>
+        <item>Spatel</item>
+        <item>Vase</item>
+        <item>gehen</item>
+        <item>Cafe</item>
+        <item>Sporn</item>
+        <item>fließen</item>
+        <item>Klopfen</item>
+        <item>Feder</item>
+        <item>Punkt</item>
+        <item>Wagen</item>
+        <item>Frucht</item>
+        <item>Rose</item>
+        <item>Juni</item>
+        <item>Seite</item>
+        <item>Streit</item>
+        <item>Presse</item>
+        <item>Schiff</item>
+        <item>Gasse</item>
+        <item>Moos</item>
+        <item>Dach</item>
+        <item>Lüge</item>
+        <item>Geschichte</item>
+        <item>Falke</item>
+        <item>drücken</item>
+        <item>lachbar</item>
+        <item>Entlastung</item>
+        <item>Fett</item>
+        <item>brüllen</item>
+        <item>Jacke</item>
+        <item>Hemd</item>
+        <item>Mantel</item>
+        <item>Horn</item>
+        <item>Rolle</item>
+        <item>Siegel</item>
+        <item>buchen</item>
+    </string-array>
+    <string-array name="word_pairs_non_equal_second_words">
+        <item>Anweisung</item>
+        <item>Ziegel</item>
+        <item>Siege</item>
+        <item>Kron</item>
+        <item>Vater</item>
+        <item>Schrank</item>
+        <item>Bauch</item>
+        <item>Narbe</item>
+        <item>Baden</item>
+        <item>Spaß</item>
+        <item>Fehler</item>
+        <item>Sessel</item>
+        <item>Norm</item>
+        <item>Dorn</item>
+        <item>Rand</item>
+        <item>Fisch</item>
+        <item>salzen</item>
+        <item>Mast</item>
+        <item>Riff</item>
+        <item>Schluss</item>
+        <item>Tapfen</item>
+        <item>Raum</item>
+        <item>Pracht</item>
+        <item>Dame</item>
+        <item>Meer</item>
+        <item>Paar</item>
+        <item>Röcke</item>
+        <item>Morgen</item>
+        <item>Gras</item>
+        <item>Linde</item>
+        <item>Münze</item>
+        <item>Stau</item>
+        <item>Geschenk</item>
+        <item>Regen</item>
+        <item>Hunger</item>
+        <item>gemein</item>
+        <item>Stempel</item>
+        <item>Beteidigung</item>
+        <item>Oasis</item>
+        <item>Pfennig</item>
+        <item>Pracht</item>
+        <item>Ofen</item>
+        <item>Sünde</item>
+        <item>Stab</item>
+        <item>Ziel</item>
+        <item>Spitze</item>
+        <item>ackern</item>
+        <item>Geld</item>
+        <item>wissen</item>
+        <item>Launen</item>
+        <item>Taste</item>
+        <item>Ende</item>
+        <item>Lama</item>
+        <item>Stahl</item>
+        <item>Steuer</item>
+        <item>Gurke</item>
+        <item>Rachen</item>
+        <item>saftig</item>
+        <item>Scheitel</item>
+        <item>Nase</item>
+        <item>sehen</item>
+        <item>Kaffee</item>
+        <item>Sport</item>
+        <item>fliegen</item>
+        <item>Stopfen</item>
+        <item>Zeder</item>
+        <item>Funk</item>
+        <item>Waage</item>
+        <item>Flucht</item>
+        <item>Dose</item>
+        <item>Juli</item>
+        <item>Falte</item>
+        <item>Streich</item>
+        <item>fressen</item>
+        <item>Schliff</item>
+        <item>Masse</item>
+        <item>Los</item>
+        <item>mach</item>
+        <item>Lage</item>
+        <item>geschickt</item>
+        <item>Balken</item>
+        <item>schmücken</item>
+        <item>Nachbar</item>
+        <item>Entladung</item>
+        <item>Brett</item>
+        <item>Brille</item>
+        <item>Sack</item>
+        <item>Held</item>
+        <item>Anteil</item>
+        <item>Dorn</item>
+        <item>Krolle</item>
+        <item>siegen</item>
+        <item>Kuchen</item>
+    </string-array>
+    <string-array name="word_pairs_words">
+        <item>Haus</item>
+        <item>Rauch</item>
+        <item>Speck</item>
+        <item>Fleisch</item>
+        <item>Brot</item>
+        <item>Rübensuppe</item>
+        <item>Tisch</item>
+        <item>Fenster</item>
+        <item>Buch</item>
+        <item>Morgenrot</item>
+        <item>Morgen</item>
+        <item>Seele</item>
+        <item>Kerze</item>
+        <item>Schrank</item>
+        <item>Rad</item>
+        <item>Album</item>
+        <item>Augen</item>
+        <item>U-Bahn</item>
+        <item>Zeit</item>
+        <item>Schulbank</item>
+        <item>Brille</item>
+        <item>Kopf</item>
+        <item>Packet</item>
+        <item>Stadt</item>
+        <item>Schloss</item>
+        <item>Teppich</item>
+        <item>Elefant</item>
+        <item>Gesicht</item>
+        <item>Bilanz</item>
+        <item>Netz</item>
+        <item>Schnur</item>
+        <item>Tapete</item>
+        <item>Chaussee</item>
+        <item>Blume</item>
+        <item>Muster</item>
+        <item>Fenster</item>
+        <item>Wand</item>
+        <item>Bank</item>
+        <item>Weg</item>
+        <item>Sprache</item>
+        <item>Nachrichten</item>
+        <item>Himmel</item>
+        <item>Luft</item>
+        <item>Schule</item>
+        <item>Körper</item>
+        <item>Schritt</item>
+        <item>Tür</item>
+        <item>Zone</item>
+        <item>Tisch</item>
+        <item>Ring</item>
+        <item>Projekt</item>
+        <item>Strahl</item>
+        <item>Ozean</item>
+        <item>Puppe</item>
+        <item>Datsche</item>
+        <item>Blatt</item>
+        <item>Taiga</item>
+        <item>Bart</item>
+        <item>Summe</item>
+        <item>Motor</item>
+        <item>Kreuz</item>
+        <item>Talent</item>
+        <item>Schwimmen</item>
+        <item>Eimer</item>
+        <item>Stange</item>
+        <item>Kanal</item>
+        <item>Rakete</item>
+        <item>Arbeitschicht</item>
+        <item>Epoche</item>
+        <item>Ware</item>
+        <item>Zweig</item>
+        <item>Felsen</item>
+        <item>Kugel</item>
+        <item>Reserve</item>
+        <item>Orden</item>
+        <item>Box</item>
+        <item>Linde</item>
+        <item>Kater</item>
+        <item>Nutzen</item>
+        <item>Lager</item>
+        <item>links</item>
+        <item>Hügel</item>
+        <item>Ziffer</item>
+        <item>Flug</item>
+        <item>Rundfunk</item>
+        <item>Dunkel</item>
+        <item>Morgenmantel</item>
+        <item>Grübe</item>
+        <item>Lampe</item>
+        <item>Anteil</item>
+        <item>Pilz</item>
+        <item>Löffel</item>
+        <item>Verfahren</item>
+        <item>ewig</item>
+        <item>Dampfbad</item>
+        <item>Abendessen</item>
+        <item>März</item>
+        <item>Netz</item>
+        <item>Feder</item>
+        <item>Turm</item>
+        <item>kleides Geld</item>
+        <item>Gewehr</item>
+        <item>Feder</item>
+        <item>Sphäre</item>
+        <item>Richter</item>
+        <item>Ei</item>
+        <item>Brennholz</item>
+        <item>Bauteil</item>
+        <item>Käfer</item>
+        <item>Chef</item>
+        <item>Genius</item>
+        <item>Packet</item>
+        <item>Hase</item>
+        <item>Herr</item>
+        <item>Fürst</item>
+        <item>Kriegsmann</item>
+        <item>Abhang</item>
+        <item>Steppe</item>
+        <item>Enkel</item>
+        <item>Spalte</item>
+        <item>Chance</item>
+        <item>U-Bahn</item>
+        <item>Wolke</item>
+        <item>Gedanke</item>
+        <item>Fischer</item>
+        <item>Truppe</item>
+        <item>bunt</item>
+        <item>Geschoss</item>
+        <item>Intellekt</item>
+        <item>Wohl</item>
+        <item>Engel</item>
+        <item>Tüll</item>
+        <item>Granate</item>
+        <item>Etappe</item>
+        <item>Pilot</item>
+        <item>oben</item>
+        <item>Seemann</item>
+        <item>Balken</item>
+        <item>Kleine</item>
+        <item>Pinne</item>
+        <item>Prinz</item>
+        <item>Leader</item>
+        <item>Lenkrad</item>
+        <item>Anruf</item>
+        <item>Qual</item>
+        <item>Urlaub</item>
+        <item>Karre</item>
+        <item>Steichholz</item>
+        <item>Ehe</item>
+        <item>Taste</item>
+        <item>Patrone</item>
+        <item>Bodenanteil</item>
+        <item>Agent</item>
+        <item>Salz</item>
+        <item>Rättern</item>
+        <item>Kammer</item>
+        <item>Mode</item>
+        <item>Hafen</item>
+        <item>Glänze</item>
+        <item>Band</item>
+        <item>Funke</item>
+        <item>Zucker</item>
+        <item>Version</item>
+        <item>Schlägerei</item>
+        <item>Fahrstuhlahrstuhl</item>
+        <item>Bericht</item>
+        <item>Brei</item>
+        <item>Schluck</item>
+        <item>Knoten</item>
+        <item>Fracht</item>
+        <item>Ziegel</item>
+        <item>Tourist</item>
+        <item>Pfeil</item>
+        <item>Gericht</item>
+        <item>Personalbestand</item>
+        <item>Socke</item>
+        <item>Kiefer</item>
+        <item>Hirsch</item>
+        <item>Aktion</item>
+        <item>Nuss</item>
+        <item>Status</item>
+        <item>Kerze</item>
+        <item>Faktor</item>
+        <item>Verweigerung</item>
+        <item>Vortrag</item>
+        <item>Zeile</item>
+        <item>Nagel</item>
+        <item>Heldentat</item>
+        <item>Hexenmeister</item>
+        <item>Plus</item>
+        <item>Rahme</item>
+        <item>Tasse</item>
+        <item>Lüge</item>
+        <item>Balkon</item>
+        <item>heiß</item>
+        <item>Grund</item>
+        <item>Block</item>
+        <item>Schimmer</item>
+        <item>Sujet</item>
+        <item>Saft</item>
+        <item>Fonds</item>
+        <item>einz</item>
+        <item>Schema</item>
+        <item>Urahn</item>
+        <item>Ärger</item>
+        <item>Mönch</item>
+    </string-array>
+</resources>

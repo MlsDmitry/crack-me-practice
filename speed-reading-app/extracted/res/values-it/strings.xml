@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Vai alla home page</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Vai in alto</string>
+    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
+    <string name="abc_action_mode_done">Fine</string>
+    <string name="abc_activity_chooser_view_see_all">Visualizza tutte</string>
+    <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Cerca…</string>
+    <string name="abc_searchview_description_clear">Cancella query</string>
+    <string name="abc_searchview_description_query">Query di ricerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Invia query</string>
+    <string name="abc_searchview_description_voice">Ricerca vocale</string>
+    <string name="abc_shareactionprovider_share_with">Condividi con</string>
+    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
+    <string name="abc_toolbar_collapse_description">Comprimi</string>
+    <string name="accelerator">"L'acceleratore neuronale"</string>
+    <string name="accelerator_description_message">"Leggere ed esercitarsi con il simulatore risulta più efficace quando il corpo si trova in uno stato rilassato, mentre il cervello è attivo. Così si raggiunge uno stato di veglia rilassata e in quel caso il testo viene percepito e appreso meglio. 
+
+Occorre socchiudere un po' gli occhi e cercare di abbracciare con lo sguardo, per quanto possibile, il testo che state per leggere. 
+
+Per poter raggiungere velocevente e senza sforzi uno stato di vigilanza rilassata perfetta, potete usare una tecnica chiamata la tecnica del mandarino. Questo semplice metodo incanala automaticamente la vostra attenzione nella giusta direzione e migliora immediatamente la qualità della lettura. 
+
+Le esercitazioni dimostrano che sia la lettura che la memoria richiedono attenzione. 
+
+L'oggetto di focalizzazione dell'attenzione ha un'importanza fondamentale. Per esempio, durante la guida dell'auto il migliore oggetto di attenzione è una strada che sta davanti a voi, non il cofano o il paraurti. Per una lettura efficace, l'oggetto perfetto per la focalizzazione risulta lo spazio dietro il cucuzzolo e sopra di esso. 
+
+\"La tecnica del mandarino\" aiuta a definire un campo di attenzione ottimale e a gestirlo. La tecnica aiuta anche a entrare in uno stato di vigilanza rilassato del corpo e della mente il quale è preferibile per la lettura. Occorre seguire le seguenti istruzioni: 
+
+Immaginate un mandarino. Immaginate il suo peso, il suo colore, la sua buccia e il suo odore. Ora lanciatelo da una mano all'altra e afferratelo. Continuate a lanciare il mandarino da una mano all'altra. Ora afferrate il mandarino con la mano principale e appoggiatelo sul cucuzzolo. Toccate dolcemente questo punto. Immaginate il mandarino che sta lì; a questo punto abbassate le braccia e rilassate le spalle. Potete immaginare che è un mandarino magico, ed esso continuerà a stare lì dove l'avete appoggiato. Piano piano chiudete gli occhi e mantenete il mandarino appoggiato sulla testa. Prestate l'attenzione ai cambiamenti nel vostro stato fisico e mentale durante questa procedura. Vi sentirete rilassati e consapevoli. Rimanendo ad occhi chiusi, immaginate visibile il campo visivo. 
+
+Gestite la sensazione di consapevolezza rilassata dopo aver riaperto gli occhi e procedete alla lettura. 
+
+Dopo aver sperimentato con questa tecnica, riuscirete ad assorbire più facilmente il materiale che leggete e lo farete con velocità molto grande. Svilupperete la capacità di concentrarvi sull'informazione e il processo di lettura diventerà più rilassante. 
+
+All'inizio poserete coscientemente il mandarino sulla testa. In seguito questo avverà automaticamente, e non appena prenderete in mano il materiale da leggere, una unità di attenzione prenderà immediatamente il suo posto. 
+
+Tale stato di rilassamento fisico e di vigilanza mentale è utile anche per altre sfere di attività. Esso è stato studiato in modo dettagliato come stato in cui l'uomo risulta il più produttivo. Questo stato è simile alla pensosità, alla meditazione, quando l'uomo è preso solo dall'istante presente. 
+
+Però tale stato di rilassamento non somiglia alla sonnolenza. Voi piuttosto focalizzate la mente su qualche cosa con una sensazione di tranquilità interna. Avete l'accesso a tutte le risorse naturali interne. 
+
+Per molti è difficile raggiungere lo stato perfetto per la lettura, soprattutto nel lavoro. Durante la lettura in ufficio c'è il telefono che squilla, è necessario affrettarsi per non essere in ritardo, e la mente risulta intasata di pesieri sui prodotti dell'azienda o sui lavori di riparazione della propria auto. Su che che cosa sarà incentrata l'attenzione, quando la mente si è trasformata in un pantano? Un po' su tutto. Sarà quasi impossibile leggere qualcosa. 
+
+Lo stato ideale per la lettura è assolutamente diverso. È uno stato di flusso quando si è completamente presi dal materiale che si trova davanti. Proprio in quel momento entra in gioco la tecnica del mandarino”.
+
+        
+
+In caso di lettori esperti, il loro punto dell'attenzione è definito in maniera netta, esso si trova leggermente dietro e un po' sopra al cucuzzolo.
+
+        
+
+Molti hanno notato alcuni vantaggi che si ottengono dall'uso della \"tecnica del mandarino\".
+        Prima di tutto, hanno cominciato a passare velocemente e facilmente allo stato di vigilanza rilassata.
+        Inoltre, calmano la mente e concentrano automaticamente la propria attenzione sull'oggetto necessario.
+        Il risultato è il perfezionamento immediato delle abilità.
+
+        
+
+Nel corso della storia umana la tecnica del mandarino\" si manifestava in forme diverse. Ognuna di esse vi fa fissare l'attenzione sul punto posto leggermente sopra e dietro la testa. 
+
+Sperimentate con questa tecnica. Se l'immagine del mandarino non aiuta, provate focalizzare l'attenzione sul punto necessario in un altro modo. Immaginate di esservi messo un sombrero sul quale si trova un uccello. Cercate di sentire il cappello, mentre lo sguardo deve essere concentrato sull'uccello. 
+
+Ecco ancora un modo. Immaginate che durante la lettura vi trovate fuori dal corpo e fissate il vostro cucuzzolo. In quel momento prestate attenzione a come cambiano le vostre sensazioni. 
+
+Quando voi, dopo aver fissato l'attenzione tramite una di queste tecniche, riaprite gli occhi, avviene una cosa curiosa. Ad un tratto, il materiale che state leggendo diventa più governabile. Il campo visivo si estende. In tale stato siete in grado di percepire visualmente molta più informazione. 
+
+Il raggiungere tale stato della mente è un obiettivo. Voi non cercate di mantenere il mandarino nel corso della lettura. La determinazione del punto fisso dell'attenzione è simile al posizionamento di una pietra chiave nella parte superiore di un passaggio a volta. Una pietra in cima mantiene le altre. 
+
+Allo stesso modo un punto fisso dell'attenzione raccoglie e indirizza gli altri per usarli durante la lettura. Dopo averlo posizionato una volta, potete non pensarci più. Quando passate attraverso la porta, non dovete portarla via con voi. Dovete semplicemente andare avanti e procedere alla lettura, la vostra mente penserà da sola al resto. 
+
+Spendete alcuni minuti per capire come potete utilizzare le conoscenze che avete tratto da questo capitolo: 
+Le due componenti della preparazione sono l'impostazione dell'obiettivo e il passaggio allo stato perfetto con il punto fisso dell'attenzione che si trova sul vostro cucuzzolo. 
+Leggere in maniera finalizzata significa leggere in maniera efficace. 
+La tecnica del mandarino è una delle tecniche più efficaci per fissare l'attenzione, il che fa passare automaticamente la vostra mente allo stato perfetto. 
+
+Nel frattempo notate ancora una volta i cambiamenti nel vostro stato fisico. Durante la lettura vi sentite più rilassati, più concentrati, più attenti e completamente presi dalla lettura. Adesso siete pronti all'addestramento. 
+
+Se riuscirete ad aquisire la tecnica del mandarino e a smettere di pronunciare le parole, i limiti di velocità spariranno. 
+
+Per ottenere risultati di qualità, ci vogliono la disciplina, le esercitazioni regolari e la scrupolosa esecuzione di tutti gli esercizi. Occorre esercitarsi 2 volte al giorno, un'ora al mattino e un'ora alla sera. 
+
+Buona fortuna per la lettura veloce e buona fortuna in tutto."</string>
+    <string name="accelerator_description_title">"Qual'è il modo migliore per esercitarsi e leggere il testo"</string>
+    <string name="accelerator_result_duration_title">Durata</string>
+    <string name="accelerator_result_min">%1$s min</string>
+    <string name="accelerator_result_sec">%1$s sec</string>
+    <string name="accelerator_settings_column_count_summary">Quantità di colonne</string>
+    <string name="accelerator_settings_column_count_title">Quantità di colonne</string>
+    <string name="accelerator_settings_duration_summary">Durata di allenamento</string>
+    <string name="accelerator_settings_duration_title">Durata</string>
+    <string name="accelerator_speed">Velocità %1$d</string>
+    <string name="accelerator_time">Tempo %1$s</string>
+    <string name="advices">Consigli</string>
+    <string name="all_books">Tutti i libri</string>
+    <string name="app_name">Lettura veloce</string>
+    <string name="base_course_name">Corso base</string>
+    <string name="base_course_short_name">di base</string>
+    <string name="base_profile">di base</string>
+    <string name="begin">Per iniziare</string>
+    <string name="book">Il nostro libro</string>
+    <string name="book_detail_author">Autore</string>
+    <string name="book_detail_file_path">Percorso del file</string>
+    <string name="book_detail_language">Lingua</string>
+    <string name="book_detail_title">Titolo</string>
+    <string name="bottom_menu_home">Principale</string>
+    <string name="bottom_menu_materials">Materiale</string>
+    <string name="bottom_menu_profile">Il profilo</string>
+    <string name="bottom_menu_reading">Lettura</string>
+    <string name="bottom_menu_training">Formazione</string>
+    <string name="common_google_play_services_unknown_issue">%1$s sta riscontrando problemi con Google Play Services. Riprova.</string>
+    <string name="concentration">Concentrazione</string>
+    <string name="concentration_complexity_auto">Automatico</string>
+    <string name="concentration_complexity_self">Personale</string>
+    <string name="concentration_complexity_title">Scegli il tipo di allenamento</string>
+    <string name="concentration_description_text">"Questo simulatore aiuterà a sviluppare la capacità di concentrazione e miglioramento dell'attenzione. Gli esercizi aiuteranno a percepire qualsiasi informazione in un periodo più breve. Un'abilità molto utile alla lettura veloce ti consentirà di concentrarti sui compiti necessari. Molto bene estende il campo visivo. È molto utile per i bambini. Concentrati sui cerchi volanti di blu e, dopo esserti fermato, prova a indovinare tutte le palle precedentemente colorate."</string>
+    <string name="count">Numero di</string>
+    <string name="course_max_points">Complimenti! Il massimo rango</string>
+    <string name="course_need_points">%1$d punti rimasti al grado di %2$s</string>
+    <string name="course_points_add_info">*Per aggiornare il grado devi completare il corso</string>
+    <string name="courses">corsi</string>
+    <string name="creating">In sviluppo</string>
+    <string name="cup_timer_settings_type_summary">Tipo di allenamento</string>
+    <string name="cup_timer_settings_type_title">Tipo</string>
+    <string name="cuptimer">"Focalizzazione dell'attenzione"</string>
+    <string name="cuptimer_description_text">"Home Il tuo compito è quello di concentrarti il ​​più possibile sull'immagine del colore verde.         
+
+Si costringe a pensare solo al profilo evidenziato da questo colore.         
+
+ Guardando la foto, possiamo vedere un vaso o due profili umani.         
+
+Se i pensieri sono distratti da altri compiti, dobbiamo costringerci a concentrarci sull'immagine del colore verde.         
+
+Questo è un esercizio molto utile per padroneggiare la tecnica della lettura veloce.         
+
+Il simulatore è semplice e allo stesso tempo molto efficace, aiuta a risolvere diversi problemi contemporaneamente: imparare a concentrarsi e, guardando il testo, non pronunciare le parole.         
+
+Per concentrarsi non solo sulla pace esterna, ma anche sulla pace interiore.         
+
+Prima di iniziare, rilassati e raccogli. Scarta tutti i pensieri relativi ad altre cose.         
+
+Spiegando gli occhi e prova a vedere 3 foto, presta attenzione solo all'immagine al centro.         
+
+Il principio di stereo è preso in prestito dalle immagini stereo. Rilassa gli occhi e prova a vedere 3 foto.         
+
+Tuttavia solo l'immagine al centro. Ha un effetto molto benefico sui nostri occhi.         
+
+Gli occhi sono focalizzati sull'immagine al momento del massimo rilassamento dei muscoli. Questo aiuta ad alleviare la tensione e l'affaticamento degli occhi.         
+
+Gli esami regolari aiutano a mantenere la freschezza degli occhi e l"</string>
+    <string name="cuptimer_info">Concentrarsi sul verde</string>
+    <string name="current_level">livello %1$d</string>
+    <string name="description_do_not_show_it_again">Non mostrarmelo di nuovo</string>
+    <string name="description_start">Comincia</string>
+    <string name="dialog_continue">Continua</string>
+    <string name="dialog_exit">Esci</string>
+    <string name="dialog_help">Aiuto</string>
+    <string name="dialog_restart">Ricomincia</string>
+    <string name="dialog_settings">Impostazioni</string>
+    <string name="even_numbers">Numeri pari</string>
+    <string name="even_numbers_best_score">Record %1$d</string>
+    <string name="even_numbers_description_message">"Il tuo compito consiste nel trovare il più veloce possibile e premere su 6 numeri pari durante ogni visualizzazione. 
+
+Questo esercizio aumenta la concentrazione dell'attenzione e la precisione della percezione dell'immagine. 
+
+Muoviti per colonne o righe cercando di scegliere la soluzione più comoda per te e rimani in uno stato rilassato."</string>
+    <string name="even_numbers_description_title">Numeri pari</string>
+    <string name="even_numbers_result_best_score">Record</string>
+    <string name="even_numbers_result_new_best">Nuovo record</string>
+    <string name="even_numbers_result_score">Punteggio</string>
+    <string name="even_numbers_score">Punteggio %1$d</string>
+    <string name="file_explorer_book_adding">Aggiungi un libro</string>
+    <string name="file_explorer_book_adding_failed">"Errore nell'aggiungere il libro"</string>
+    <string name="file_explorer_book_adding_success">Il libro è stato aggiunto nella biblioteca</string>
+    <string name="file_explorer_book_already_exist">Questo libro esiste già nella biblioteca</string>
+    <string name="file_explorer_file_type">Tipo di file %1$s</string>
+    <string name="file_explorer_open">Apri</string>
+    <string name="flash_words">Lampo di parole</string>
+    <string name="flash_words_level">Livello %1$d</string>
+    <string name="flash_words_settings_duration_summary">Durata di allenamento</string>
+    <string name="flash_words_settings_duration_title">Durata</string>
+    <string name="forever_premium">Compra per sempre per %1$s</string>
+    <string name="getting_rid_of_pronouncing">Impariamo a non pronunciare le parole</string>
+    <string name="green_dot">Il punto verde</string>
+    <string name="green_dot_description_message_1">"Questo esercizio contribuisce notevolmente all'ampliamento del campo visivo. 
+
+La contemplazione del punto verde ti permetterà di distinguere i contorni, i contorni delle parole che circondano il punto verde di parole, frasi, frasi e gradualmente sarai in grado di vedere frammenti sempre più grandi del testo. 
+
+L'esercizio dovrebbe essere eseguito per 3 mesi al giorno senza interruzione."</string>
+    <string name="green_dot_description_message_2">"Per eseguire l'esercizio, devi stare seduto dritto e mantenere uno stato rilassato durante l'intera sessione, e avere un respiro costante e calmo. 
+
+Lo schermo dovrebbe essere a una distanza di 30-35 cm dagli occhi, come nella lettura del libro. 
+
+Prima di eseguire l'esercizio, si raccomanda di fare ginnastica per gli occhi: la testa è ferma. Guardiamo in basso, in alto, a sinistra, a destra, lontano, vicino. 
+
+È necessario concentrarsi sul punto verde per 10 minuti: (15, 20, 30, 60, non più di 120 minuti). Il testo durante la contemplazione del punto verde non viene letto. 
+
+La lettura è sempre connessa al movimento degli occhi. In questo esercizio è VIETATO. L'intero periodo di contemplazione del punto verde fissa SOLO il PUNTO VERDE."</string>
+    <string name="green_dot_description_message_3">"Quando si contempla un punto verde, si passa attraverso diverse fasi. Con l'aumentare della concentrazione, è più facile mantenere l'attenzione sul punto. Ma nel tempo, puoi rilassarti e il punto verde può iniziare a nuotare in diverse direzioni: sinistra-destra, su-giù, avvicinandosi o allontanandosi da te. È necessario mantenere lo stato di \"concentrazione calma\" e restituire il punto verde al luogo. 
+
+È importante che gli occhi senza alcuno sforzo si fermino su di esso e tutti i pensieri estranei scompaiano. Grazie a ciò, la visione del punto verde diventa RECOGNITIVE, BRIGHT. È stato raggiunto il grado di liquidità della coscienza, che è lo scopo principale dell'esercizio. 
+
+Quando questo inizia a funzionare (ci vogliono 1-2 settimane), il compito è aumentare gradualmente la percezione. Dovresti provare a vedere con un punto verde tutti i grandi frammenti di testo, a destra ea sinistra, sopra e sotto il punto. Quindi prova a vedere l'intera riga di testo dal centro della pagina orizzontalmente. Quindi dovresti vedere 2-3 righe di testo sotto e sopra il punto verde - non leggere il testo, ma SENTIRE la sua presenza."</string>
+    <string name="green_dot_description_message_4">"Quando contempli un punto verde, impari a non essere distratto da pensieri estranei, il che porta al fatto che all'improvviso vedi l'intera pagina con il testo contemporaneamente al punto verde al centro. Non dura a lungo, solo pochi istanti, ma è abbastanza."</string>
+    <string name="green_dot_description_title">Il punto verde</string>
+    <string name="green_dot_description_title_2">Modalità di allenamento</string>
+    <string name="green_dot_description_title_3">raccomandazioni</string>
+    <string name="green_dot_description_title_4">OBIETTIVO</string>
+    <string name="green_dot_pass_course_result_duration">Durata %1$s</string>
+    <string name="green_dot_result_duration_title">Durata</string>
+    <string name="green_dot_settings_duration_summary">Durata di allenamento</string>
+    <string name="green_dot_settings_duration_title">Durata</string>
+    <string name="green_dot_text">Sono completamente calmo. Sono assolutamente calmo. La lettura veloce mi dà gioia, una sensazione di leggerezza. Uno slancio. Non mi stanco e ogni giorno mi sento sempre meglio. Mi è facile imparare a leggere. Allenandomi, rimango libero, fresco. Ora cerco di immagire il più vivamente possibile di che cosa si tratta. Un testo di qualsiasi difficoltà lo leggo solo una volta. Uso sempre la prima regola della lettura veloce, ovvero quella di leggere senza regressioni. Gli occhi scorrono velocemente e liberamente solo in avanti. So leggere così. Leggerò sempre così. Io leggo velocemente. Ricordo costantemente i sette blocchi dell</string>
+    <string name="half_year_premium">6 mesi</string>
+    <string name="help">Aiuto</string>
+    <string name="interstitial_next_training">Esercizio successivo</string>
+    <string name="interstitial_restart">Riavvio del corso</string>
+    <string name="interstitial_restart_button">nuovo inizio</string>
+    <string name="interstitial_restart_description">Sei sicuro di voler ricominciare il corso?</string>
+    <string name="interstitial_start">Comincia</string>
+    <string name="level">livello</string>
+    <string name="library">Biblioteca</string>
+    <string name="library_book_deleting">Cancellazione del libro</string>
+    <string name="library_book_progress">Progresso %1$d%%</string>
+    <string name="library_book_remove_cancel">Annulla</string>
+    <string name="library_book_remove_delete">Cancella</string>
+    <string name="library_book_remove_message">Vuoi cancellare questo libro dalla biblioteca?</string>
+    <string name="library_data_loading">Caricamento dei dati</string>
+    <string name="library_format_dialog_continue">Continua</string>
+    <string name="library_format_dialog_do_not_show_again">Non mostrarmelo più</string>
+    <string name="library_format_dialog_message">"L'applicazione supporta i seguenti formati di libri: 
+- fb2 (fb2.zip) 
+- epub 
+- txt"</string>
+    <string name="library_format_dialog_title">Formati supportati</string>
+    <string name="library_is_empty">L biblioteca è vuota</string>
+    <string name="library_permission_denied">"L'autorizzazione per l'accesso alla memoria non è disponibile"</string>
+    <string name="library_permission_set">Installa</string>
+    <string name="line_of_sight">Il campo visivo</string>
+    <string name="line_of_sight_description_message">"Il tuo compito consiste nell'individuare la presenza di una non coincidenza tra le lettere situate alle estremità della tabella In caso di non coincidenza riscontrata, premi il tasto \"Errore\". 
+
+Focalizza il tuo sguardo sul centro dello schermo e cerca di vedere la tabella intera. Il compito principale è quello di concentrarsi al massimo sullo schermo e memorizzare tutte le non coincidenze fissandole con il tasto. Puoi premerlo anche un po' dopo, qualora non riesca a farlo in tempo immediatamente dopo la dimostrazione delle lettere, l'importante è memorizzare la presenza della non coincidenza e premere obbligatoriamente il tasto \"Errore\". 
+
+È un esercizio molto utile che non solo aiuta ad estendere il campo visivo, ma anche vi abbitua a concentrarvi al massimo in un tempo di dimostrazione limitato, il che è assolutamente importante durante la lettura veloce e non solo."</string>
+    <string name="line_of_sight_description_title">Il campo visivo</string>
+    <string name="line_of_sight_mistake">Errore</string>
+    <string name="line_of_sight_pass_course_result_accuracy">Precisione %1$s</string>
+    <string name="line_of_sight_pass_course_result_found_mistakes">Hai trovato %1$d</string>
+    <string name="line_of_sight_pass_course_result_mistakes">Errori %1$d</string>
+    <string name="line_of_sight_result_found_mistakes">Hai trovato</string>
+    <string name="line_of_sight_result_found_mistakes_accuracy">Precisione</string>
+    <string name="line_of_sight_result_mistakes">Errori</string>
+    <string name="line_of_sight_settings_board_size_summary">Dimensioni del campo</string>
+    <string name="line_of_sight_settings_board_size_title">Dimensioni del campo</string>
+    <string name="line_of_sight_settings_field_type_summary">Tipo di campo</string>
+    <string name="line_of_sight_settings_field_type_title">Tipo di campo</string>
+    <string name="main_menu_description_message_1">Per ottenere risultati di qualità, ci vogliono la disciplina, le esercitazioni regolari e la scrupolosa esecuzione di tutti gli esercizi. Occorre esercitarsi circa 2 ore al giorno, 2 volte, un</string>
+    <string name="main_menu_description_message_2_part_1">"1) Leggere senza regressioni.
+2) Leggere secondo l"</string>
+    <string name="main_menu_description_message_2_part_2">"Il leggere risulta più efficace quando il corpo si trova in uno stato rilassato, mentre il cervello è attivo. Così si raggiunge uno stato di veglia rilassata e in quel caso il testo viene percepito e appreso meglio.
+
+Per poter raggiungere velocevente e senza sforzi uno stato di vigilanza rilassata perfetta, potete usare una tecnica chiamata la tecnica del mandarino. Questo semplice metodo incanala automaticamente la vostra attenzione nella giusta direzione e migliora immediatamente la qualità della lettura.
+
+Le esercitazioni dimostrano che sia la lettura che la memoria richiedono attenzione. A livello cosciente, in una sessione riuscite a percepire fino a sette, più o meno due, bit di informazione.
+
+Gli studi dimostrano anche che la focalizzazione di una unità di attenzione sul tema iniziale contribuisce all"</string>
+    <string name="main_menu_description_message_4">"Al mattino:
+
+30 minuti di esercitazioni con simulatori
+
+30-40 minuti di lettura (15- 20 minuti per ogni modo)
+
+Alla sera:
+
+30 minuti di esercitazioni con simulatori
+
+30- 40 minuti di lettura (15-20 minuti per ogni modo)
+
+Un po"</string>
+    <string name="main_menu_description_message_5">Potete non crederci, ma quelli che hanno tale abilità, sono in grado di leggere 100-200 pagine andando al lavoro in metro o in altri mezzi pubblici. Sviluppando l</string>
+    <string name="main_menu_description_title_1">Come lavorare col nostro programma</string>
+    <string name="main_menu_description_title_2">Le sette regole principali per la lettura veloce</string>
+    <string name="main_menu_description_title_4">Totale</string>
+    <string name="main_menu_description_title_5">A che cosa serve l</string>
+    <string name="math_complexity_choose">Scegli un livello di difficoltà:</string>
+    <string name="math_complexity_easy">Facile</string>
+    <string name="math_complexity_hard">Difficile</string>
+    <string name="math_complexity_mixed">Misto</string>
+    <string name="math_complexity_normal">Ordinario</string>
+    <string name="math_correct_answer">La risposta corretta è: %1$d</string>
+    <string name="math_description_text">Rispondi correttamente agli esempi matematici. Considera il limite di tempo, che puoi modificare nelle impostazioni del simulatore. La matematica aiuta ad allenare le aree del cervello che vengono utilizzate anche per la lettura veloce.</string>
+    <string name="mathematics">Matematica</string>
+    <string name="mixed_up_letters">Lettere invertite</string>
+    <string name="month_premium">1 mese</string>
+    <string name="more">Scopri di più</string>
+    <string name="more_speed_ads_description">Aumentare la velocità di lettura massima a 3000 caratteri al minuto</string>
+    <string name="more_speed_ads_title">Alle alte velocità</string>
+    <string name="more_training_ads_description">"Accesso libero ai trainer 'Focusing' e 'Memorize words'"</string>
+    <string name="more_training_ads_title">Pieno accesso agli esercizi</string>
+    <string name="motivators">Frasi motivazionali</string>
+    <string name="motivators_title">Il successo ti aspetta!</string>
+    <string name="need_points">altri %1$d punti</string>
+    <string name="new_books">Aggiunto di recente</string>
+    <string name="no_ads_description">"Ottieni ancora più comfort senza essere distratto dalle unità pubblicitarie nell'app"</string>
+    <string name="no_ads_title">Nessun annuncio</string>
+    <string name="notification_first_type">Concentrati su oggetti verdi</string>
+    <string name="notification_second_type">"Ruota lo schermo in orizzontale e concentrati sull'immagine"</string>
+    <string name="notifications">Notifiche</string>
+    <string name="notifications_settings_set_time_title">"Imposta l'ora"</string>
+    <string name="notifications_settings_title">Notifiche quotidiane</string>
+    <string name="pass_course">Segui il corso</string>
+    <string name="pass_course_current_trainer">Simulatore corrente</string>
+    <string name="pass_course_next">Avanti</string>
+    <string name="pass_course_rating">Rating</string>
+    <string name="pass_course_rating_beginner">Principiante</string>
+    <string name="pass_course_rating_expert">Esperto</string>
+    <string name="pass_course_rating_genius">Genio</string>
+    <string name="pass_course_rating_guru">Guru</string>
+    <string name="pass_course_rating_learner">Allievo</string>
+    <string name="pass_course_rating_master">Maestro</string>
+    <string name="pass_course_rating_not_passed">Corso non iniziato</string>
+    <string name="pass_course_rating_professor">Professore</string>
+    <string name="pass_course_reading_description">Devi leggere il libro in 2 modi per 15 minuti</string>
+    <string name="pass_course_result_t">Risultato</string>
+    <string name="pass_course_score">Punti</string>
+    <string name="pass_course_trainers_left">I simulatori hanno lasciato: %1$d</string>
+    <string name="pass_course_training_number">Esercizio %1$d</string>
+    <string name="pass_descr">"Per ottenere risultati di qualità, ci vogliono la disciplina, le esercitazioni regolari e la scrupolosa esecuzione di tutti gli esercizi. Occorre esercitarsi circa 2 ore al giorno: un'ora al mattino e un'ora alla sera. 
+
+Lo svolgimento regolare delle esercitazioni è una delle condizioni principali. 
+
+Dopo gli esercizi bisogna leggere per 15 minuti nel modo \"Lettura veloce\" e per 15 minuti nel modo \"Con aggiustamenti\". Occorre scegliere una velocità che sia 2 volte più alta della tua e aumentarla gradualmente. Nella prima fase non c'è bisogno memorizzare l'informazione. 
+
+Se sei pronto a fare esercizi mirati a sviluppare la velocità di lettura, allora la squadra dei progettisti ti augura buona fortuna, sono sicuri che ci riuscirai. 
+
+Nel nostro programma abbiamo raccolto tecniche uniche che hanno recepito l'esperienza mondiale. 
+
+Dopo aver seguito il corso, potrai aumentare la tua velocità di lettura 5-10 volte."</string>
+    <string name="pass_descr_close">Chiudi</string>
+    <string name="pass_descr_start">Comincia</string>
+    <string name="pass_descr_title">Come lavorare con il programma \"Segui il corso\"</string>
+    <string name="pay_for">Quando si paga</string>
+    <string name="per_month">/me</string>
+    <string name="points_left">Punti rimasti %1$d</string>
+    <string name="premium">Premium</string>
+    <string name="premium_description">"Velocità fino a 3000 
+Senza pubblicità"</string>
+    <string name="prepare_title">Pronto!</string>
+    <string name="privacy_policy"><u>Politica sulla privacy</u></string>
+    <string name="purchase">Acquista</string>
+    <string name="purchase_error">Errore del sistema di pagamento</string>
+    <string name="purchase_success">"Hai ottenuto l'accesso Premium"</string>
+    <string name="random_trainer">Allenatore di vocabolario casuale</string>
+    <string name="rate_app_dialog_dont_show_again">No, grazie</string>
+    <string name="rate_app_dialog_message">Salve, se la nostra applicazione ti è piaciuta e se sei interessato al suo sviluppo, spendi un minuto del tuo tempo per lasciare la tua valutazione e recensione.</string>
+    <string name="rate_app_dialog_rate_now">Valuta adesso</string>
+    <string name="rate_app_dialog_remind_me_later">Ricordamelo dopo</string>
+    <string name="rate_app_dialog_title">"Valuta l'applicazione"</string>
+    <string name="reader_exit_dialog_cancel">Annulla</string>
+    <string name="reader_exit_dialog_exit">Esci</string>
+    <string name="reader_exit_dialog_message">Vuoi davvero uscire da qui?</string>
+    <string name="reader_exit_dialog_title">Esci</string>
+    <string name="reader_file_opening">Apertura del file</string>
+    <string name="reader_file_opening_error">"Erorre nell'apertura del file"</string>
+    <string name="reader_guide_dialog_center_description">"Premere il terzo centrale dello schermo per mettere in pausa o per continuare l'allenamento 
+
+Premere il terzo centrale dello schermo due volte per richiamare il menu di navigazione"</string>
+    <string name="reader_guide_dialog_continue">Continua</string>
+    <string name="reader_guide_dialog_default_reading_center_description">Premere il terzo centrale dello schermo due volte per richiamare il menu di navigazione</string>
+    <string name="reader_guide_dialog_default_reading_message">"Questo modo permettere di leggere libri con la possibilità di voltare le pagine da soli. 
+
+Bisogna cercare di leggere con lo sguardo sfocato, abituando se stessi ad abbracciare con lo sguardo la quantità massima del testo. 
+
+Nella fase iniziale la comprensione totale del testo letto non è necessaria."</string>
+    <string name="reader_guide_dialog_default_reading_title">Lettura normale</string>
+    <string name="reader_guide_dialog_do_not_show_again">Non mostrarmelo più</string>
+    <string name="reader_guide_dialog_fast_reading_message">"Questo modo permette di leggere libri usando il modo automatico di voltare le pagine, tramite il cursore che evidenzia il testo. 
+
+Bisogna cercare di leggere con lo sguardo sfocato, abituando se stessi ad abbracciare con lo sguardo la quantità massima del testo. 
+
+Nella fase iniziale la comprensione del testo letto non è necessaria."</string>
+    <string name="reader_guide_dialog_fast_reading_title">Lettura veloce</string>
+    <string name="reader_guide_dialog_flash_reading_message">"Questo modo permette di leggere libri usando il modo automatico di voltare le pagine, senza evidenziare singole parole. 
+
+Bisogna cercare di leggere con lo sguardo sfocato, abituando se stessi ad abbracciare con lo sguardo la quantità massima del testo. 
+
+Nella fase iniziale la comprensione totale del testo letto non è necessaria."</string>
+    <string name="reader_guide_dialog_flash_reading_title">Modo di lettura con aggiustamenti</string>
+    <string name="reader_guide_dialog_next_page_description">Premere il terzo destro dello schermo per passare alla pagina successiva</string>
+    <string name="reader_guide_dialog_pencil_frame_description">Usare il menu di navigazione per cambiare il numero di righe da evidenziare.</string>
+    <string name="reader_guide_dialog_pencil_frame_reading_message">"Questo modo permette di leggere libri usando il modo automatico di voltare le pagine, evidenziando singoli frammenti del testo. 
+
+Bisogna cercare di leggere con lo sguardo sfocato, abituando se stessi ad abbracciare con lo sguardo la quantità massima del testo. 
+
+Nella fase iniziale la comprensione totale del testo letto non è necessaria."</string>
+    <string name="reader_guide_dialog_pencil_frame_reading_title">"Lettura con l'utilizzo della matita"</string>
+    <string name="reader_guide_dialog_pencil_frame_selected_line_minus_description">Premere il segno meno per diminuire il numero di righe da evidenziare.</string>
+    <string name="reader_guide_dialog_pencil_frame_selected_line_plus_description">Premere il segno più per aumentare il numero di righe da evidenziare.</string>
+    <string name="reader_guide_dialog_previous_page_description">Premere il terzo sinistro dello schermo per passare alla pagina precedente</string>
+    <string name="reader_guide_dialog_speed_down_description">Premere il terzo sinistro dello schermo per diminuire la velocità</string>
+    <string name="reader_guide_dialog_speed_up_description">Premere il terzo destro dello schermo per aumentare la velocità</string>
+    <string name="reader_page">Pagina %1$d/%2$d</string>
+    <string name="reader_pencil_frame_selected_line_count">Righe %1$d</string>
+    <string name="reader_purchase_premium_dialog_cancel">Annulla</string>
+    <string name="reader_purchase_premium_dialog_message">"Per poter usufruire di tutte le possibilità, è necessario acquistare l'accesso Premium"</string>
+    <string name="reader_purchase_premium_dialog_purchase">Acquista</string>
+    <string name="reader_purchase_premium_dialog_title">Premium</string>
+    <string name="reader_select_chapter_dialog_title">Scegli il capitolo</string>
+    <string name="reader_select_page_dialog_cancel">Annulla</string>
+    <string name="reader_select_page_dialog_select">Scegli</string>
+    <string name="reader_select_page_dialog_title">Scegli la pagina</string>
+    <string name="reader_select_reading_mode_dialog_title">Scegli il modo di lettura</string>
+    <string name="reader_settings_text_size_summary">Scegli la dimensione dei caratteri</string>
+    <string name="reader_settings_text_size_title">Dimensione dei caratteri</string>
+    <string name="reader_speed">Velocità %1$d</string>
+    <string name="reader_timer_mode_dialog_book_ended_change_book">Scegli un altro libro</string>
+    <string name="reader_timer_mode_dialog_book_ended_change_page">Continua</string>
+    <string name="reader_timer_mode_dialog_book_ended_message">Hai letto tutto il libro</string>
+    <string name="reader_timer_mode_dialog_book_ended_title">Fine</string>
+    <string name="reader_timer_mode_dialog_completed_message">"Hai superato l'esercizio"</string>
+    <string name="reader_timer_mode_dialog_completed_title">Superato</string>
+    <string name="reader_timer_mode_dialog_continue">Continua</string>
+    <string name="reader_timer_mode_dialog_end">Finisci</string>
+    <string name="reader_timer_mode_dialog_message">Devi leggere il testo per il periodo di tempo impostato</string>
+    <string name="reader_timer_mode_dialog_start">Comincia</string>
+    <string name="reader_timer_mode_dialog_title">Lettura con un cronometro</string>
+    <string name="reader_timer_mode_time">Tempo %1$s</string>
+    <string name="reading">Lettura</string>
+    <string name="reading_3d">Lettura 3D</string>
+    <string name="reading_field">Campo di lettura</string>
+    <string name="reading_with_a_pencil">"Lettura con l'utilizzo della matita"</string>
+    <string name="reading_without_vowels">Lettura senza vocali</string>
+    <string name="recommendation">Empfehlungen</string>
+    <string name="remember_number">Ricorda il numeroо</string>
+    <string name="remember_number_best_score">Record %1$d</string>
+    <string name="remember_number_description">"Il tuo compito consiste nel ricordare il numero mostrato e nel riprodurlo tramite la tastiera. 
+
+Il tempo limitato in cui vengono mostrati i numeri ti abbitua al tempo minimo di focalizzazione durante la lettura. 
+
+Cerca di fotografare l'immagine del numero con i frammenti più grandi possibili, senza la focalizzazione attenta su singole cifre e, se possibile, senza pronunciarli tra sé. 
+
+Questo esercizio serve ad estendere il campo visivo nell'area periferica orizzontale. È un esercizio molto utile non solo per la lettura veloce, ma anche per altre attività umane."</string>
+    <string name="remember_number_description_title">Ricorda il numero</string>
+    <string name="remember_number_result_best_score">Record</string>
+    <string name="remember_number_result_new_best">Nuovo record</string>
+    <string name="remember_number_result_score">Punteggio</string>
+    <string name="remember_number_score">Punteggio %1$d</string>
+    <string name="remember_words">Ricorda le parole</string>
+    <string name="remember_words_description_text">"La lettura veloce è un insieme di tecniche che aiutano ad aumentare la velocità di lettura senza perdere la comprensione di ciò che è stato letto.         
+
+Ricorda e riproduci le parole visualizzate sulla tastiera. Questo esercizio serve per espandere il campo visivo.         
+
+Questo è un esercizio molto utile, ti insegnerà come memorizzare il testo in grandi frammenti e con la massima comprensione del materiale che leggi.         
+
+Il formatore si adeguerà al tuo livello. Limitato nella durata, la visualizzazione delle parole abitua al tempo minimo di fissazione per la lettura.         
+
+Fate attenzione a fotografare l"</string>
+    <string name="restart">Ricomincia</string>
+    <string name="rules_of_success">Le regole del successo</string>
+    <string name="rules_of_success_title">"Consigliato per l'uso quotidiano. Rileggendo regolarmente Le regole del successo, stimolate voi stessi di sviluppare quelle qualità che, secondo voi, vi mancano."</string>
+    <string name="s1">Salva immagine</string>
+    <string name="s2">"Consentire ad AdMob di memorizzare l'immagine nella galleria Immagini?"</string>
+    <string name="s3">Accetto</string>
+    <string name="s4">Rifiuto</string>
+    <string name="s5">Crea evento di calendario</string>
+    <string name="s6">Consentire ad AdMob di creare un evento di calendario?</string>
+    <string name="s7">Annuncio di testo</string>
+    <string name="schulte_description_image_1_title">Movimenti degli occhi di una persona non allenata</string>
+    <string name="schulte_description_image_2_title">Trovare numeri in 15–20 secondi.</string>
+    <string name="schulte_description_image_3_title">Trovare numeri in 8–10 secondi.</string>
+    <string name="schulte_description_part_1_message">"Sono griglie con numeri e lettere disposti in modo casuale che servono a controllare e perfezionare la velocità nel trovare oggetti seguendo un certo ordine. 
+
+Esercizi con le tabelle permettono di migliorare la percezione visuale periferica, il che è importante per la lettura veloce e non solo. 
+
+Quando dovete inventare, creare o scrivere qualcosa, esercitatevi con tali tabelle e il processo si svolgerà a un livello più alto di concentrazione e ad un livello creativo più elevato. 
+
+Esercizi con le tabelle saranno utili quasi per tutte le attività umane e in qualsiasi età."</string>
+    <string name="schulte_description_part_1_title">Tabelle di Schulte</string>
+    <string name="schulte_description_part_2_message">"Bisogna scegliere un posto comodo, rilassarsi e concentrarsi sull'esecuzione del compito. 
+
+La distanza tra la tabella e gli occhi deve essere di circa 30–35 cm, cioé uguale a quella che si usa per la lettura di un libro.
+
+Prima di iniziare, lo sguardo va fissato al centro della tabella e non si sposta più. L'esercitazione avviene addirittura con uno spettro di vista sfumato. 
+
+Bisogna trovare i numeri secondo l'ordine progressivo da 1 a 25, senza saltarne uno, con massima velocit быстротой, preferibilmente senza pronunciare i numeri tra sé, né ad alta voce. È molto importante evitare di spostare lo sguardo dal centro e cercare i numeri usando solo la vista periferica. 
+
+Il tempo e la frequenza delle esercitazioni vanno scelti in modo tale da evitare la stanchezza. Bisognerebbe farle preferibilmente 10 minuti, 2 volte al giorno. 
+
+Man mano che l'abilità migliora, si passa alle tabelle con celle 6x6, 7x7."</string>
+    <string name="schulte_description_part_2_title">Regime di esercitazioni</string>
+    <string name="schulte_description_part_3_message">"Non cercate за один подход, proprio qui ed ora, di raggiungere il risultato massimo possibile. Tutto deve avvenire gradualmente. Dopo essersi esercitati per circa 3 settimane e dopo aver raggiunto un certo il risultato stabile, bisogna fare una pausa. Tra un paio di giorni so può proseguire. 
+
+Gradualmente, vi accorgerete del risultato. Capirete di quanto è migliorata la vostra capacità di percepire l'informazione, di quanto sono migliorate la memoria e la mente. Non dimenticate che questo non è che un esercizio di base, una sorta di ginnastica, allenamento per la testa, un modo di mantenersi in una buona forma. 
+
+È impossibile imparare a leggere velocemente e correttamente in 3 giorni. Per cui siate pronti ad esercitarvi a lungo, in quel caso riuscirete a ottenere dalla lettura non solo benefici, ma anche piacere."</string>
+    <string name="schulte_description_part_3_title">Conclusione</string>
+    <string name="schulte_table">Tabella di Schulte</string>
+    <string name="schulte_table_best_time">Record %1$s</string>
+    <string name="schulte_table_description_title">Tabelle di Schulte</string>
+    <string name="schulte_table_next_item">Successivo %1$s</string>
+    <string name="schulte_table_result_best_time">Record</string>
+    <string name="schulte_table_result_time">Tempo</string>
+    <string name="schulte_table_settings_column_count_summary">Quantità di colonne</string>
+    <string name="schulte_table_settings_column_count_title">Quantità di colonne</string>
+    <string name="schulte_table_settings_fullscreen_summary">Tabella di Schulte a tutto schermo</string>
+    <string name="schulte_table_settings_fullscreen_title">A tutto schermo</string>
+    <string name="schulte_table_settings_row_count_summary">Quantità di righe</string>
+    <string name="schulte_table_settings_row_count_title">Quantità di righe</string>
+    <string name="schulte_table_time">Tempo %1$s</string>
+    <string name="search_menu_title">Ricerca</string>
+    <string name="settings">Impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="share_to_friends">Dillo ai tuoi amici</string>
+    <string name="sighting_reading">Lettura con \"aggiustamenti\"</string>
+    <string name="size">Dimensione</string>
+    <string name="special_training">Simulatore</string>
+    <string name="special_training_close">Chiudi</string>
+    <string name="special_training_message">"Questo simulatore sarà presentato nel programma \"Segui il corso\" man mano che si raggiunge un certo risultato. Durante il corso appariranno nuovi simulatori mirati a migliorare la tua tecnica di lettura veloce. Per non disperdersi contemporaneamente su tutti i simulatori, essi sono stati distribuiti lungo tutto il corso, e grazie a questo tutte le abilità necessarie per la lettura veloce saranno perfezionate e portate all'automatismo."</string>
+    <string name="speed">Velocità di</string>
+    <string name="speed_reading">Velocità di lettura</string>
+    <string name="speed_reading_answer_speed_title">Velocità</string>
+    <string name="speed_reading_book_author">Yuri Gorbach</string>
+    <string name="speed_reading_book_dialog_answer_no">No thanks</string>
+    <string name="speed_reading_book_dialog_answer_yes">Yes</string>
+    <string name="speed_reading_book_dialog_description">Especially for you, we wrote a book that will help you master the speed reading skill much faster. Would you like to read it?</string>
+    <string name="speed_reading_book_dialog_title">Learn all about speed reading</string>
+    <string name="speed_reading_book_language">English</string>
+    <string name="speed_reading_book_name">Speed reading: all secrets</string>
+    <string name="speed_reading_book_purchase_description">Next, you will learn how to get rid of pronunciation in a few days. How to memorize information and store it in long-term memory. How to apply these skills in practice. And much more, very useful information for you.</string>
+    <string name="speed_reading_book_short_first">Speed reading</string>
+    <string name="speed_reading_book_short_second">All secrets</string>
+    <string name="speed_reading_description_message">"Focalizza il tuo sguardo sul centro dello schermo e cerca di vedere la tabella intera. Non rileggere il testo, usa, per quanto possibile, solo la vista periferica. 
+
+Il compito principale è quello di concentrarsi al massimo sullo schermo e cercare di ricordare l'ultima parola mostrata, dopodiché premere il tasto con l'ultima parola memorizzata. 
+
+È un esercizio molto utile che non solo aiuta ad estendere il campo visivo, ma anche vi abbitua a concentrarvi al massimo in un tempo di dimostrazione limitato."</string>
+    <string name="speed_reading_description_title">Velocità di lettura</string>
+    <string name="speed_reading_pass_course_result_average_speed">Velocità media %1$d</string>
+    <string name="speed_reading_pass_course_result_max_speed">Velocità massima %1$d</string>
+    <string name="speed_reading_result_average_speed">Velocità media</string>
+    <string name="speed_reading_result_best_average_speed">Record</string>
+    <string name="speed_reading_result_best_max_speed">Record</string>
+    <string name="speed_reading_result_max_speed">Velocità massima</string>
+    <string name="speed_reading_speed">Velocità %1$d</string>
+    <string name="start_read">Leggere</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storm_method">Metodo di assalto</string>
+    <string name="trainers">formatori</string>
+    <string name="training">Allenamento</string>
+    <string name="true_colors">Confusione di colori</string>
+    <string name="true_colors_description_text">"L'essenza di questo simulatore è la seguente: Per il periodo di tempo più breve, è necessario abbinare la parola dello schermo e il suo colore e scegliere il colore nella risposta. La percezione del colore e del testo avviene in diversi reparti degli emisferi, il simulatore è utile per il nostro cervello e aiuta a stabilire nuove connessioni neurali. Il lavoro regolare sviluppa le capacità di percezione e migliora la concentrazione dell"</string>
+    <string name="upper_course_short_name">avanzato</string>
+    <string name="word_block_result_duration_title">Durata</string>
+    <string name="word_block_result_sec">%1$s sec</string>
+    <string name="word_block_speed">Velocità %1$d</string>
+    <string name="word_block_time">Tempo %1$s</string>
+    <string name="word_pairs">Paia di parole</string>
+    <string name="word_pairs_best_score">Record %1$d</string>
+    <string name="word_pairs_description_message">"Il tuo compito consiste nel trovare e premere su 5 paia di parole che non coincidono, durante ogni dimostrazione. 
+
+Questo esercizio incrementa la precisione di memorizzazione e migliora la concentrazione dell'attenzione. 
+
+Spostandosi per colonne o righe, scegliete la variante più comoda per te, e rimani in uno stato rilassato. Questo ti aiuterà a percepire meglio l'informazione e a fare una scelta consapevole delle parole che si confrontano. È preferibile non pronunciare tra sè le parole."</string>
+    <string name="word_pairs_description_title">Paia di parole</string>
+    <string name="word_pairs_result_best_score">Record</string>
+    <string name="word_pairs_result_new_best">Nuovo record</string>
+    <string name="word_pairs_result_score">Punteggio</string>
+    <string name="word_pairs_score">Punteggio %1$d</string>
+    <string name="words_block">Blocchi di parole</string>
+    <string name="words_block_word_count">Parole %1$d</string>
+    <string name="words_columns">Colonne di parole</string>
+    <string name="year_premium">12 mesi</string>
+</resources>

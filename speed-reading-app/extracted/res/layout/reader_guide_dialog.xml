@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="wrap_content"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <android.support.design.widget.TabLayout n1:id="@id/tab_layout" n1:layout_width="fill_parent" n1:layout_height="wrap_content" />
+    <android.support.v4.view.ViewPager n1:id="@id/view_pager" n1:layout_width="fill_parent" n1:layout_height="300.0dip" />
+    <View n1:background="@color/colorAccent" n1:layout_width="fill_parent" n1:layout_height="1.0dip" />
+    <CheckBox n1:id="@id/dont_show_again_check_box" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="24.0dip" n1:layout_marginTop="16.0dip" n1:layout_marginRight="24.0dip" n1:text="@string/reader_guide_dialog_do_not_show_again" />
+    <LinearLayout n1:gravity="end" n1:layout_gravity="end" n1:orientation="vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="24.0dip" n1:layout_marginRight="8.0dip" n1:layout_marginBottom="8.0dip">
+        <Button n1:textColor="@color/colorAccent" n1:id="@id/close_button" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/reader_guide_dialog_continue" style="@style/Widget.AppCompat.Button.Borderless" />
+    </LinearLayout>
+</LinearLayout>

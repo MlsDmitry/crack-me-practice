@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="wrap_content"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <TextView n1:textSize="16.0sp" n1:textColor="@drawable/training_pause_dialog_text_color_selector" n1:gravity="center_horizontal" n1:id="@id/training_pause_dialog_continue_view" n1:paddingTop="8.0dip" n1:paddingBottom="8.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/dialog_continue" n1:drawableTop="@drawable/training_pause_dialog_continiue_selector" />
+    <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <TextView n1:textSize="16.0sp" n1:textColor="@drawable/training_pause_dialog_text_color_selector" n1:gravity="center_horizontal" n1:id="@id/training_pause_dialog_help_view" n1:paddingTop="8.0dip" n1:paddingBottom="8.0dip" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:text="@string/dialog_help" n1:drawableTop="@drawable/training_pause_dialog_help_selector" n1:layout_weight="1.0" />
+        <TextView n1:textSize="16.0sp" n1:textColor="@drawable/training_pause_dialog_text_color_selector" n1:gravity="center_horizontal" n1:id="@id/training_pause_dialog_settings_view" n1:paddingTop="8.0dip" n1:paddingBottom="8.0dip" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:text="@string/dialog_settings" n1:drawableTop="@drawable/training_pause_dialog_settings_selector" n1:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <TextView n1:textSize="16.0sp" n1:textColor="@drawable/training_pause_dialog_text_color_selector" n1:gravity="center_horizontal" n1:id="@id/training_pause_dialog_exit_view" n1:paddingTop="8.0dip" n1:paddingBottom="8.0dip" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:text="@string/dialog_exit" n1:drawableTop="@drawable/training_pause_dialog_exit_selector" n1:layout_weight="1.0" />
+        <TextView n1:textSize="16.0sp" n1:textColor="@drawable/training_pause_dialog_text_color_selector" n1:gravity="center_horizontal" n1:id="@id/training_pause_dialog_restart_view" n1:paddingTop="8.0dip" n1:paddingBottom="8.0dip" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:text="@string/dialog_restart" n1:drawableTop="@drawable/training_pause_dialog_restart_selector" n1:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

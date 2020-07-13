@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:orientation="vertical" n1:background="@drawable/shape" n1:padding="4.0dip" n1:layout_width="fill_parent" n1:layout_height="0.0dip" n1:layout_margin="12.0dip" n1:layout_weight="1.0">
+        <ImageView n1:layout_gravity="center" n1:id="@id/book_cover_image_view" n1:layout_width="fill_parent" n1:layout_height="0.0dip" n1:layout_marginTop="30.0dip" n1:layout_marginBottom="30.0dip" n1:src="@drawable/reader_book_without_title" n1:scaleType="centerInside" n1:layout_weight="1.0" />
+        <LinearLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <View n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="1.0px" />
+            <LinearLayout n1:orientation="vertical" n1:paddingTop="8.0dip" n1:paddingBottom="8.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/activity_horizontal_margin" n1:layout_marginRight="@dimen/activity_horizontal_margin">
+                <TextView n1:textSize="14.0sp" n1:textColor="@color/colorWhiteText" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/book_detail_title" />
+                <TextView n1:textSize="16.0sp" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:id="@id/title_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:maxLines="2" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout n1:orientation="vertical" n1:id="@id/author_view" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <View n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="1.0px" />
+            <LinearLayout n1:orientation="vertical" n1:paddingTop="8.0dip" n1:paddingBottom="8.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/activity_horizontal_margin" n1:layout_marginRight="@dimen/activity_horizontal_margin">
+                <TextView n1:textSize="14.0sp" n1:textColor="@color/colorWhiteText" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/book_detail_author" />
+                <TextView n1:textSize="16.0sp" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:id="@id/author_text_view" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:maxLines="2" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout n1:orientation="vertical" n1:id="@id/language_view" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <View n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="1.0px" />
+            <LinearLayout n1:orientation="vertical" n1:paddingTop="8.0dip" n1:paddingBottom="8.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/activity_horizontal_margin" n1:layout_marginRight="@dimen/activity_horizontal_margin">
+                <TextView n1:textSize="14.0sp" n1:textColor="@color/colorWhiteText" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/book_detail_language" />
+                <TextView n1:textSize="16.0sp" n1:textColor="@color/colorWhiteText" n1:id="@id/language_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <View n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="1.0px" />
+            <LinearLayout n1:orientation="vertical" n1:paddingTop="8.0dip" n1:paddingBottom="8.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/activity_horizontal_margin" n1:layout_marginRight="@dimen/activity_horizontal_margin">
+                <TextView n1:textSize="14.0sp" n1:textColor="@color/colorWhiteText" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/book_detail_file_path" />
+                <TextView n1:textSize="16.0sp" n1:textColor="@color/colorWhiteText" n1:ellipsize="marquee" n1:id="@id/file_path_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:maxLines="2" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView n1:theme="@style/AccentButtonStyle" n1:textColor="@color/white" n1:layout_gravity="center" n1:id="@id/start_reading_button" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="8.0dip" n1:layout_marginBottom="32.0dip" n1:src="@drawable/training_start_icon" n1:text="@string/description_start" />
+</LinearLayout>

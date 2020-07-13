@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ScrollView n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="0.0dip" n1:layout_weight="1.0">
+        <LinearLayout n1:orientation="vertical" n1:padding="@dimen/activity_horizontal_margin" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <TextView n1:textSize="26.0sp" n1:textColor="?android:textColorPrimary" n1:gravity="center" n1:paddingTop="8.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/main_menu_description_title_1" />
+            <TextView n1:textSize="16.0sp" n1:textColor="@color/grey" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/main_menu_description_message_1" />
+            <ImageView n1:layout_gravity="center_horizontal" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:src="@drawable/main_menu_description_training_description" />
+            <TextView n1:textSize="26.0sp" n1:textColor="?android:textColorPrimary" n1:gravity="center" n1:paddingTop="8.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/main_menu_description_title_2" />
+            <TextView n1:textSize="16.0sp" n1:textColor="?android:textColorSecondary" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/main_menu_description_message_2_part_1" />
+            <TextView n1:textSize="16.0sp" n1:textColor="?android:textColorSecondary" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/main_menu_description_message_2_part_2" />
+            <TextView n1:textSize="26.0sp" n1:textColor="?android:textColorPrimary" n1:gravity="center" n1:paddingTop="8.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/main_menu_description_title_4" />
+            <TextView n1:textSize="16.0sp" n1:textColor="?android:textColorSecondary" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/main_menu_description_message_4" />
+            <TextView n1:textSize="26.0sp" n1:textColor="?android:textColorPrimary" n1:gravity="center" n1:paddingTop="8.0dip" n1:paddingBottom="4.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/main_menu_description_title_5" />
+            <TextView n1:textSize="16.0sp" n1:textColor="?android:textColorSecondary" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="@string/main_menu_description_message_5" />
+        </LinearLayout>
+    </ScrollView>
+    <com.google.android.gms.ads.AdView n1:id="@id/ad_view" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n2:adSize="SMART_BANNER" n2:adUnitId="@string/banner_advertisement_id" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+</LinearLayout>

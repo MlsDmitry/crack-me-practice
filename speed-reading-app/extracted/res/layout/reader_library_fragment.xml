@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <android.support.design.widget.AppBarLayout n1:layout_width="0.0dip" n1:layout_height="wrap_content" n2:layout_constraintLeft_toLeftOf="parent" n2:layout_constraintRight_toRightOf="parent" n2:layout_constraintTop_toTopOf="parent" xmlns:n2="http://schemas.android.com/apk/res-auto">
+        <android.support.v7.widget.Toolbar n1:id="@id/toolbar" n1:background="?colorPrimary" n1:layout_width="fill_parent" n1:layout_height="?actionBarSize" n2:layout_scrollFlags="enterAlways|scroll|snap" n2:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+        <android.support.design.widget.TabLayout n1:id="@id/tab_layout" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n2:tabGravity="fill" n2:tabMode="fixed" />
+    </android.support.design.widget.AppBarLayout>
+    <android.support.v4.view.ViewPager n1:id="@id/view_pager" n1:layout_width="0.0dip" n1:layout_height="0.0dip" n3:layout_behavior="@string/appbar_scrolling_view_behavior" xmlns:n3="http://schemas.android.com/apk/res-auto" />
+</android.support.constraint.ConstraintLayout>

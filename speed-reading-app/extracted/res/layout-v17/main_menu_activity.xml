@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <android.support.design.widget.AppBarLayout n1:theme="@style/AppTheme.AppBarOverlay" n1:id="@id/appbar" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <android.support.v7.widget.Toolbar n1:id="@id/toolbar" n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="?actionBarSize" n2:popupTheme="@style/AppTheme.PopupOverlay" n2:titleTextColor="@color/colorMain" xmlns:n2="http://schemas.android.com/apk/res-auto">
+            <FrameLayout n1:layout_gravity="end|center" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="16.0dip" n1:layout_marginEnd="16.0dip">
+                <ImageView n1:id="@id/action_bar_premium_icon" n1:focusable="true" n1:clickable="true" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:src="@drawable/action_bar_premium_icon_selector" />
+            </FrameLayout>
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+    <FrameLayout n1:id="@id/fragment_container" n1:background="@color/colorBackground" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_above="@id/bottom_navigation" n1:layout_below="@id/appbar" />
+    <View n1:background="@color/light_grey" n1:layout_width="fill_parent" n1:layout_height="1.0dip" n1:layout_above="@id/bottom_navigation" />
+    <android.support.design.widget.BottomNavigationView n1:id="@id/bottom_navigation" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_alignParentBottom="true" n3:itemBackground="@color/colorWhiteText" n3:itemIconTint="@drawable/bottom_menu_icons_color_state" n3:itemTextColor="@color/colorGray" n3:menu="@menu/bottom_navigation_main" xmlns:n3="http://schemas.android.com/apk/res-auto" />
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:background="#ff82c8b1" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ImageView n1:layout_gravity="center" n1:layout_width="150.0dip" n1:layout_height="150.0dip" n1:layout_marginTop="20.0dip" n1:src="@drawable/ad_russian_icon" />
+    <LinearLayout n1:orientation="vertical" n1:padding="24.0dip" n1:layout_width="wrap_content" n1:layout_height="wrap_content">
+        <TextView n1:textColor="@color/white" n1:paddingBottom="20.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="Желаете повысить свою грамотность?" style="@style/TextAppearance.AppCompat.Title" />
+        <TextView n1:textColor="@color/white" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:text="Приложение поможет Вам обучиться основам орфографии русского языка. Предназначено как для взрослых, так и для детей. Весь курс разбит на главы и правила." style="@style/TextAppearance.AppCompat.Subhead" />
+    </LinearLayout>
+    <LinearLayout n1:gravity="end" n1:layout_gravity="end" n1:orientation="vertical" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="8.0dip" n1:layout_marginBottom="8.0dip" n1:layout_marginEnd="8.0dip">
+        <Button n1:textColor="@color/white" n1:id="@id/show_market_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="Попробовать" style="@style/Widget.AppCompat.Button.Borderless" />
+        <Button n1:textColor="@color/white" n1:id="@id/close_dialog_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="Нет, спасибо" style="@style/Widget.AppCompat.Button.Borderless" />
+    </LinearLayout>
+</LinearLayout>

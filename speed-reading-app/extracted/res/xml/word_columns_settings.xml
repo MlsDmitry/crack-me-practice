@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen>
+    <android.support.v7.preference.ListPreference n1:entries="@array/accelerator_settings_duration_entries" n1:title="@string/accelerator_settings_duration_title" n1:key="@string/accelerator_settings_duration_key" n1:summary="@string/accelerator_settings_duration_summary" n1:defaultValue="@string/accelerator_settings_duration_default_value" n1:entryValues="@array/accelerator_settings_duration_entry_values"
+      xmlns:n1="http://schemas.android.com/apk/res/android" />
+    <android.support.v7.preference.ListPreference n2:entries="@array/accelerator_settings_column_count_entry_values" n2:title="@string/accelerator_settings_column_count_title" n2:key="@string/accelerator_settings_column_count_key" n2:summary="@string/accelerator_settings_column_count_summary" n2:defaultValue="@string/accelerator_settings_column_count_default_value" n2:entryValues="@array/accelerator_settings_column_count_entry_values"
+      xmlns:n2="http://schemas.android.com/apk/res/android" />
+</android.support.v7.preference.PreferenceScreen>

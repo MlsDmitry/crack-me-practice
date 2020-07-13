@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen>
+    <android.support.v7.preference.ListPreference n1:entries="@array/cup_timer_settings_duration_entries" n1:title="@string/green_dot_settings_duration_title" n1:key="@string/cup_timer_settings_duration_key" n1:summary="@string/green_dot_settings_duration_summary" n1:defaultValue="@string/cup_timer_settings_duration_default_value" n1:entryValues="@array/cup_timer_settings_duration_entry_values"
+      xmlns:n1="http://schemas.android.com/apk/res/android" />
+    <android.support.v7.preference.ListPreference n2:entries="@array/cup_timer_settings_type_entries" n2:title="@string/cup_timer_settings_type_title" n2:key="@string/cup_timer_settings_type_key" n2:summary="@string/cup_timer_settings_type_summary" n2:defaultValue="@string/cup_timer_settings_type_default_value" n2:entryValues="@array/cup_timer_settings_type_entry_values"
+      xmlns:n2="http://schemas.android.com/apk/res/android" />
+</android.support.v7.preference.PreferenceScreen>

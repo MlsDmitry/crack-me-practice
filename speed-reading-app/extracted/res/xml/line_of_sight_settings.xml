@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen>
+    <android.support.v7.preference.ListPreference n1:entries="@array/line_of_sight_settings_board_size_entries" n1:title="@string/line_of_sight_settings_board_size_title" n1:key="@string/line_of_sight_settings_row_count_preference_key" n1:summary="@string/line_of_sight_settings_board_size_summary" n1:defaultValue="@string/line_of_sight_settings_row_count_preference_default_value" n1:entryValues="@array/line_of_sight_settings_board_size_entry_values"
+      xmlns:n1="http://schemas.android.com/apk/res/android" />
+    <android.support.v7.preference.ListPreference n2:entries="@array/line_of_sight_settings_field_type_entries" n2:title="@string/line_of_sight_settings_field_type_title" n2:key="@string/line_of_sight_settings_field_type_preference_key" n2:summary="@string/line_of_sight_settings_field_type_summary" n2:defaultValue="@string/line_of_sight_settings_field_type_preference_default_value" n2:entryValues="@array/line_of_sight_settings_field_type_entry_values"
+      xmlns:n2="http://schemas.android.com/apk/res/android" />
+</android.support.v7.preference.PreferenceScreen>

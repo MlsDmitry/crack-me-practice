@@ -1,0 +1,620 @@
+     ____
+    / _  |   Frida 12.9.8 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://www.frida.re/docs/home/
+Attaching...
+[Local::macos_problem2]-> Entered basic_string()
+First string ->  0x7ffeea95f7d8
+Second string ->  0x7ffeea95f800
+7ffeea95f7d8  00 00 2a 05 01 00 00 00 01 00 00 00 0e 00 00 00  ..*.............
+7ffeea95f7e8  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00  ................
+7ffeea95f800  31 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00  1....... .......
+7ffeea95f810  50 00 d0 3f 9f 7f 00 00 36 00 6f 0d 00 00 00 00  P..?....6.o.....
+Exit from basic_string()
+Input: 1
+Enter sub_100001AD0
+param 1: 0x1052a6100
+param 2: 0x0
+7f9f40001000  31 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00  1....... .......
+7f9f40001010  40 31 c0 3f 9f 7f 00 00 66 cb 02 00 00 00 00 00  @1.?....f.......
+Leave sub_100001AD0
+Entered basic_string()
+First string ->  0x7ffeea95f750
+Second string ->  0x7f9f40001000
+7ffeea95f750  00 00 00 00 00 00 00 00 2d 3b 45 24 49 39 7c 7d  ........-;E$I9|}
+7ffeea95f760  40 2b c0 3f 9f 7f 00 00 00 00 00 00 00 00 00 00  @+.?............
+7f9f40001000  31 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00  1....... .......
+7f9f40001010  40 31 c0 3f 9f 7f 00 00 66 cb 02 00 00 00 00 00  @1.?....f.......
+Exit from basic_string()
+Enter sub_100001B00
+param 1: 1
+param 2: 0
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 0
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 1
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 1
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 2
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+Y&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 2
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 3
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 3
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 4
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 4
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 5
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+ltUENc7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 5
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 6
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+tUENc7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 6
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 7
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+UENc7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 7
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 8
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+ENc7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 8
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+zk}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 9
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+Nc7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 9
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+k}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 10
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+c7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 10
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+}2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 11
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+7oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 11
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+2!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 12
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+oQ<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 12
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+!9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 13
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+Q<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 13
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+9;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 14
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+<{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 14
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+;"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 15
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+{";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 15
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+"{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 16
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+";9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 16
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+{<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 17
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+;9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 17
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+<Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 18
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+9!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 18
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+Qo7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 19
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+!2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 19
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+o7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 20
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+2}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 20
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+7cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 21
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+}kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 21
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+cNEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 22
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+kz-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 22
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+NEUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 23
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+z-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 23
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+EUtl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 24
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+-;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 24
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+Utl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 25
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+;E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 25
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+tl@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 26
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+E$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 26
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+l@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 27
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+$I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 27
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+@&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 28
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+I9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 28
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+&Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 29
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+9|}
+Enter sub_100001B00
+param 1: 1
+param 2: 29
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+Yq(
+Enter sub_100001B00
+param 1: 1
+param 2: 30
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+|}
+Enter sub_100001B00
+param 1: 1
+param 2: 30
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+q(
+Enter sub_100001B00
+param 1: 1
+param 2: 31
+Enter sub_100003C80
+param 1: 0x7ffeea95f7d8
+Leave sub_100003C80
+(qY&@ltUENc7oQ<{";9!2}kz-;E$I9|}
+Leave sub_100001B00
+}
+Enter sub_100001B00
+param 1: 1
+param 2: 31
+Enter sub_100003C80
+param 1: 0x7ffeea95f750
+Leave sub_100003C80
+}|9I$E;-zk}2!9;"{<Qo7cNEUtl@&Yq(
+Leave sub_100001B00
+(
+Enter sub_100001AD0
+param 1: 0x1052a6100
+param 2: 0x0
+7f9f40001000  31 00 00 00 00 00 00 00 20 00 00 00 00 00 00 00  1....... .......
+7f9f40001010  40 31 c0 3f 9f 7f 00 00 66 cb 02 00 00 00 00 00  @1.?....f.......
+Leave sub_100001AD0
+Exit from sub_100001A80
+Ret Value: 0
+Process terminated
+
+Thank you for using Frida!

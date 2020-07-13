@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:orientation="horizontal" n1:id="@id/line_of_sight_panel" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_marginLeft="16.0dip" n1:layout_marginTop="16.0dip" n1:layout_marginRight="16.0dip" n2:layout_constraintLeft_toLeftOf="parent" n2:layout_constraintRight_toRightOf="parent" n2:layout_constraintTop_toTopOf="parent" xmlns:n2="http://schemas.android.com/apk/res-auto">
+        <ProgressBar n1:id="@id/line_of_sight_progress_bar" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_weight="1.0" style="?android:progressBarStyleHorizontal" />
+    </LinearLayout>
+    <android.support.v7.widget.GridLayout n1:id="@id/line_of_sight_grid_layout" n1:layout_width="@dimen/line_of_sight_board_width" n1:layout_height="wrap_content" n1:layout_marginLeft="16.0dip" n1:layout_marginRight="16.0dip" n3:columnCount="9" n3:layout_constraintBottom_toTopOf="@id/line_of_sight_check_button" n3:layout_constraintLeft_toLeftOf="parent" n3:layout_constraintRight_toRightOf="parent" n3:layout_constraintTop_toBottomOf="@id/line_of_sight_panel" xmlns:n3="http://schemas.android.com/apk/res-auto">
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="D" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="D" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="A" n3:layout_columnWeight="1.0" n3:layout_gravity="fill" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+        <TextView n1:textSize="30.0sp" n1:gravity="center" n1:text="M" n3:layout_columnWeight="1.0" n3:layout_rowWeight="1.0" />
+    </android.support.v7.widget.GridLayout>
+    <Button n1:theme="@style/AccentButtonStyle" n1:textColor="@color/white" n1:id="@id/line_of_sight_check_button" n1:layout_width="150.0dip" n1:layout_height="wrap_content" n1:layout_marginTop="8.0dip" n1:layout_marginBottom="32.0dip" n1:text="@string/line_of_sight_mistake" n4:layout_constraintBottom_toBottomOf="parent" n4:layout_constraintLeft_toLeftOf="parent" n4:layout_constraintRight_toRightOf="parent" xmlns:n4="http://schemas.android.com/apk/res-auto" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="accelerator_course_training_titles">
+        <item>Acceleratore neuronale 1</item>
+        <item>Acceleratore neuronale 1.1</item>
+        <item>Acceleratore neuronale 1.1.1</item>
+        <item>Acceleratore neuronale 2.2</item>
+        <item>Acceleratore neuronale 4</item>
+        <item>Acceleratore neuronale 1</item>
+        <item>Acceleratore neuronale 1.1</item>
+        <item>Acceleratore neuronale 1.1.1</item>
+        <item>Acceleratore neuronale 2.2</item>
+    </string-array>
+    <string-array name="accelerator_settings_duration_entries">
+        <item>30 sec</item>
+        <item>45 sec</item>
+        <item>60 sec</item>
+        <item>75 sec</item>
+        <item>90 sec</item>
+    </string-array>
+    <string-array name="cup_timer_settings_duration_entries">
+        <item>10 ver.</item>
+        <item>15 ver.</item>
+        <item>20 ver.</item>
+        <item>25 ver.</item>
+        <item>30 ver.</item>
+    </string-array>
+    <string-array name="cup_timer_settings_type_entries">
+        <item>Tazza</item>
+        <item>La piramide</item>
+    </string-array>
+    <string-array name="green_dot_settings_duration_entries">
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+        <item>60 min</item>
+    </string-array>
+    <string-array name="library_book_actions">
+        <item>Cancella il libro</item>
+    </string-array>
+    <string-array name="line_of_sight_alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_board_size_entries">
+        <item>Piccolo</item>
+        <item>Medio</item>
+        <item>Grande</item>
+    </string-array>
+    <string-array name="line_of_sight_settings_field_type_entries">
+        <item>Piccolo (4 punti)</item>
+        <item>Grande (8 punti)</item>
+    </string-array>
+    <string-array name="math_settings_duration_entries">
+        <item>10 sec.</item>
+        <item>5 sec.</item>
+        <item>3 sec.</item>
+    </string-array>
+    <string-array name="motivators">
+        <item>I sogni non funzionano finché non cominci a lavorare tu con te stesso.</item>
+        <item>Ci riuscirai senza dubbi.</item>
+        <item>La motivazione è quello che aiuta a cominciare. L</item>
+        <item>Ottieni non quello che ti meriti, ma quello che persegui.</item>
+        <item>Tra un anno ti pentirai di non aver iniziato a studiare oggi.</item>
+        <item>Non abbassare le braccia, sarà più difficile toccare la cima con la mano.</item>
+        <item>Per raggiungere un obiettivo, bisogna perseguirlo.</item>
+        <item>Solo la tenacia può indicare la strada verso l</item>
+        <item>Un forte desiderio di imparare qualche cosa è già il 50% del successo.</item>
+        <item>Non devi dimostrare niente a nessuno, ma devi semplicemente agire.</item>
+        <item>Fai quello che puoi con quello che hai.</item>
+        <item>Al tempo non piace quando lo sprecano.</item>
+        <item>Che cosa hai fatto oggi per poter raggiungere il tuo obiettivo?</item>
+        <item>Devi resistere al dolore dell</item>
+        <item>Devi mantenere la fede in te stesso anche quando nessuno non crede più in te.</item>
+        <item>Ogni sogno merita una chance di avverarsi!</item>
+        <item>Se lo vuoi davvero, ci riuscirai. Se non ci sei riuscito, vuol dire che non lo volevi abbastanza.</item>
+        <item>Il successo è l</item>
+        <item>Sono grato a tutte quelle persone che mi hanno detto No. Grazie a loro, ce l</item>
+        <item>Se ti è venuta in mente una buona idea, agisci immediatamente.</item>
+        <item>Il modo migliore di prevedere il proprio futuro è crearlo.</item>
+        <item>Non c</item>
+        <item>La vita è un</item>
+        <item>L</item>
+        <item>Devi porti obiettivi grandi, così sarà difficile fare cilecca!</item>
+        <item>Perfezionando voi stessi, pensate al futuro dei vostri figli.</item>
+        <item>Cercate le possibilità di realizzare le vostre ideee.</item>
+        <item>Non perdere l</item>
+        <item>Non stare sul divano, solo se non guadagni denaro stando sul divano.</item>
+        <item>L</item>
+        <item>Solo dalla bara non c</item>
+        <item>Non ci sono obiettivi irragiungibili, ma ci sono caratteri deboli.</item>
+        <item>Non esiste una sola chance. La vita ne regala sempre un</item>
+        <item>Devi perfezionarti. Nessuno diventa una buona persona per caso.</item>
+        <item>Non avere paura di crescere lentamente, ma abbi paura di essere invariabile.</item>
+        <item>Qui vuole fortemente avere successo, è quasi già una persona di successo.</item>
+        <item>Vivi secondo 2 principi: porsi un obiettivo, perseguirlo.</item>
+        <item>Perché sia facile dopo, bisogna superare le difficoltà adesso.</item>
+        <item>Qualsiasi cambiamento è accompagnato dal dolore. Se non lo senti, vuol dire che non è cambiato niente.</item>
+        <item>La gente si affanna per trovare pace alla fine, ma alcuni cominciano dalla fine.</item>
+        <item>Quando i vostri sogni saranno più forti dei vostri timori, cominceranno ad avverarsi.</item>
+        <item>Se volete arrivare lontano, fatelo usando i propri piedi.</item>
+        <item>Rischia tutto per il tuo sogno, ed esso si avverrà.</item>
+        <item>Il tuo futuro si crea da quel che fai oggi, non domani!</item>
+        <item>Il freno sulla nostra strada verso i nostri successi sono i nostri dubbi.</item>
+        <item>Più tenacemente lavori, più successo hai.</item>
+        <item>Fai ancora un passo.</item>
+        <item>Fai del tuo lavoro un hobby, e non dovrai lavorare più un giorno nella tua vita.</item>
+        <item>Non è possibile raggiungere qualcosa di prezioso senza sforzi.</item>
+        <item>L</item>
+        <item>Per poter trovare una nuova strada, bisogna lasciare la vecchia.</item>
+        <item>La sostanza della lettura veloce sta non nel leggere tutto a velocità folle, ma nel trovare quel testo che serve e capire la sua idea.</item>
+        <item>Un programma buono fa sì che il risultato ottenuto diventa un</item>
+        <item>Il 100% dei tentativi non tentati non avranno mai successo.</item>
+        <item>Per ottenere quello che non hai mai avuto bisogna fare quello che non hai mai fatto prima.</item>
+        <item>Il periodo nero diventa a volte pista di decollo.</item>
+        <item>Non si può aspettare finché tutto attorno cambi. Bisogna cambiare se stessi. Se non riesci, fai almeno qualcosa, ma non stare colle mani.</item>
+        <item>Agire non sempre porta felicità, ma non c</item>
+        <item>Arriverà un momento quando deciderai che è finita. Questo sarà l</item>
+        <item>Praticando l</item>
+        <item>Escludi il numero massimo delle varianti possibili.</item>
+        <item>Non concentrarti mai sul male, altrimenti non ti accorgerai del bene.</item>
+        <item>Il destino di una persona pigra somiglia a quello di un utensile guasto: non produce niente oltre a scarti.</item>
+        <item>Tieni presente che la passione aiuta a liberarsi dalla noia e dalla pigrizia. Dedicandoti completamente ad un affare, troverai il rimedio.</item>
+        <item>Più aspetti, più perdi.</item>
+        <item>Ottieni quello in cui credi.</item>
+        <item>La comprensione è una determinazione dei legami logici tra oggetti utilizzando le conoscenze.</item>
+        <item>I libri si leggono per capire i principi supremi, mentre il capire i principi supremi serve per usarli nella vita.</item>
+        <item>Quello che pensate di voi stessi, lo sarete.</item>
+        <item>Il modo migliore di valutare il vostro lavoro è immaginarlo senza di voi.</item>
+        <item>L</item>
+        <item>Tenere dentro di sé pensieri negativi equivale a suicidarsi lentamente.</item>
+        <item>Perché la tua strada in avanti non si interrompa, bisogna porsi un obiettivo.</item>
+        <item>La differenza tra chi sei e che vuoi essere sta in quello che fai!</item>
+        <item>Il tuo passato non potrà definire il tuo futuro se non glielo permetterai.</item>
+        <item>La vita vera comincia fuori zona del nostro comfort. Impara ad accettare cambiamenti e diventerai il migliore.</item>
+        <item>Se, nonostante tutti i tuoi insuccessi e le tue falle, non ti arrendi e sei pronto a fare passi falsi e cadere, senz</item>
+        <item>L</item>
+        <item>Quanto spesso penserai al bene, tanto spesso lo avrai.</item>
+        <item>Fai capire alla vita cosa vuoi, ed essa deciderà da sola cosa otterrai.</item>
+        <item>Più spesso leggi testi motivazionali, più velocemente raggiungi gli obiettivi posti.</item>
+    </string-array>
+    <string-array name="pass_course_training_titles">
+        <item>Tabella di Schulte</item>
+        <item>Tabella di Schulte</item>
+        <item>Tabella di Schulte</item>
+        <item>Tabella di Schulte</item>
+        <item>Tabella di Schulte</item>
+        <item>Ricorda il numero</item>
+        <item>Il campo visivo</item>
+        <item>La velocità di lettura</item>
+        <item>Paia di parole</item>
+        <item>Numeri pari</item>
+        <item>Tabella di Schulte</item>
+        <item>Tabella di Schulte</item>
+        <item>Tabella di Schulte</item>
+        <item>Tabella di Schulte</item>
+        <item>Tabella di Schulte</item>
+        <item>Ricorda il numero</item>
+        <item>Il campo visivo</item>
+        <item>Il campo visivo</item>
+        <item>La velocità di lettura</item>
+        <item>Il punto verde</item>
+    </string-array>
+    <string-array name="reader_reading_modes_dialog_items">
+        <item>Normale</item>
+        <item>Veloce</item>
+        <item>Con \"aggiustamenti\"</item>
+        <item>"Lettura con l'utilizzo della matita"</item>
+    </string-array>
+    <string-array name="recommendation_services_description">
+        <item>Fiverr è il più grande mercato di servizi online del mondo, consentendo agli imprenditori e agli imprenditori di migliorare il proprio business, rimanere nel budget e risolvere i problemi con un solo clic.</item>
+        <item>Skillshare è una piattaforma di apprendimento online per le persone che desiderano acquisire capacità creative. Su Skillshare puoi trovare corsi di design, fotografia, game design, layout, cucina e altre attività, anche così esotiche come la moderna calligrafia.</item>
+    </string-array>
+    <string-array name="recommendation_services_link">
+        <item>https://ad.edugram.com?rid=46c57afd20273981</item>
+        <item>https://ad.edugram.com?rid=7bb08bbb5081043c</item>
+    </string-array>
+    <string-array name="recommendation_services_title">
+        <item>Fiverr</item>
+        <item>Skillshare.com</item>
+    </string-array>
+    <string-array name="rules_of_success_array">
+        <item>Non bisogna dormire molto. Per dormire bene bastano 6 - 8 ore. È una cosa principale. Alzatevi presto e avrete più tempo libero.</item>
+        <item>La mattina dedicate un</item>
+        <item>Non sprecate il tempo invano. Definite momenti e azioni che sono importanti per voi e attenetevi ad essi. Non disperdete la vostra attenzione su bazzecole inutili.</item>
+        <item>Concentratevi di più sulle emozioni positive nella vostra vita. Pensateci, siate allegri. Non pensate costantemente a cose spiacevoli, se possibile risolvete problemi velocemente e dimenticateli.</item>
+        <item>Imparate a parlare al telefono in maniera corretta. Siate garbati, gentili, fate capire al vostro interlocutore la sua importanza per voi. Questo permetterà di risolvere positivamente tutte le questioni e tutti i problemi.</item>
+        <item>Scrivete tutti i vostri desideri, idee, sogni su bei fogli di carta. Fatelo durante tutta la giornata, pensateci. Metteteli in casa vostra in un posto che si vede bene e dateci un</item>
+        <item>Cercate di trovare del tempo per voi stessi la domenica sera. Rilassatevi, leggete qualche libro interessante, ascoltate una musica buona, dedicatevi a qualche lavoro manuale. In un</item>
+        <item>Comunicate di più con gente positiva e simpatica. La comunicazione di qualità definisce la qualità della vita. Non scordatevi della comunicazione con voi stessi. Concentratevi su pensieri positivi, ed essi si realizzeranno senza dubbi.</item>
+        <item>Pensate prima di tutto all</item>
+        <item>Non dimenticate di iniziare una nuova giornata con un sorriso. Ridete stando davanti allo specchio. Questo esercizio vi carica di energia per tutta la giornata, i muscoli del viso si rilassano, l</item>
+        <item>Accendete le candele la sera. Esse creano un</item>
+        <item>Per la concentrazione dell</item>
+        <item>Imparate obbligatoriamente a meditare. La nostra mente, i pensieri nel corso della giornata subiscono enormi carichi emozionali. È molto difficile risolvere un certo problema, quando la concentrazione non c</item>
+        <item>Cercate di imparare ad essere tranquilli. Trovate un po</item>
+        <item>Allenate la vostra forza di volontà. È un tratto del carattere senza il quale è quasi impossibile raggiongere i vostri obiettivi. Bisogna elaborare una strategia di comportamento e attenersi ad essa rigidamente, senza cercare nessuna scusa, cercare nella propria attività di perseguire l</item>
+        <item>Cercate di non perdere il senso dell</item>
+        <item>È molto importante imparare a gestire il proprio tempo. Ogni mattina tracciate obbligatoriamente un elenco di cose da fare prima di tutto. È importante non scordarsi di altre, quelle meno urgenti, ma necessarie. Anch</item>
+        <item>Sviluppate le relazioni con la gente che aspirano all</item>
+        <item>Accontentatevi di quello che avete. La vostra vita e la vostra salute, la salute e il benessere delle persone vicine, il mondo che vi circonda, la bella natura, animali e uccelli, un cibo squisito, tutto ciò non deve essere preso per scontato, questo deve essere percepito come dono. Fate un elenco di quello che avete e allora capirete quanto è ricca e varia la vostra vita.</item>
+        <item>Ogni persona si pone obiettivi di vita. Siete voi a definire in quale direzione dovete muovervi, a quali principi attenervi e quale sarà il vostro obiettivo finale. È la vostra missione nella vita. Registrate i vostri obiettivi e compiti principali. Di tempo in tempo scorrete visualmente questo elenco, concentratevi su di esso, perfezionate la propria maestria, andate avanti. André Maurois diceva:” Ad ogni persona durante la giornata si presentano non meno di dieci opportunità di cambiare la propria vita. Il successo arriva a chi sa usarle”.</item>
+        <item>Nessuno ha diritto di offendervi o insultarvi. Dovrete imparare a interpretare eventi negativi come certa sfida che vi aiuterà a raggiungere e risolvere problemi. Tutto ciò aiuterà a temprare il vostro carattere, a sviluppare la forza di volontà. ”Se qualcuno vuole fortemente farti stare male, vuol dire che lui sta peggio di te”- Confucio.</item>
+        <item>Imparate la tecnica di lettura veloce. Questo metodo vi aiuterà ad abbracciare un</item>
+        <item>Trattate la gente con rispetto. Ricordate i nomi. Ognuno di noi vuole sentirsi importante e utile. Date tale possibilità a chi vi circonda.</item>
+        <item>Siate buoni, dolci nel comunicare con la gente. In certe situazioni però non permettere che qualcuno vi possa manipolare. Siate rigidi e tenaci quando si tratta dei vostri principi della vita.</item>
+        <item>Tutte le questioni che riguardano la salute, finanze, problemi personali, descutetele solo con la propria famiglia. Evitate che qualcun altro sappia di questi argomenti.</item>
+        <item>Siate onesti, modesti, buoni, tenaci, amichevoli.</item>
+        <item>Prendete cura di voi stessi. Viziate un po</item>
+        <item>Imparate a respirare correttamente, tranquillamente e profondamente. In caso di agitazione il respiro diventa intermittente e veloce. La pressione aumenta. Ne risente la salute. Certi allenamenti e esercizi vi aiuteranno a ritrovare tranquillità e ad avere di nuovo il respiro regolare.</item>
+        <item>Cominciate a praticare l</item>
+        <item>Tenete un diario personale. Registrateci i vostri pensieri, le sofferenze, cercate risposte alla domande, siate contenti dei vostri successi. Scrivendo, una persona si calma, si concentra, comincia a guardare più positivamente i propri problemi.</item>
+        <item>Imparate a gestire il proprio stress. Quello è una reazione dell</item>
+        <item>Ascoltate audioregistrazioni che riguardano l</item>
+        <item>Una volta alla settimana organizzate una giornata di scarico. Mangiate verdura e frutta. Bevete più acqua pura. Il vostro corpo allora acquisisce leggerezza ed ha più energia, la forza di volontà diventa più grande.</item>
+        <item>Impararte a perdonare. Il rancore che provate incide in modo negativo sul vostro stato d</item>
+        <item>Imparate sempre qualcosa. Anche se vi sembra che conoscete molte cose. Nuove conoscenze fanno sviluppare il cervello, aumentano l</item>
+        <item>Siate riservati nelle parole e nel manifestare le proprie emozioni. Che vi accompagni un nimbo di enigmaticità. Rimanete “un libro non letto”.</item>
+        <item>Imparate l</item>
+        <item>Seguite uno stile di vita sano. Fate ginnastica, sport, fitness. Non a caso la saggezza popolare dice: “Mente sana in corpo sano”. Il corpo e l</item>
+        <item>Uscite a passeggio la sera dopo cena. Tale abitudine ha l</item>
+        <item>Riposate in piena natura. Godetevi la natura. Attingetene forza mentale. Piantate fiori, cespugli, alberi. Create il proprio angolo di bellezza e di armonia. Sentite la pace e la serenità. La natura è un medico unico delle nostre ferite mentali e fisiche.</item>
+        <item>Siate moderati nelle vostre azioni, emozioni. Mantenete equilibrio in tutte le vostre attività. Queste regole vi aiuteranno a rendere al vita felice e lieta.</item>
+        <item>Assicuratevi un sonno tranquillo e di qualità. Non mangiate cibo pesante prima di andare a letto. La cena deve essere squisita, ma leggera, da fare almeno tre ore prima di andare a dormire. Evitate di portare il lavoro da terminare a casa, tantomeno non lavorate stando a letto. Leggete meglio un libro, meditate.</item>
+        <item>Preservate e badate alla propria reputazione. Godetevi la vita, non scordatevi del buonsenso e tenete sempre presente che il comportamento iniquo potrebbe macchiarla. Altrimenti sarà molto difficile far tornare una buona opinione su di voi.</item>
+        <item>Trovatevi un educatore. Questo potrebbe essere un vostro padre spirituale, qualche vostro compagno più grande di voi, una persona che ritenete autorevole. La sua esperienza di vita, i suoi consigli aiuteranno a evitare molti errori e delusioni.</item>
+        <item>Fatevi un elenco dei vostri difetti e debolezze. Liberatevene conformemente al vostro piano e in maniera finalizzata. Ogni posizione cancellata dall</item>
+        <item>Non lamentatevi mai della vita. Lamentele distruggono non solo la giorata altrui, ma anche la giornata di chi si lamenta. Quelli che si lamentano programmano se stessi di avere cose negative. Liberatevi da questa abitudine, credete in voi stessi, e niente vi impedirà di avere successo.</item>
+        <item>Create un</item>
+        <item>Non prendetevi troppe confidenze al vostro posto di lavoro. Mantenete la distanza personale nei rapporti “capo-dipendente”. Non permettete ad altri di manipolarvi. Mantenete la distanza nei rapporti al lavoro. Siate garbati, ma decisi nel difendere la propria opinione.</item>
+        <item>Se c</item>
+        <item>Non fissatevi su un problema. Tracciate un piano di come risolverlo. Seguitelo, e in caso di esito positivo non scordatevene. Ricordato solo cose buone.</item>
+        <item>Perché il vostro cervello sia attivo al massimo, il corpo deve essere in uno stato rilassato. Lo yoga vi aiuterà a raggiungere questo scopo. Fate yoga 15 minuti al giorno e questo porterà risultati. Il corpo sarà rilassato, mentre il cervello sarà tranquillo e rilassato.</item>
+        <item>Mettete da parte un po</item>
+        <item>Registrate nel diario i vostri sogni e piani a lungo termine. Fate di tutto perché essi si realizzino. Perfezionatevi, dimostrate l</item>
+        <item>La mattina e la sera leggete qualcosa di positivo. Questo vi infonderà pensieri buoni e positivi che vi accompagneranno per tutta la giornata.</item>
+        <item>Ponetevi l</item>
+        <item>Rischiate, ma con cautela. Non state fermi. Provate diverse varianti per il raggiungimento dei propri obiettivi. Non fermatevi su quel che avete raggiunto. Andate avanti, e avrete successo che non avete neanche sognato.</item>
+        <item>Siate molto seri nel scegliere la vostra metà. Cercate tali qualità come attaccamento, intelligenza, senso dell</item>
+        <item>Non abbiate paura dello stress. È una reazione interna del vostro organismo ai fattori esterni. Bisogna imparare a gestirle alternando la risoluzione delle situazioni di stress e il rilassamento fisico e mentale. Esistono numerose tecniche ed esercizi per risolvere questa questione. La cosa più semplice che potete fare è il seguente: dormite bene, riposate di più, sorridete, pensate positivo.</item>
+        <item>Nel corso della giornate cercate di trovare almeno cinque minuti per distrarsi dal lavoro completamente. Chiudete gli occhi, immaginate di stare in un luogo molto piacevole (nel bosco, al mare) e immergetevi completamente in queste sensazioni.</item>
+        <item>Non interrompete mai il vostro interlocutore. Ascoltate con attenzione e rispettate l</item>
+        <item>Siate curiosi. Cercate di apprendere sempre qualcosa di nuovo, interessatevi a diversi campi della vita, leggete libri dei grandi classici, letteratura scientifica, giornali, riviste. Voi dovete sempre alla ricerca di nuove conoscenze ed impressioni.</item>
+        <item>Non pensate al passato. Non siete in grado di cambiarlo. Usate l</item>
+        <item>Mantenete l</item>
+        <item>L</item>
+        <item>Siate puntuali. Questa qualità vi aiuterà molto nella vita e nella carriera. La puntualità fa capire che siete una persona disciplinata, affidabile, che riesce a capire l</item>
+        <item>Ogni giorno fate due cosa che non vi piacciono ma che devono essere fatte. Questo vi libererà dai pensieri su ciò, rafforzerà la vostra forza di volontà, la disciplina. Sentirete allora un enorme sollievo e la possibilità di andare avanti.</item>
+        <item>Ringraziate più spesso la gente, anche per aver fatto qualcosa di non troppo importante. Fatelo con sincerità e gioia. Il ringraziamento la rincuorerà, la tirerà su con il morale, farà sì che la gente proverà rispetto e benevolenza per voi.</item>
+        <item>Amate voi stessi sinceramente. Una persona che non ama se stessa, non è capace di amare la gente che la circonda. L</item>
+        <item>Liberatevi obbligatoriamente dalle brutte abitudini e da quelle abituduni che, secondo voi, vi impediscono di vivere bene. È possibile farlo in minimo 21 giorni. Da dove proviene questo numero mitico – 21 giorni? Maxwell Maltz era un famoso chirurgo plastico negli anni cinqunta del ventesimo secolo. Un giorno scoprì una legge strana. Quando Maltz operava, per esempio, per correggere la forma del naso, lui notò che i pazienti ci mettevano circa 21 giorni per abituarsi al nuovo viso. Quando a qualche paziente veniva amputato un braccio o una gamba, la maggior parte dei pazienti sentivano il dolore dell</item>
+        <item>Badate alla vostra alimentazione. Essa deve essere equilibrata e sana. Bevete acqua pura. Da quaesto dipende il nostro самочувствие e la salute. “Noi siamo quello che mangiamo”.</item>
+        <item>Meditate secondo certe regole: Scegliete la stessa ora, lo stesso luogo, e bisogna farlo quotidianamente.</item>
+        <item>Il tempo migliore è il presto mattino.</item>
+        <item>Ricordate e usate le principali disposizioni che rigaurdano la vita felice: Vivete una vita interessante e attiva.</item>
+        <item>Ogni minuto fate qualcosa di utile.</item>
+        <item>Ponetevi obiettivi e perseguiteli.</item>
+        <item>Pensate positivo, non permettete ai pensieri negativi di impadronirsi di voi.</item>
+        <item>Non preoccupatevi per un</item>
+        <item>Riposate, divertitevi.</item>
+        <item>Siate gentili, socievoli, amichevoli.</item>
+        <item>Vivete del presente, aspirate al futuro felice.</item>
+        <item>Rileggete queste regole ancora e ancora.</item>
+    </string-array>
+    <string-array name="speed_reading_words">
+        <item>piano</item>
+        <item>indicare</item>
+        <item>accappatoio</item>
+        <item>invernale</item>
+        <item>buio</item>
+        <item>posizione</item>
+        <item>verità</item>
+        <item>cappello</item>
+        <item>recinto</item>
+        <item>parete</item>
+        <item>regime</item>
+        <item>azienda</item>
+        <item>giacca</item>
+        <item>armadio</item>
+        <item>ritratto</item>
+        <item>strato</item>
+        <item>condurre</item>
+        <item>freddamente</item>
+        <item>guardia</item>
+        <item>tutela</item>
+        <item>indietro</item>
+        <item>sparo</item>
+        <item>regalo</item>
+        <item>gesto</item>
+        <item>autostrada</item>
+        <item>catena</item>
+        <item>scantinato</item>
+        <item>una volta</item>
+        <item>lampada</item>
+        <item>quota</item>
+        <item>non male</item>
+        <item>buffo</item>
+        <item>portare</item>
+        <item>fungo</item>
+        <item>vagare</item>
+        <item>tempo</item>
+        <item>febbre</item>
+        <item>di cuoio</item>
+        <item>pacifico</item>
+        <item>perdita</item>
+        <item>sportello</item>
+        <item>norma</item>
+        <item>cucchiaio</item>
+        <item>corda</item>
+        <item>modalità</item>
+        <item>togliere</item>
+        <item>eternamente</item>
+        <item>comicamente</item>
+        <item>soave</item>
+        <item>terme</item>
+        <item>tramite</item>
+        <item>cena</item>
+        <item>marzo</item>
+        <item>segnale</item>
+        <item>malato</item>
+        <item>suonare</item>
+        <item>mandare</item>
+        <item>rete</item>
+        <item>nervo</item>
+        <item>dolce</item>
+        <item>trucco</item>
+        <item>inno</item>
+        <item>denuncia</item>
+        <item>fischio</item>
+        <item>fiume</item>
+        <item>conduttura</item>
+        <item>richiamo</item>
+        <item>ritmo</item>
+        <item>tribù</item>
+        <item>clima</item>
+        <item>freccia</item>
+        <item>montaggio</item>
+        <item>tremolo</item>
+        <item>scritta</item>
+        <item>taglio</item>
+        <item>ferita</item>
+        <item>strada</item>
+        <item>acetosa</item>
+        <item>pendolo</item>
+        <item>seme</item>
+        <item>lucciola</item>
+        <item>bonaccia</item>
+        <item>sabato</item>
+        <item>candela</item>
+        <item>cortina</item>
+        <item>delegato</item>
+        <item>stampa</item>
+        <item>trono</item>
+        <item>oscurità</item>
+        <item>cespuglio</item>
+        <item>presa</item>
+        <item>intaglio</item>
+        <item>carne</item>
+        <item>buca</item>
+        <item>processo</item>
+        <item>tacca</item>
+        <item>benna</item>
+        <item>pressa</item>
+        <item>rottura</item>
+        <item>attore</item>
+        <item>baluardo</item>
+        <item>affare</item>
+        <item>lana</item>
+        <item>salame</item>
+        <item>biologo</item>
+        <item>disciplina</item>
+        <item>fruscio</item>
+        <item>signora</item>
+        <item>trappola</item>
+        <item>danzatore</item>
+        <item>partita</item>
+        <item>aratro</item>
+        <item>rossore</item>
+        <item>memoria</item>
+        <item>conteggio</item>
+        <item>finitura</item>
+        <item>viburno</item>
+        <item>borgo</item>
+        <item>albicocca</item>
+        <item>lago</item>
+        <item>flusso</item>
+        <item>tristezza</item>
+        <item>pomodoro</item>
+        <item>arsenale</item>
+        <item>docente</item>
+        <item>vicina</item>
+        <item>editto</item>
+        <item>rancore</item>
+        <item>pesciolino</item>
+        <item>poeta</item>
+        <item>nuvola</item>
+        <item>nota</item>
+    </string-array>
+    <string-array name="true_colors_words">
+        <item>Rosso</item>
+        <item>Arancione</item>
+        <item>Giallo</item>
+        <item>Verde</item>
+        <item>Blu</item>
+        <item>Porpora</item>
+    </string-array>
+    <string-array name="word_pairs_non_equal_first_words">
+        <item>pesta</item>
+        <item>fila</item>
+        <item>dalia</item>
+        <item>sogno</item>
+        <item>mossa</item>
+        <item>vento</item>
+        <item>sorte</item>
+        <item>fischio</item>
+        <item>presa</item>
+        <item>volere</item>
+        <item>sabbia</item>
+        <item>motto</item>
+        <item>benna</item>
+        <item>ora</item>
+        <item>polo</item>
+        <item>mostra</item>
+        <item>sognare</item>
+        <item>amore</item>
+        <item>cresta</item>
+        <item>panello</item>
+        <item>latte</item>
+        <item>madre</item>
+        <item>nuora</item>
+        <item>bomba</item>
+        <item>spostare</item>
+        <item>peso</item>
+        <item>cassa</item>
+        <item>mente</item>
+        <item>ritmo</item>
+        <item>papa</item>
+        <item>corda</item>
+        <item>mare</item>
+        <item>corsa</item>
+        <item>appendere</item>
+        <item>morte</item>
+        <item>legno</item>
+        <item>mettere</item>
+        <item>musa</item>
+        <item>pena</item>
+        <item>lancio</item>
+        <item>morsa</item>
+        <item>pentola</item>
+        <item>accusa</item>
+        <item>caso</item>
+        <item>rapina</item>
+        <item>palla</item>
+        <item>sognare</item>
+        <item>pinza</item>
+        <item>limone</item>
+        <item>pretendere</item>
+        <item>moda</item>
+        <item>posta</item>
+        <item>smalto</item>
+        <item>premessa</item>
+        <item>varcare</item>
+        <item>peccare</item>
+        <item>ruolo</item>
+        <item>meta</item>
+        <item>lotto</item>
+        <item>peste</item>
+        <item>vaso</item>
+        <item>mira</item>
+        <item>banda</item>
+        <item>piedino</item>
+        <item>pennone</item>
+        <item>spendere</item>
+        <item>costa</item>
+        <item>strato</item>
+        <item>vincolo</item>
+        <item>tradirore</item>
+        <item>cosa</item>
+        <item>proporre</item>
+        <item>briga</item>
+        <item>pressa</item>
+        <item>fame</item>
+        <item>postare</item>
+        <item>regno</item>
+        <item>tetto</item>
+        <item>marciare</item>
+        <item>stalla</item>
+        <item>grano</item>
+        <item>inferire</item>
+        <item>coppa</item>
+        <item>ladro</item>
+        <item>urlare</item>
+        <item>mozione</item>
+        <item>infrazione</item>
+        <item>celibe</item>
+        <item>sposa</item>
+        <item>logo</item>
+        <item>albergo</item>
+        <item>palco</item>
+        <item>pena</item>
+    </string-array>
+    <string-array name="word_pairs_non_equal_second_words">
+        <item>posta</item>
+        <item>pila</item>
+        <item>balia</item>
+        <item>segno</item>
+        <item>massa</item>
+        <item>venti</item>
+        <item>sorta</item>
+        <item>rischio</item>
+        <item>prosa</item>
+        <item>volare</item>
+        <item>scabbia</item>
+        <item>moto</item>
+        <item>benda</item>
+        <item>ira</item>
+        <item>pelo</item>
+        <item>mostro</item>
+        <item>segnare</item>
+        <item>umore</item>
+        <item>crosta</item>
+        <item>pannello</item>
+        <item>letto</item>
+        <item>padre</item>
+        <item>suora</item>
+        <item>bimba</item>
+        <item>sposare</item>
+        <item>posa</item>
+        <item>casa</item>
+        <item>menta</item>
+        <item>rito</item>
+        <item>pappa</item>
+        <item>corsa</item>
+        <item>male</item>
+        <item>borsa</item>
+        <item>apprendere</item>
+        <item>morto</item>
+        <item>pegno</item>
+        <item>smettere</item>
+        <item>muso</item>
+        <item>pane</item>
+        <item>slancio</item>
+        <item>morso</item>
+        <item>pendolo</item>
+        <item>scusa</item>
+        <item>cosa</item>
+        <item>rovina</item>
+        <item>pala</item>
+        <item>segnare</item>
+        <item>pinta</item>
+        <item>linone</item>
+        <item>prendere</item>
+        <item>modo</item>
+        <item>porta</item>
+        <item>salto</item>
+        <item>promessa</item>
+        <item>varare</item>
+        <item>leccare</item>
+        <item>rullo</item>
+        <item>menta</item>
+        <item>loto</item>
+        <item>pesta</item>
+        <item>viso</item>
+        <item>lira</item>
+        <item>benda</item>
+        <item>piadina</item>
+        <item>pennino</item>
+        <item>spegnere</item>
+        <item>cista</item>
+        <item>stato</item>
+        <item>virgola</item>
+        <item>traduttore</item>
+        <item>rosa</item>
+        <item>preporre</item>
+        <item>brida</item>
+        <item>presa</item>
+        <item>fama</item>
+        <item>posare</item>
+        <item>segno</item>
+        <item>letto</item>
+        <item>marcare</item>
+        <item>stella</item>
+        <item>grado</item>
+        <item>infierire</item>
+        <item>cappa</item>
+        <item>lardo</item>
+        <item>urtare</item>
+        <item>nozione</item>
+        <item>inflazione</item>
+        <item>celebre</item>
+        <item>spesa</item>
+        <item>luogo</item>
+        <item>albero</item>
+        <item>palo</item>
+        <item>pera</item>
+    </string-array>
+    <string-array name="word_pairs_words">
+        <item>casa</item>
+        <item>fumo</item>
+        <item>lardo</item>
+        <item>carne</item>
+        <item>pane</item>
+        <item>borsch</item>
+        <item>tavolo</item>
+        <item>finestra</item>
+        <item>libro</item>
+        <item>alba</item>
+        <item>mattino</item>
+        <item>anima</item>
+        <item>candela</item>
+        <item>armadio</item>
+        <item>ruota</item>
+        <item>album</item>
+        <item>occhi</item>
+        <item>metro</item>
+        <item>tempo</item>
+        <item>banco</item>
+        <item>occhiali</item>
+        <item>testa</item>
+        <item>busta</item>
+        <item>città</item>
+        <item>castello</item>
+        <item>tappeto</item>
+        <item>elefante</item>
+        <item>viso</item>
+        <item>bilancio</item>
+        <item>rete</item>
+        <item>filo</item>
+        <item>tappezzeria</item>
+        <item>autostrada</item>
+        <item>fiore</item>
+        <item>disegno</item>
+        <item>finestra</item>
+        <item>parete</item>
+        <item>banca</item>
+        <item>via</item>
+        <item>lingua</item>
+        <item>portare</item>
+        <item>cielo</item>
+        <item>aria</item>
+        <item>scuola</item>
+        <item>corpo</item>
+        <item>passo</item>
+        <item>porta</item>
+        <item>zona</item>
+        <item>tavolo</item>
+        <item>anello</item>
+        <item>progetto</item>
+        <item>raggio</item>
+        <item>oceano</item>
+        <item>bambola</item>
+        <item>dacia</item>
+        <item>foglio</item>
+        <item>taiga</item>
+        <item>barba</item>
+        <item>somma</item>
+        <item>motore</item>
+        <item>croce</item>
+        <item>talento</item>
+        <item>navigare</item>
+        <item>secchio</item>
+        <item>palo</item>
+        <item>canale</item>
+        <item>missile</item>
+        <item>turno</item>
+        <item>epoca</item>
+        <item>merce</item>
+        <item>ramo</item>
+        <item>scoglio</item>
+        <item>palla</item>
+        <item>scorta</item>
+        <item>decorazione</item>
+        <item>pugilato</item>
+        <item>tiglio</item>
+        <item>gatto</item>
+        <item>utilità</item>
+        <item>deposito</item>
+        <item>a sinistra</item>
+        <item>collina</item>
+        <item>cifra</item>
+        <item>volo</item>
+        <item>radio</item>
+        <item>buio</item>
+        <item>accappatoio</item>
+        <item>fossa</item>
+        <item>lampada</item>
+        <item>quota</item>
+        <item>fungo</item>
+        <item>cucchiaio</item>
+        <item>metodo</item>
+        <item>eternamente</item>
+        <item>terme</item>
+        <item>cena</item>
+        <item>marzo</item>
+        <item>rete</item>
+        <item>penna</item>
+        <item>torre</item>
+        <item>spiccioli</item>
+        <item>fucile</item>
+        <item>penna</item>
+        <item>sfera</item>
+        <item>giudice</item>
+        <item>uovo</item>
+        <item>legna</item>
+        <item>dettaglio</item>
+        <item>scarabeo</item>
+        <item>capo</item>
+        <item>genio</item>
+        <item>busta</item>
+        <item>lepre</item>
+        <item>signore</item>
+        <item>principe</item>
+        <item>milite</item>
+        <item>pendio</item>
+        <item>steppa</item>
+        <item>nipote</item>
+        <item>fessura</item>
+        <item>occasione</item>
+        <item>metro</item>
+        <item>nube</item>
+        <item>pensiero</item>
+        <item>pescatore</item>
+        <item>plotone</item>
+        <item>intensamente</item>
+        <item>proiettile</item>
+        <item>mente</item>
+        <item>bene</item>
+        <item>angelo</item>
+        <item>tule</item>
+        <item>mina</item>
+        <item>tappa</item>
+        <item>pilota</item>
+        <item>sommità</item>
+        <item>marinaio</item>
+        <item>tronco</item>
+        <item>bimbo</item>
+        <item>chiodo</item>
+        <item>principe</item>
+        <item>leader</item>
+        <item>volante</item>
+        <item>chiamata</item>
+        <item>farin</item>
+        <item>vacanza</item>
+        <item>carriola</item>
+        <item>fiammifero</item>
+        <item>matrimonio</item>
+        <item>pulsante</item>
+        <item>cartuccia</item>
+        <item>apprezzamento</item>
+        <item>agente</item>
+        <item>sale</item>
+        <item>fracasso</item>
+        <item>camera</item>
+        <item>moda</item>
+        <item>sport</item>
+        <item>splendore</item>
+        <item>nastro</item>
+        <item>scintilla</item>
+        <item>zucchero</item>
+        <item>versione</item>
+        <item>rissa</item>
+        <item>ascensore</item>
+        <item>rapporto</item>
+        <item>pappa</item>
+        <item>sorso</item>
+        <item>nodo</item>
+        <item>carico</item>
+        <item>mattone</item>
+        <item>turista</item>
+        <item>freccia</item>
+        <item>piatto</item>
+        <item>stato</item>
+        <item>calzino</item>
+        <item>pino</item>
+        <item>cervo</item>
+        <item>azione</item>
+        <item>noce</item>
+        <item>status</item>
+        <item>candela</item>
+        <item>fattore</item>
+        <item>rifiuto</item>
+        <item>relazione</item>
+        <item>riga</item>
+        <item>unghia</item>
+        <item>exploit</item>
+        <item>stregone</item>
+        <item>più</item>
+        <item>cornice</item>
+        <item>tazza</item>
+        <item>bugia</item>
+        <item>balcone</item>
+        <item>caldo</item>
+        <item>suolo</item>
+        <item>blocco</item>
+        <item>brillantezza</item>
+        <item>trama</item>
+        <item>succo</item>
+        <item>fondo</item>
+        <item>uno</item>
+        <item>schema</item>
+        <item>antenato</item>
+        <item>rabbia</item>
+        <item>monaco</item>
+    </string-array>
+</resources>

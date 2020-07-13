@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout n1:background="@color/colorWhiteText" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:orientation="horizontal" n1:id="@id/remember_number_statistics_layout" n1:paddingLeft="16.0dip" n1:paddingTop="16.0dip" n1:paddingRight="16.0dip" n1:paddingBottom="16.0dip" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n2:layout_constraintLeft_toLeftOf="parent" n2:layout_constraintRight_toRightOf="parent" n2:layout_constraintTop_toTopOf="parent" xmlns:n2="http://schemas.android.com/apk/res-auto">
+        <TextView n1:textSize="16.0sp" n1:id="@id/score_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="4.0dip" />
+        <ProgressBar n1:layout_gravity="center_vertical" n1:id="@id/progress_bar" n1:paddingLeft="16.0dip" n1:paddingRight="16.0dip" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_weight="1.0" style="?android:progressBarStyleHorizontal" />
+        <TextView n1:textSize="16.0sp" n1:id="@id/record_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="4.0dip" />
+    </LinearLayout>
+    <LinearLayout n1:orientation="horizontal" n1:id="@id/remember_number_card_layout" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="32.0dip" n1:layout_marginBottom="32.0dip" n3:layout_constraintLeft_toLeftOf="parent" n3:layout_constraintRight_toRightOf="parent" n3:layout_constraintTop_toBottomOf="@id/remember_number_statistics_layout" xmlns:n3="http://schemas.android.com/apk/res-auto" />
+    <GridLayout n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:columnCount="3" n4:layout_constraintBottom_toBottomOf="parent" n4:layout_constraintLeft_toLeftOf="parent" n4:layout_constraintRight_toRightOf="parent" n4:layout_constraintTop_toBottomOf="@id/remember_number_card_layout" n4:layout_constraintVertical_bias="0.6" xmlns:n4="http://schemas.android.com/apk/res-auto">
+        <Button n1:theme="@style/RememberNumberButtonStyle" n1:id="@id/remember_number_button_1" n1:layout_width="@dimen/remember_number_button_width" n1:text="1" />
+        <Button n1:theme="@style/RememberNumberButtonStyle" n1:id="@id/remember_number_button_2" n1:layout_width="@dimen/remember_number_button_width" n1:text="2" />
+        <Button n1:theme="@style/RememberNumberButtonStyle" n1:id="@id/remember_number_button_3" n1:layout_width="@dimen/remember_number_button_width" n1:text="3" />
+        <Button n1:theme="@style/RememberNumberButtonStyle" n1:id="@id/remember_number_button_4" n1:layout_width="@dimen/remember_number_button_width" n1:text="4" />
+        <Button n1:theme="@style/RememberNumberButtonStyle" n1:id="@id/remember_number_button_5" n1:layout_width="@dimen/remember_number_button_width" n1:text="5" />
+        <Button n1:theme="@style/RememberNumberButtonStyle" n1:id="@id/remember_number_button_6" n1:layout_width="@dimen/remember_number_button_width" n1:text="6" />
+        <Button n1:theme="@style/RememberNumberButtonStyle" n1:id="@id/remember_number_button_7" n1:layout_width="@dimen/remember_number_button_width" n1:text="7" />
+        <Button n1:theme="@style/RememberNumberButtonStyle" n1:id="@id/remember_number_button_8" n1:layout_width="@dimen/remember_number_button_width" n1:text="8" />
+        <Button n1:theme="@style/RememberNumberButtonStyle" n1:id="@id/remember_number_button_9" n1:layout_width="@dimen/remember_number_button_width" n1:text="9" />
+        <Button n1:theme="@style/RememberNumberButtonStyle" n1:layout_gravity="fill" n1:id="@id/remember_number_button_0" n1:text="0" n1:layout_columnSpan="2" />
+        <ImageButton n1:theme="@style/RememberNumberButtonStyle" n1:layout_gravity="fill" n1:id="@id/remember_number_button_backspace" n1:layout_width="@dimen/remember_number_button_width" n1:src="@drawable/remember_number_backspace" />
+    </GridLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen>
+    <android.support.v7.preference.SwitchPreferenceCompat n1:title="@string/schulte_table_settings_fullscreen_title" n1:key="@string/schulte_table_settings_fullscreen_preference_key" n1:summary="@string/schulte_table_settings_fullscreen_summary" n1:defaultValue="false"
+      xmlns:n1="http://schemas.android.com/apk/res/android" />
+    <android.support.v7.preference.ListPreference n2:entries="@array/schulte_table_settings_row_count_entries" n2:title="@string/schulte_table_settings_row_count_title" n2:key="@string/schulte_table_settings_row_count_preference_key" n2:summary="@string/schulte_table_settings_row_count_summary" n2:defaultValue="@string/schulte_table_settings_row_count_preference_default_value" n2:entryValues="@array/schulte_table_settings_row_count_entries"
+      xmlns:n2="http://schemas.android.com/apk/res/android" />
+    <android.support.v7.preference.ListPreference n3:entries="@array/schulte_table_settings_column_count_entries" n3:title="@string/schulte_table_settings_column_count_title" n3:key="@string/schulte_table_settings_column_count_preference_key" n3:summary="@string/schulte_table_settings_column_count_summary" n3:defaultValue="@string/schulte_table_settings_column_count_preference_default_value" n3:entryValues="@array/schulte_table_settings_column_count_entries"
+      xmlns:n3="http://schemas.android.com/apk/res/android" />
+</android.support.v7.preference.PreferenceScreen>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item n1:icon="@drawable/action_bar_restart_icon" n1:id="@id/restart" n1:title="@string/restart" n2:showAsAction="always"
+      xmlns:n1="http://schemas.android.com/apk/res/android" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+    <item n3:icon="@drawable/action_bar_help_icon" n3:id="@id/help" n3:title="@string/help" n4:showAsAction="always"
+      xmlns:n3="http://schemas.android.com/apk/res/android" xmlns:n4="http://schemas.android.com/apk/res-auto" />
+    <item n5:icon="@drawable/action_bar_settings_icon" n5:id="@id/settings" n5:title="@string/settings" n6:showAsAction="always"
+      xmlns:n5="http://schemas.android.com/apk/res/android" xmlns:n6="http://schemas.android.com/apk/res-auto" />
+</menu>

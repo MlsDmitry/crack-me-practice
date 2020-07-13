@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="horizontal" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_weight="1.0">
+        <TextView n1:id="@id/textView" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="8.0dip" n1:text="@string/count" n2:layout_constraintEnd_toEndOf="parent" n2:layout_constraintStart_toStartOf="parent" n2:layout_constraintTop_toTopOf="parent" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+        <NumberPicker n1:id="@id/cirlesCount" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="8.0dip" n1:ems="10" n1:inputType="number" n3:layout_constraintEnd_toEndOf="parent" n3:layout_constraintHorizontal_bias="0.503" n3:layout_constraintStart_toStartOf="parent" n3:layout_constraintTop_toBottomOf="@id/textView" xmlns:n3="http://schemas.android.com/apk/res-auto" />
+    </LinearLayout>
+    <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_weight="1.0">
+        <TextView n1:id="@id/textView2" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="8.0dip" n1:text="@string/size" />
+        <NumberPicker n1:id="@id/cirlesRadius" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="8.0dip" n1:ems="10" n1:inputType="number" />
+    </LinearLayout>
+    <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_weight="1.0">
+        <TextView n1:id="@id/textView3" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="8.0dip" n1:text="@string/speed" />
+        <NumberPicker n1:id="@id/circlesSpeed" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginTop="8.0dip" n1:ems="10" n1:inputType="number" />
+    </LinearLayout>
+</LinearLayout>

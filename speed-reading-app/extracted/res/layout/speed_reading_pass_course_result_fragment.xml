@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="0.0dip" n1:layout_weight="1.0">
+        <TextView n1:textSize="20.0sp" n1:textColor="?android:textColorSecondary" n1:gravity="center" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/speed_reading_result_max_speed" />
+        <TextView n1:textSize="26.0sp" n1:textColor="?android:textColorPrimary" n1:id="@id/max_speed_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:drawableRight="@drawable/result_new_best_small" n1:drawablePadding="8.0dip" n1:drawableEnd="@drawable/result_new_best_small" />
+        <TextView n1:textSize="16.0sp" n1:id="@id/pass_course_score_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginBottom="8.0dip" n1:drawableRight="@drawable/pass_course_star_icon" n1:drawablePadding="8.0dip" n1:drawableEnd="@drawable/pass_course_star_icon" n2:layout_constraintLeft_toLeftOf="@id/time_text_view" n2:layout_constraintTop_toBottomOf="@id/time_text_view" xmlns:n2="http://schemas.android.com/apk/res-auto" />
+        <TextView n1:textSize="20.0sp" n1:textColor="?android:textColorSecondary" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/speed_reading_result_best_max_speed" />
+        <TextView n1:textSize="26.0sp" n1:textColor="?android:textColorPrimary" n1:id="@id/best_max_speed_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout n1:gravity="center" n1:orientation="vertical" n1:layout_width="fill_parent" n1:layout_height="0.0dip" n1:layout_weight="1.0">
+        <TextView n1:textSize="20.0sp" n1:textColor="?android:textColorSecondary" n1:gravity="center" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/speed_reading_result_average_speed" />
+        <TextView n1:textSize="26.0sp" n1:textColor="?android:textColorPrimary" n1:id="@id/average_speed_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:drawableRight="@drawable/result_new_best_small" n1:drawablePadding="8.0dip" n1:drawableEnd="@drawable/result_new_best_small" />
+        <TextView n1:textSize="20.0sp" n1:textColor="?android:textColorSecondary" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/speed_reading_result_best_average_speed" />
+        <TextView n1:textSize="26.0sp" n1:textColor="?android:textColorPrimary" n1:id="@id/best_average_speed_text_view" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+    </LinearLayout>
+    <Button n1:theme="@style/AccentButtonStyle" n1:textColor="@color/white" n1:layout_gravity="center" n1:id="@id/next_button" n1:layout_width="150.0dip" n1:layout_height="wrap_content" n1:layout_marginBottom="32.0dip" n1:text="@string/pass_course_next" />
+</LinearLayout>
